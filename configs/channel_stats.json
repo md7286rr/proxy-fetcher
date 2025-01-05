@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-05T19:02:17.625570",
+  "timestamp": "2025-01-05T20:08:34.384936",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
@@ -8,11 +8,11 @@
         "total_configs": 20,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 0.41,
+        "avg_response_time": 0.48,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 86.89,
-        "last_success": "2025-01-05T19:00:56.037088"
+        "overall_score": 86.78,
+        "last_success": "2025-01-05T20:07:13.430325"
       }
     },
     {
@@ -106,18 +106,18 @@
         "total_configs": 18,
         "valid_configs": 14,
         "unique_configs": 14,
-        "avg_response_time": 0.42,
+        "avg_response_time": 0.37,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.81,
-        "last_success": "2025-01-05T19:02:05.933736"
+        "overall_score": 93.88,
+        "last_success": "2025-01-05T20:08:22.648755"
       }
     },
     {
       "url": "https://t.me/s/VlessConfig",
       "enabled": false,
       "metrics": {
-        "total_configs": 54,
+        "total_configs": 51,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -134,11 +134,11 @@
         "total_configs": 16,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.41,
+        "avg_response_time": 0.36,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 97.82,
-        "last_success": "2025-01-05T19:02:17.623809"
+        "overall_score": 97.89,
+        "last_success": "2025-01-05T20:08:34.383265"
       }
     }
   ]
