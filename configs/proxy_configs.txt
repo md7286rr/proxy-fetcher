@@ -18,8 +18,6 @@ trojan://telegram-id-privatevpns@18.193.113.18:22222?security=tls&sni=trj.rollin
 
 trojan://telegram-id-privatevpns@18.203.118.212:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#https://t.me/ShadowsocksM
 
-trojan://telegram-id-privatevpns@3.125.245.167:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇩🇪t.me/PrivateVPNs Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
 trojan://telegram-id-privatevpns@3.250.123.154:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#https://t.me/ShadowsocksM
 
 trojan://telegram-id-privatevpns@3.68.167.147:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#https://t.me/ShadowsocksM Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
@@ -35,6 +33,8 @@ trojan://user@s1.mynameismahsa.info:2053?security=tls&sni=s1.mynameismahsa.info&
 trojan://user@s2.mynameismahsa.info:2053?security=tls&sni=s2.mynameismahsa.info&type=ws&path=/#https://t.me/ShadowsocksM
 
 trojan://user@s3.mynameismahsa.info:2053?security=tls&sni=s3.mynameismahsa.info&type=ws&path=/#https://t.me/ShadowsocksM
+
+trojan://user@s4.mynameismahsa.info:2053?security=tls&sni=s4.mynameismahsa.info&type=ws&path=/#https://t.me/ShadowsocksM
 
 vless://0af03b20-981a-4e9a-8c35-f9014f81e84c@tls.zeoaeriedo-saioesrio.ir:2000?security=&type=grpc&serviceName=/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray&encryption=none#https://t.me/ShadowsocksM
 
