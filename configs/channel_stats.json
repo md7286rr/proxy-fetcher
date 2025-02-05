@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-02-05T17:05:17.232193",
+  "timestamp": "2025-02-05T18:11:21.593730",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
-        "total_configs": 42,
-        "valid_configs": 32,
-        "unique_configs": 32,
-        "avg_response_time": 0.41,
+        "total_configs": 33,
+        "valid_configs": 24,
+        "unique_configs": 24,
+        "avg_response_time": 0.46,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.44,
-        "last_success": "2025-02-05T17:03:57.327004"
+        "overall_score": 92.5,
+        "last_success": "2025-02-05T18:10:01.540293"
       }
     },
     {
@@ -33,8 +33,8 @@
       "url": "https://t.me/s/ZibaNabz",
       "enabled": true,
       "metrics": {
-        "total_configs": 192,
-        "valid_configs": 2,
+        "total_configs": 180,
+        "valid_configs": 48,
         "unique_configs": 2,
         "avg_response_time": 0,
         "success_count": 0,
@@ -48,8 +48,8 @@
       "enabled": true,
       "metrics": {
         "total_configs": 24,
-        "valid_configs": 6,
-        "unique_configs": 2,
+        "valid_configs": 9,
+        "unique_configs": 3,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -109,8 +109,8 @@
         "avg_response_time": 0.36,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.74,
-        "last_success": "2025-02-05T17:05:05.563534"
+        "overall_score": 89.73,
+        "last_success": "2025-02-05T18:11:09.951659"
       }
     },
     {
@@ -134,11 +134,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.42,
+        "avg_response_time": 0.39,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.2,
-        "last_success": "2025-02-05T17:05:17.230392"
+        "overall_score": 95.24,
+        "last_success": "2025-02-05T18:11:21.592016"
       }
     }
   ]
