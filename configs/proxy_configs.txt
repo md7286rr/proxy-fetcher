@@ -8,6 +8,8 @@ trojan://telegram-id-privatevpns@15.188.162.21:22222?security=tls&alpn=http/1.1&
 
 trojan://telegram-id-privatevpns@15.237.103.249:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S115)🇨🇵t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
+trojan://telegram-id-privatevpns@18.158.36.119:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇩🇪t.me/PrivateVPNs Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
 trojan://telegram-id-privatevpns@18.185.223.89:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇩🇪t.me/PrivateVPNs Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 trojan://telegram-id-privatevpns@3.11.136.237:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
@@ -17,8 +19,6 @@ trojan://telegram-id-privatevpns@3.68.167.147:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@3.71.206.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S970)🇩🇪t.me/vmess_iran Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 trojan://telegram-id-privatevpns@3.73.204.4:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
-
-trojan://telegram-id-privatevpns@35.159.100.34:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@35.178.216.126:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S117)🇬🇧t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
@@ -46,9 +46,11 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@zula.ir:80?encryption=none&security
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.108:8880/?type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20FI%204 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-vmess://ewogICAgImFkZCI6ICJtb2RzLWRlc3RydWN0aW9uLWFjYWRlbXktZ2Vhci50cnljbG91ZGZsYXJlLmNvbSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIm1vZHMtZGVzdHJ1Y3Rpb24tYWNhZGVteS1nZWFyLnRyeWNsb3VkZmxhcmUuY29tIiwKICAgICJpZCI6ICJmZmZmZmZmZi1mZmZmLWZmZmYtZmZmZi1mZmZmZmZmZmZmZmYiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMTYuMjMwLjEzMi0xMTc3IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAiUkVMQVktMTA0LjE2LjIzMS4xMzItNjIzNyB8IDEuMDc3TUIiCn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon25
+vmess://ewogICAgImFkZCI6ICIxMDQuMjEuMTYuMTAwIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAicXVyYW50di5pcmlicXVyYW4uY29tIiwKICAgICJpZCI6ICJlYjgxNzE2OC01ZjgzLTRmYmEtYWY5OS04ODFlYzBlNTQ3YjEiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMjA1MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjIxLjE2LjEwMC0wMzgyIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon25
 
-vmess://eyJhZGQiOiAiMzcuMjcuMjUyLjE5MSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiOTA2NjE2MzEtY2EyNy00ZWE0LWJjNzMtNDYxYzA2ODBlOTIwIiwgIm5ldCI6ICJncnBjIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjA1MyIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tR1JQQy1OQSBcdWQ4M2NcdWRkZWJcdWQ4M2NcdWRkZWUgRkktMzcuMjcuMjUyLjE5MToyMDUzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogImd1biIsICJ2IjogIjIifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon26
+vmess://ewogICAgImFkZCI6ICJtb2RzLWRlc3RydWN0aW9uLWFjYWRlbXktZ2Vhci50cnljbG91ZGZsYXJlLmNvbSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIm1vZHMtZGVzdHJ1Y3Rpb24tYWNhZGVteS1nZWFyLnRyeWNsb3VkZmxhcmUuY29tIiwKICAgICJpZCI6ICJmZmZmZmZmZi1mZmZmLWZmZmYtZmZmZi1mZmZmZmZmZmZmZmYiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMTYuMjMwLjEzMi0xMTc3IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAiUkVMQVktMTA0LjE2LjIzMS4xMzItNjIzNyB8IDEuMDc3TUIiCn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon26
+
+vmess://eyJhZGQiOiAiMzcuMjcuMjUyLjE5MSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiOTA2NjE2MzEtY2EyNy00ZWE0LWJjNzMtNDYxYzA2ODBlOTIwIiwgIm5ldCI6ICJncnBjIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjA1MyIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tR1JQQy1OQSBcdWQ4M2NcdWRkZWJcdWQ4M2NcdWRkZWUgRkktMzcuMjcuMjUyLjE5MToyMDUzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogImd1biIsICJ2IjogIjIifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon27
 
 wireguard://%2BGSbZi0NnpK3sBtPmqcvbTLsHWx%2Bcux96ohn6qrF%2BmA%3D@188.114.96.230:908?address=172.16.0.2%2F32&reserved=118%2C40%2C148&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#HELI 2025-02-23 10:01
 
