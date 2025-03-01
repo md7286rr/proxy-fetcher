@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-03-01T21:02:51.876415",
+  "timestamp": "2025-03-01T22:03:33.698727",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
-        "total_configs": 68,
-        "valid_configs": 42,
-        "unique_configs": 42,
-        "avg_response_time": 0.4,
+        "total_configs": 58,
+        "valid_configs": 30,
+        "unique_configs": 30,
+        "avg_response_time": 0.61,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.84,
-        "last_success": "2025-03-01T21:01:32.319480"
+        "overall_score": 87.01,
+        "last_success": "2025-03-01T22:02:20.610672"
       }
     },
     {
@@ -36,11 +36,11 @@
         "total_configs": 25,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 0.55,
+        "avg_response_time": 0.73,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 79.18,
-        "last_success": "2025-03-01T21:01:44.305018"
+        "overall_score": 78.9,
+        "last_success": "2025-03-01T22:02:33.553186"
       }
     },
     {
@@ -101,16 +101,16 @@
     },
     {
       "url": "https://t.me/s/PrivateVPNs",
-      "enabled": false,
+      "enabled": true,
       "metrics": {
-        "total_configs": 54,
-        "valid_configs": 0,
-        "unique_configs": 0,
-        "avg_response_time": 0,
-        "success_count": 0,
-        "fail_count": 1,
-        "overall_score": 15.0,
-        "last_success": null
+        "total_configs": 18,
+        "valid_configs": 11,
+        "unique_configs": 11,
+        "avg_response_time": 0.52,
+        "success_count": 1,
+        "fail_count": 0,
+        "overall_score": 89.49,
+        "last_success": "2025-03-01T22:03:21.374459"
       }
     },
     {
@@ -134,11 +134,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.37,
+        "avg_response_time": 0.53,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.28,
-        "last_success": "2025-03-01T21:02:51.874583"
+        "overall_score": 95.04,
+        "last_success": "2025-03-01T22:03:33.696997"
       }
     }
   ]
