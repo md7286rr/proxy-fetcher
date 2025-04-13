@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-04-13T14:01:50.378602",
+  "timestamp": "2025-04-13T15:07:58.334816",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 14,
-        "unique_configs": 14,
-        "avg_response_time": 1.11,
+        "valid_configs": 13,
+        "unique_configs": 13,
+        "avg_response_time": 1.02,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 90.83,
-        "last_success": "2025-04-13T14:00:35.629637"
+        "overall_score": 89.72,
+        "last_success": "2025-04-13T15:06:44.474725"
       }
     },
     {
@@ -33,14 +33,14 @@
       "url": "https://t.me/s/ZibaNabz",
       "enabled": true,
       "metrics": {
-        "total_configs": 21,
-        "valid_configs": 15,
+        "total_configs": 28,
+        "valid_configs": 20,
         "unique_configs": 5,
-        "avg_response_time": 0.9,
+        "avg_response_time": 0.76,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.83,
-        "last_success": "2025-04-13T14:00:48.726568"
+        "overall_score": 72.97,
+        "last_success": "2025-04-13T15:06:57.219367"
       }
     },
     {
@@ -103,14 +103,14 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 17,
+        "total_configs": 18,
         "valid_configs": 14,
         "unique_configs": 14,
-        "avg_response_time": 0.36,
+        "avg_response_time": 1.05,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.04,
-        "last_success": "2025-04-13T14:01:38.715501"
+        "overall_score": 92.86,
+        "last_success": "2025-04-13T15:07:46.620590"
       }
     },
     {
@@ -138,7 +138,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 97.91,
-        "last_success": "2025-04-13T14:01:50.376793"
+        "last_success": "2025-04-13T15:07:58.332856"
       }
     }
   ]
