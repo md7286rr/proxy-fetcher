@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-04-14T17:21:43.333196",
+  "timestamp": "2025-04-14T18:12:38.380054",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
-      "enabled": false,
+      "enabled": true,
       "metrics": {
-        "total_configs": 0,
-        "valid_configs": 0,
-        "unique_configs": 0,
-        "avg_response_time": 0,
-        "success_count": 0,
-        "fail_count": 1,
-        "overall_score": 15.0,
-        "last_success": null
+        "total_configs": 47,
+        "valid_configs": 29,
+        "unique_configs": 29,
+        "avg_response_time": 0.86,
+        "success_count": 1,
+        "fail_count": 0,
+        "overall_score": 89.13,
+        "last_success": "2025-04-14T18:11:09.797485"
       }
     },
     {
@@ -33,7 +33,7 @@
       "url": "https://t.me/s/ZibaNabz",
       "enabled": false,
       "metrics": {
-        "total_configs": 0,
+        "total_configs": 63,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -101,23 +101,23 @@
     },
     {
       "url": "https://t.me/s/PrivateVPNs",
-      "enabled": false,
+      "enabled": true,
       "metrics": {
-        "total_configs": 0,
-        "valid_configs": 0,
-        "unique_configs": 0,
-        "avg_response_time": 0,
-        "success_count": 0,
-        "fail_count": 1,
-        "overall_score": 15.0,
-        "last_success": null
+        "total_configs": 19,
+        "valid_configs": 12,
+        "unique_configs": 12,
+        "avg_response_time": 1.33,
+        "success_count": 1,
+        "fail_count": 0,
+        "overall_score": 88.8,
+        "last_success": "2025-04-14T18:12:25.950653"
       }
     },
     {
       "url": "https://t.me/s/VlessConfig",
       "enabled": false,
       "metrics": {
-        "total_configs": 0,
+        "total_configs": 57,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -129,16 +129,16 @@
     },
     {
       "url": "https://t.me/s/freewireguard",
-      "enabled": false,
+      "enabled": true,
       "metrics": {
-        "total_configs": 0,
-        "valid_configs": 0,
-        "unique_configs": 0,
-        "avg_response_time": 0,
-        "success_count": 0,
-        "fail_count": 1,
-        "overall_score": 15.0,
-        "last_success": null
+        "total_configs": 15,
+        "valid_configs": 15,
+        "unique_configs": 15,
+        "avg_response_time": 0.44,
+        "success_count": 1,
+        "fail_count": 0,
+        "overall_score": 99.34,
+        "last_success": "2025-04-14T18:12:38.378184"
       }
     }
   ]
