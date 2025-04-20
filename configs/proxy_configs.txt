@@ -12,6 +12,8 @@ trojan://telegram-id-directvpn@51.44.135.233:22222?security=tls&alpn=http/1.1&he
 
 trojan://telegram-id-directvpn@52.58.28.81:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
+trojan://telegram-id-privatevpns@13.38.159.168:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
 trojan://telegram-id-privatevpns@13.38.222.163:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@15.236.157.86:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
@@ -19,8 +21,6 @@ trojan://telegram-id-privatevpns@15.236.157.86:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@15.237.207.188:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 trojan://telegram-id-privatevpns@18.199.119.229:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
-trojan://telegram-id-privatevpns@3.65.165.166:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 trojan://telegram-id-privatevpns@3.65.165.166:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
@@ -52,17 +52,19 @@ vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2087?path=%2Fnet.net
 
 vless://bf4631cc-27eb-4b8e-ab85-5db1ddab6125@162.55.36.107:577?security=reality&encryption=none&pbk=AU2O1no3apJnMhDrfHwDACAwFDo8-DZkCL66AXSRbh8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=9b28132c703433#Free%2070%20%28%40Outline_Vpn%29
 
+vless://cbb4251b-9b20-4c42-b09d-df77666bda12@95.217.183.108:2087/?type=grpc&encryption=none&sni=www.target.com&fp=chrome&security=reality&pbk=6ezm4CcEWfvptuqvMaweZW5jTaX-M4SdZE2r8JkKsQ0&sid=bc6f0833#%F0%9F%87%AB%F0%9F%87%AE%20FI%201 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNGVPN
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.55:8880?encryption=none&security=none&type=grpc#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
 
 vless://e464526a-e3de-4db9-8821-4e146507976f@5.180.46.9:8880/?type=grpc&encryption=none&serviceName=vless-grpc#%F0%9F%88%93REvil Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-vmess://eyJ0bHMiOiAidGxzIiwgInBhdGgiOiAiL2xpbmt2d3MjVEVMRUdSQU0tTUFSQU1CQVNISV9NQVJBTUJBU0hJP2VkPTUxMiIsICJzY3kiOiAiYXV0byIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tV1MtVExTIFx1ZDgzY1x1ZGRmNVx1ZDgzY1x1ZGRmMSBQTC01Ny4xMjguMTkzLjExNzo0NDMiLCAiYWxwbiI6ICIiLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgInNuaSI6ICJrYXBlbGxlbmcuY29tIiwgImFkZCI6ICI1Ny4xMjguMTkzLjExNyIsICJwb3J0IjogIjQ0MyIsICJob3N0IjogImthcGVsbGVuZy5jb20iLCAibmV0IjogIndzIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon31
+vmess://eyJ0bHMiOiAidGxzIiwgInBhdGgiOiAiL2xpbmt2d3MjVEVMRUdSQU0tTUFSQU1CQVNISV9NQVJBTUJBU0hJP2VkPTUxMiIsICJzY3kiOiAiYXV0byIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tV1MtVExTIFx1ZDgzY1x1ZGRmNVx1ZDgzY1x1ZGRmMSBQTC01Ny4xMjguMTkzLjExNzo0NDMiLCAiYWxwbiI6ICIiLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgInNuaSI6ICJrYXBlbGxlbmcuY29tIiwgImFkZCI6ICI1Ny4xMjguMTkzLjExNyIsICJwb3J0IjogIjQ0MyIsICJob3N0IjogImthcGVsbGVuZy5jb20iLCAibmV0IjogIndzIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon32
 
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMzguMTE0LjExNC4yNDE6NDUyNDUiLCAiYWRkIjogIjM4LjExNC4xMTQuMjQxIiwgInBvcnQiOiAiNDUyNDUiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjQ2OWUwYjMxLTMwYzMtNGRhYi04MDBkLTcxMTIzMjYzNGNlMSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogInllLmZ4bGNuLmNvbSIsICJ0bHMiOiAiIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon32
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMzguMTE0LjExNC4yNDE6NDUyNDUiLCAiYWRkIjogIjM4LjExNC4xMTQuMjQxIiwgInBvcnQiOiAiNDUyNDUiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjQ2OWUwYjMxLTMwYzMtNGRhYi04MDBkLTcxMTIzMjYzNGNlMSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogInllLmZ4bGNuLmNvbSIsICJ0bHMiOiAiIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon33
 
-vmess://eyJhZGQiOiAiNS4xODAuMzAuMTEwIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJiY2Y4NjQ3OS1hYWI0LTQ3Y2YtOWQ2ZS0zNGQzNTNiYWExYTIiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjUxMzUyIiwgInBzIjogIlx1ZDgzZFx1ZGQxMiBWTS1UQ1AtTkEgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVTLTUuMTgwLjMwLjExMDo1MTM1MiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon33
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AgMTJ88J+HrfCfh7Ag6aaZ5rivMnxAcmlwYW9qaWVkaWFuIiwiYWRkIjoiMmE2NDZmYzYtc3YweHMwLXRldnp4by0zZTViLmNtLnBsZWJhaS5uZXQiLCJwb3J0IjoiMTUyMjgiLCJ0eXBlIjoibm9uZSIsImlkIjoiYjcwZjUzMTYtY2M4Ny0xMWVkLWFiMTktZjIzYzkxY2ZiYmM5IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IjJhNjQ2ZmM2LXN2MHhzMC10ZXZ6eG8tM2U1Yi5jbS5wbGViYWkubmV0IiwidGxzIjoiIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon34
 
 wireguard://0Pwd5AFXo5fLbrRAw%2F3vL4h6P1mMxmKno9Cva4K7c00%3D@188.114.96.67:1014?address=172.16.0.2%2F32&reserved=62%2C81%2C41&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#HELI 2025-04-18 18:01
 
