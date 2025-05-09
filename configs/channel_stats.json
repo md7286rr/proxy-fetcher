@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-05-09T19:02:48.385071",
+  "timestamp": "2025-05-09T20:10:22.675922",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
         "total_configs": 24,
-        "valid_configs": 12,
-        "unique_configs": 12,
-        "avg_response_time": 0.48,
+        "valid_configs": 13,
+        "unique_configs": 13,
+        "avg_response_time": 0.54,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 86.78,
-        "last_success": "2025-05-09T19:01:27.552589"
+        "overall_score": 87.73,
+        "last_success": "2025-05-09T20:09:03.296420"
       }
     },
     {
@@ -103,23 +103,23 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 9,
-        "valid_configs": 9,
-        "unique_configs": 9,
-        "avg_response_time": 0.38,
+        "total_configs": 8,
+        "valid_configs": 8,
+        "unique_configs": 8,
+        "avg_response_time": 0.34,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.43,
-        "last_success": "2025-05-09T19:02:36.713385"
+        "overall_score": 99.49,
+        "last_success": "2025-05-09T20:10:11.241496"
       }
     },
     {
       "url": "https://t.me/s/VlessConfig",
       "enabled": true,
       "metrics": {
-        "total_configs": 27,
-        "valid_configs": 12,
-        "unique_configs": 4,
+        "total_configs": 24,
+        "valid_configs": 9,
+        "unique_configs": 3,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -134,11 +134,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.39,
+        "avg_response_time": 0.34,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.25,
-        "last_success": "2025-05-09T19:02:48.383277"
+        "overall_score": 95.33,
+        "last_success": "2025-05-09T20:10:22.674189"
       }
     }
   ]
