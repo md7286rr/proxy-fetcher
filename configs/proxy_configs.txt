@@ -52,6 +52,8 @@ vmess://eyJhZGQiOiAiMzguMTUwLjEyLjE4OCIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEy
 
 vmess://eyJhZGQiOiJlbG1hLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmEzMjYzZTItODkxYy00NDQ2LWI0NzQtYThjNjNhY2I2ZTI1IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcy00NjI5Iiwic2N5IjoiYXV0byIsInNuaSI6IjFmZFNOQTExOTIyODkyOE9wUzJzbVRhQjIyOGFBc0REc2QxZWExMTQ5MjgyNTExOTIuMS1zZW5hdG9yLmluZm8iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon27
 
+wireguard://%2BJyE1e9Kt%2FnAnPm1KLMiEz2fGqKlOLz2O7UXCar2AHU%3D@188.114.96.41:1014?address=172.16.0.2%2F32&reserved=107%2C175%2C250&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#ETSB 2025-05-31 18:02
+
 wireguard://4Mim26Hv2uUv3CQ3vxfNGg5MwXuc9lBn7Z4UuYPW3FA%3D@188.114.96.68:903?address=172.16.0.2%2F32&reserved=29%2C217%2C135&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#ETSB 2025-05-30 18:01
 
 wireguard://6E9itGu54M5CuuB%2B3ufSkqRaxeiMkXJzp900CbzD7Wc%3D@188.114.99.46:903?address=172.16.0.2%2F32&reserved=253%2C42%2C90&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#ETSB 2025-05-29 18:00
@@ -71,8 +73,6 @@ wireguard://MJBeXkA8vTof25TLZcHeZ%2Bda2qUDP7tmc8KGu%2FDd6X8%3D@188.114.96.69:968
 wireguard://OKtggbQ1MyUnJ6zE35iwAHo5CM3rXCQU0KTxKbO1bFY%3D@188.114.97.225:908?address=172.16.0.2%2F32&reserved=207%2C95%2C252&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#ETSB 2025-05-31 10:01
 
 wireguard://YIezD99m4uDdDY3MDuosg5vv8cfIpSTBRxYsmd%2F8E0Y%3D@188.114.97.38:908?address=172.16.0.2%2F32&reserved=189%2C225%2C178&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#ETSB 2025-05-29 10:00
-
-wireguard://aHF7BeXwgrxDavRC5EoMrnHK6y6wQ%2FoiMbOo3XMhbXg%3D@188.114.97.191:908?address=172.16.0.2%2F32&reserved=95%2C8%2C228&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#HELI 2025-05-26 18:00
 
 wireguard://gAGsHyTNEPrd%2B%2B%2BXfi%2BEb1jddKzuqul9x92EMQndzkk%3D@188.114.98.134:928?address=172.16.0.2%2F32&reserved=211%2C12%2C191&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#ETSB 2025-05-30 21:01
 
