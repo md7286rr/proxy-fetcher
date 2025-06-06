@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-06-06T19:08:02.049969",
+  "timestamp": "2025-06-06T20:11:09.354734",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 11,
-        "unique_configs": 11,
-        "avg_response_time": 0.61,
+        "valid_configs": 12,
+        "unique_configs": 12,
+        "avg_response_time": 0.51,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 87.84,
-        "last_success": "2025-06-06T19:06:38.132036"
+        "overall_score": 89.24,
+        "last_success": "2025-06-06T20:09:49.803407"
       }
     },
     {
@@ -33,7 +33,7 @@
       "url": "https://t.me/s/ZibaNabz",
       "enabled": true,
       "metrics": {
-        "total_configs": 108,
+        "total_configs": 105,
         "valid_configs": 30,
         "unique_configs": 2,
         "avg_response_time": 0,
@@ -103,21 +103,21 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 16,
-        "valid_configs": 8,
-        "unique_configs": 8,
-        "avg_response_time": 0.53,
+        "total_configs": 14,
+        "valid_configs": 7,
+        "unique_configs": 7,
+        "avg_response_time": 0.37,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 86.71,
-        "last_success": "2025-06-06T19:07:49.789207"
+        "overall_score": 86.95,
+        "last_success": "2025-06-06T20:10:57.749196"
       }
     },
     {
       "url": "https://t.me/s/VlessConfig",
       "enabled": false,
       "metrics": {
-        "total_configs": 48,
+        "total_configs": 42,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -134,11 +134,11 @@
         "total_configs": 15,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.54,
+        "avg_response_time": 0.34,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.19,
-        "last_success": "2025-06-06T19:08:02.048045"
+        "overall_score": 99.5,
+        "last_success": "2025-06-06T20:11:09.353134"
       }
     }
   ]
