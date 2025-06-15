@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-06-15T13:19:40.845729",
+  "timestamp": "2025-06-15T14:08:00.893205",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 10,
-        "unique_configs": 10,
+        "valid_configs": 12,
+        "unique_configs": 12,
         "avg_response_time": 0.7,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 86.45,
-        "last_success": "2025-06-15T13:18:28.259298"
+        "overall_score": 88.95,
+        "last_success": "2025-06-15T14:06:49.441547"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 12,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.62,
+        "avg_response_time": 0.55,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 86.58,
-        "last_success": "2025-06-15T13:18:52.775724"
+        "overall_score": 86.68,
+        "last_success": "2025-06-15T14:07:13.612339"
       }
     },
     {
@@ -104,13 +104,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 18,
-        "valid_configs": 13,
-        "unique_configs": 13,
-        "avg_response_time": 0.53,
+        "valid_configs": 10,
+        "unique_configs": 10,
+        "avg_response_time": 0.47,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 92.26,
-        "last_success": "2025-06-15T13:19:28.586913"
+        "overall_score": 88.19,
+        "last_success": "2025-06-15T14:07:48.871279"
       }
     },
     {
@@ -134,11 +134,11 @@
         "total_configs": 7,
         "valid_configs": 7,
         "unique_configs": 7,
-        "avg_response_time": 0.52,
+        "avg_response_time": 0.46,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.22,
-        "last_success": "2025-06-15T13:19:40.843894"
+        "overall_score": 99.31,
+        "last_success": "2025-06-15T14:08:00.891476"
       }
     }
   ]
