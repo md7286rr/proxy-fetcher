@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-06-20T12:16:58.469156",
+  "timestamp": "2025-06-20T13:24:18.902906",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 11,
-        "unique_configs": 11,
-        "avg_response_time": 0.59,
+        "valid_configs": 10,
+        "unique_configs": 10,
+        "avg_response_time": 0.41,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 87.87,
-        "last_success": "2025-06-20T12:15:49.053212"
+        "overall_score": 86.89,
+        "last_success": "2025-06-20T13:23:10.683087"
       }
     },
     {
@@ -36,11 +36,11 @@
         "total_configs": 11,
         "valid_configs": 6,
         "unique_configs": 5,
-        "avg_response_time": 0.43,
+        "avg_response_time": 0.39,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 83.82,
-        "last_success": "2025-06-20T12:16:00.974143"
+        "overall_score": 83.89,
+        "last_success": "2025-06-20T13:23:22.374501"
       }
     },
     {
@@ -104,13 +104,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 12,
-        "unique_configs": 12,
-        "avg_response_time": 0.44,
+        "valid_configs": 11,
+        "unique_configs": 11,
+        "avg_response_time": 0.33,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.33,
-        "last_success": "2025-06-20T12:16:46.837791"
+        "overall_score": 88.26,
+        "last_success": "2025-06-20T13:24:07.434494"
       }
     },
     {
@@ -134,11 +134,11 @@
         "total_configs": 12,
         "valid_configs": 12,
         "unique_configs": 12,
-        "avg_response_time": 0.38,
+        "avg_response_time": 0.34,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.44,
-        "last_success": "2025-06-20T12:16:58.467356"
+        "overall_score": 99.49,
+        "last_success": "2025-06-20T13:24:18.901335"
       }
     }
   ]
