@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-06-30T12:16:50.331544",
+  "timestamp": "2025-06-30T13:26:21.140597",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 15,
-        "unique_configs": 15,
-        "avg_response_time": 0.42,
+        "valid_configs": 16,
+        "unique_configs": 16,
+        "avg_response_time": 0.36,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.12,
-        "last_success": "2025-06-30T12:15:41.840459"
+        "overall_score": 94.46,
+        "last_success": "2025-06-30T13:25:12.410709"
       }
     },
     {
@@ -48,13 +48,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 25,
-        "valid_configs": 12,
-        "unique_configs": 12,
-        "avg_response_time": 0.49,
+        "valid_configs": 14,
+        "unique_configs": 13,
+        "avg_response_time": 0.48,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 86.27,
-        "last_success": "2025-06-30T12:16:05.135874"
+        "overall_score": 86.5,
+        "last_success": "2025-06-30T13:25:35.844367"
       }
     },
     {
@@ -104,13 +104,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 7,
-        "unique_configs": 7,
-        "avg_response_time": 0.33,
+        "valid_configs": 8,
+        "unique_configs": 8,
+        "avg_response_time": 0.34,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 83.25,
-        "last_success": "2025-06-30T12:16:38.858683"
+        "overall_score": 84.49,
+        "last_success": "2025-06-30T13:26:09.629426"
       }
     },
     {
@@ -137,8 +137,8 @@
         "avg_response_time": 0.35,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.48,
-        "last_success": "2025-06-30T12:16:50.329672"
+        "overall_score": 99.47,
+        "last_success": "2025-06-30T13:26:21.138833"
       }
     }
   ]
