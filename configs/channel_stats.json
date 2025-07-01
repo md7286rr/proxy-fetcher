@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-07-01T18:13:06.950298",
+  "timestamp": "2025-07-01T19:07:53.052897",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
         "total_configs": 26,
-        "valid_configs": 19,
-        "unique_configs": 19,
-        "avg_response_time": 0.46,
+        "valid_configs": 18,
+        "unique_configs": 18,
+        "avg_response_time": 0.45,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 92.57,
-        "last_success": "2025-07-01T18:11:56.902554"
+        "overall_score": 91.63,
+        "last_success": "2025-07-01T19:06:43.008702"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 16,
         "valid_configs": 8,
         "unique_configs": 7,
-        "avg_response_time": 0.48,
+        "avg_response_time": 0.47,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 83.65,
-        "last_success": "2025-07-01T18:12:20.644452"
+        "overall_score": 83.67,
+        "last_success": "2025-07-01T19:07:06.811500"
       }
     },
     {
@@ -104,13 +104,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 16,
-        "valid_configs": 12,
-        "unique_configs": 12,
+        "valid_configs": 13,
+        "unique_configs": 13,
         "avg_response_time": 0.41,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.14,
-        "last_success": "2025-07-01T18:12:55.156572"
+        "overall_score": 94.69,
+        "last_success": "2025-07-01T19:07:41.268972"
       }
     },
     {
@@ -134,11 +134,11 @@
         "total_configs": 17,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.42,
+        "avg_response_time": 0.41,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.43,
-        "last_success": "2025-07-01T18:13:06.948124"
+        "overall_score": 96.44,
+        "last_success": "2025-07-01T19:07:53.051015"
       }
     }
   ]
