@@ -26,6 +26,8 @@ trojan://telegram-id-privatevpns@3.76.173.190:22222?security=tls&alpn=http/1.1&h
 
 trojan://telegram-id-privatevpns@35.180.220.25:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
+trojan://telegram-id-privatevpns@35.181.146.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
 trojan://telegram-id-privatevpns@35.181.146.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@51.44.138.7:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
@@ -34,15 +36,11 @@ trojan://telegram-id-privatevpns@52.57.71.35:22222?security=tls&alpn=http/1.1&he
 
 trojan://telegram-id-privatevpns@63.178.143.137:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-trojan://telegram-id-privatevpns@63.178.143.137:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.67.49.134:443?encryption=none&security=tls&sni=rc.ylks0033.dpdns.org&type=ws&host=rc.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
 
 vless://172ed5fd-83a6-469e-863c-50e251a6c17d@zula.ir:443?encryption=none&security=tls&sni=rayan-supra.parisa.dpdns.org&type=ws&host=rayan-supra.parisa.dpdns.org&path=%2F%3Fed%3D2560#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
 
 vless://188f1242-b0c0-4992-b480-1da44dae1700@300232332.webnama.com.tr:1517?security=&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F+prx11+%F0%9F%92%96%F0%9F%94%A5%F0%9F%8C%BA Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
-vless://188f1242-b0c0-4992-b480-1da44dae1700@300232332.webnama.com.tr:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 
 vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?encryption=none&security=none&type=ws&host=pari.parinazz.dpdns.org&path=%2F%3Fed%3D2560#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
 
@@ -56,15 +54,13 @@ vless://e26f7c15-5805-4082-aa3c-91553d53cb03@62.60.159.167:443?encryption=none&s
 
 vless://f78ce1bb-0fa6-4ef4-b4c9-b91014a7055d@172.67.67.92:80?encryption=none&security=none&type=ws&host=delam.ahaysiahzangi.dpdns.org&path=%2F%3Fed%3D2560#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
 
-vmess://ewogICAgImFkZCI6ICIxMDcuMTQ4LjYuNjciLAogICAgImFpZCI6IDY0LAogICAgImhvc3QiOiAid3d3LjUzODY1NzM0Lnh5eiIsCiAgICAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3BhdGgvMTcwNzMzMTMyMjMzIiwKICAgICJwb3J0IjogMzAwMDEsCiAgICAicHMiOiAi8J+Hr/Cfh7VKUC0xMDcuMTQ4LjYuNjctMDE4NiIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogInd3dy41Mzg2NTczNC54eXoiCn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon30
+vmess://ewogICAgImFkZCI6ICIxMDcuMTQ4LjYuNjciLAogICAgImFpZCI6IDY0LAogICAgImhvc3QiOiAid3d3LjUzODY1NzM0Lnh5eiIsCiAgICAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3BhdGgvMTcwNzMzMTMyMjMzIiwKICAgICJwb3J0IjogMzAwMDEsCiAgICAicHMiOiAi8J+Hr/Cfh7VKUC0xMDcuMTQ4LjYuNjctMDE4NiIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogInd3dy41Mzg2NTczNC54eXoiCn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon29
 
-vmess://eyJ2IjoiMiIsInBzIjoi77iPX+acquefpSIsImFkZCI6ImhhYS5kYXNodWFpLmN5b3UiLCJwb3J0IjoiNDUwNTIiLCJ0eXBlIjoibm9uZSIsImlkIjoiZTlhOTg3MzctM2RmOS00YmMzLWEzMGMtNzdjOTc4YjA3MWUyIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6ImhhYS5kYXNodWFpLmN5b3UiLCJ0bHMiOiIifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon31
+vmess://eyJ2IjoiMiIsInBzIjoi77iPX+acquefpSIsImFkZCI6ImhhYS5kYXNodWFpLmN5b3UiLCJwb3J0IjoiNDUwNTIiLCJ0eXBlIjoibm9uZSIsImlkIjoiZTlhOTg3MzctM2RmOS00YmMzLWEzMGMtNzdjOTc4YjA3MWUyIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6ImhhYS5kYXNodWFpLmN5b3UiLCJ0bHMiOiIifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon30
 
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9IENsb3VkRmxhcmXoioLngrkiLCJhZGQiOiJzMS5jbi1kYi50b3AiLCJwb3J0IjoiODg4MCIsInR5cGUiOiJub25lIiwiaWQiOiIwNTg4MWQ0My1lOWRhLTNkNjUtOGNiZS1mYjA0NTliNzg1NTciLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2RhYmFpLmluMTcyLjY0LjM0LjE4MCIsImhvc3QiOiIxMDAtMjUzLTgyLTE2Ni5zMS5jbi1kYi50b3AiLCJ0bHMiOiIifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon32
+vmess://eyJhZGQiOiIxOTkuMzQuMjMwLjE3NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiUTQuMTlrQUxhLmNvIiwiaWQiOiJjaGFubmVsLWZyZWV3aXJlZ3VhcmQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IkBmcmVld2lyZWd1YXJkIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9#Anon31
 
-vmess://eyJhZGQiOiIxOTkuMzQuMjMwLjE3NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiUTQuMTlrQUxhLmNvIiwiaWQiOiJjaGFubmVsLWZyZWV3aXJlZ3VhcmQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IkBmcmVld2lyZWd1YXJkIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9#Anon33
-
-vmess://eyJhZGQiOiIxOTkuMzQuMjMwLjE3NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiUTQuMTlrQWxBLmNvIiwiaWQiOiJ0ZWxlZ3JhbS1jaGFubmVsLWZyZWV3aXJlZ3VhcmQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJAZnJlZXdpcmVndWFyZCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==#Anon34
+vmess://eyJhZGQiOiIxOTkuMzQuMjMwLjE3NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiUTQuMTlrQWxBLmNvIiwiaWQiOiJ0ZWxlZ3JhbS1jaGFubmVsLWZyZWV3aXJlZ3VhcmQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJAZnJlZXdpcmVndWFyZCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==#Anon32
 
 wireguard://%2BIg7cX6E1IJs%2BQtaSuagVmpcnpwzSQvS7lFhL%2FLGz0g%3D@188.114.99.77:955?address=172.16.0.2%2F32&reserved=2%2C101%2C205&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-07-03 21:02
 
