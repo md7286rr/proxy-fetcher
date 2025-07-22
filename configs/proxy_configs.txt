@@ -44,11 +44,9 @@ vless://16e97003-110a-423b-fe25-0dc26485939e@37.27.255.136:8880?security=&type=g
 
 vless://35f591c6-0932-4c68-a831-4fe6ecf00b85@170.64.171.83:36402?security=&type=tcp&encryption=none#@awlix_ir
 
+vless://53e30ee0-2552-4078-a7f8-6fb03d721ce9@62.212.79.51:18302?security=&encryption=none&headerType=&type=tcp#%40Gp_Config%20%F0%9F%9A%80%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7
+
 vless://71168f32-84d8-4061-b865-dfe7f685ad38@Hi.somo44.sbs:8880?path=%2Fbhvcgvvc&security=none&encryption=none&host=Hoo.somo44.sbs&type=ws#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree-MTN
-
-vless://7f42d502-d3dc-4c0e-a0b6-da5a69dc9e97@63.250.61.157:443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&type=xhttp#%D8%A8%DB%8C%D8%A7%20%D8%B1%D8%A8%D8%A7%D8%AA%20%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%A8%DA%AF%DB%8C%D8%B1%20%D8%A7%DA%AF%D8%B1%20%D8%A7%DB%8C%D9%86%20%D9%82%D8%B7%D8%B9%D9%87%F0%9F%9A%80%20%40Alphanet_shop_bot
-
-vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.178.171:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%D8%A8%DB%8C%D8%A7%20%D8%B1%D8%A8%D8%A7%D8%AA%20%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%A8%DA%AF%DB%8C%D8%B1%20%D8%A7%DA%AF%D8%B1%20%D8%A7%DB%8C%D9%86%20%D9%82%D8%B7%D8%B9%D9%87%F0%9F%9A%80%20%40Alphanet_shop_bot
 
 vless://92c7897a-6494-4719-aefd-aea8280314ce@vip1.proxystore11.news:10358?security=reality&encryption=none&pbk=axD7U8DCmchSVZemN_DTRYdnNZ141CxTSkTabDdzNEk&headerType=&fp=chrome&spx=%2F&type=tcp&sni=zula.ir&sid=b373044d#PRX11-REALITY-TCP-36m45tmf Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
@@ -56,11 +54,13 @@ vless://9516661c-7433-4959-b40c-ec77ff36625a@Hh.somo44.sbs:8080?path=%2Fhhvghhv&
 
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.18.29.253:443?encryption=none&security=tls&sni=kawaiifreevpn-7ds.pages.dev&fp=random&type=ws&host=kawaiifreevpn-7ds.pages.dev&path=%2F%3Fed%3D2560#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
 
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.183.30:8443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&type=xhttp#%D8%A8%DB%8C%D8%A7%20%D8%B1%D8%A8%D8%A7%D8%AA%20%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%A8%DA%AF%DB%8C%D8%B1%20%D8%A7%DA%AF%D8%B1%20%D8%A7%DB%8C%D9%86%20%D9%82%D8%B7%D8%B9%D9%87%F0%9F%9A%80%20%40Alphanet_shop_bot
+vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.98.90:8443?mode=auto&path=%2Fxhttp&security=&encryption=none&type=xhttp#%40Gp_Config%20%F0%9F%9A%80%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7
 
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@162.159.129.67:8443?encryption=none&security=tls&sni=azadnet1-706.pages.dev&fp=randomized&type=ws&host=azadnet1-706.pages.dev&path=%2Fazadnet1-706.pages.dev%2F%3Fed%3D2560%26PROT_TYPE%3Dvless#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.191.215:8880?security=&type=grpc&encryption=none#@awlix_ir
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?security=&encryption=none&type=grpc#%40Gp_Config%20%F0%9F%9A%80%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.161:8880?security=&sni=pqh34v7.bloger34art.shop&type=grpc&encryption=none#@awlix_ir
 
@@ -96,7 +96,7 @@ wireguard://SEuBwkfzyhDhV3YjAXNcr0pD6P39kg1tgshkjEtb80U%3D@188.114.96.149:955?ad
 
 wireguard://WNl7kLWbTFt68YzyI6vDBf%2BZ8tXiZYkrnx7e6hQNFn4%3D@188.114.99.32:955?address=172.16.0.2%2F32&reserved=197%2C32%2C56&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-07-18 21:04
 
-wireguard://YNkGd%2F2cOmnb5abaYymILzQNvB2mZEqhHReI8nhnjXY%3D@188.114.97.203:928?address=172.16.0.2%2F32&reserved=205%2C44%2C134&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-07-16 10:03
+wireguard://eCssW84bxVBEg9AlFLr5PkO82kh07RsErUEbGdAcGWs%3D@188.114.97.20:880?address=172.16.0.2%2F32&reserved=51%2C145%2C223&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-07-21 10:00
 
 wireguard://eEbbE1ZjQ%2FUjsZWEHsG7Yz8%2FA%2BiQUrXHQz75Ub5Tj2Y%3D@188.114.96.146:987?address=172.16.0.2%2F32&reserved=83%2C84%2C97&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-07-16 21:03
 
