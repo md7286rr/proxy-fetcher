@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-29T08:14:23.631316",
+  "timestamp": "2025-07-29T09:15:48.736488",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
@@ -8,11 +8,11 @@
         "total_configs": 27,
         "valid_configs": 14,
         "unique_configs": 14,
-        "avg_response_time": 0.38,
+        "avg_response_time": 0.54,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 87.4,
-        "last_success": "2025-07-29T08:13:12.839950"
+        "overall_score": 87.15,
+        "last_success": "2025-07-29T09:14:36.906567"
       }
     },
     {
@@ -61,14 +61,14 @@
       "url": "https://t.me/s/v2rayngvpn",
       "enabled": true,
       "metrics": {
-        "total_configs": 82,
-        "valid_configs": 17,
-        "unique_configs": 17,
-        "avg_response_time": 0.49,
+        "total_configs": 71,
+        "valid_configs": 20,
+        "unique_configs": 19,
+        "avg_response_time": 0.52,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 79.44,
-        "last_success": "2025-07-29T08:13:48.558436"
+        "overall_score": 80.02,
+        "last_success": "2025-07-29T09:15:13.285809"
       }
     },
     {
@@ -106,11 +106,11 @@
         "total_configs": 14,
         "valid_configs": 12,
         "unique_configs": 12,
-        "avg_response_time": 0.38,
+        "avg_response_time": 0.39,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.85,
-        "last_success": "2025-07-29T08:14:11.961201"
+        "overall_score": 95.84,
+        "last_success": "2025-07-29T09:15:37.043927"
       }
     },
     {
@@ -134,11 +134,11 @@
         "total_configs": 19,
         "valid_configs": 14,
         "unique_configs": 14,
-        "avg_response_time": 0.35,
+        "avg_response_time": 0.36,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 92.9,
-        "last_success": "2025-07-29T08:14:23.629090"
+        "overall_score": 92.88,
+        "last_success": "2025-07-29T09:15:48.733608"
       }
     }
   ]
