@@ -12,11 +12,7 @@ trojan://telegram-id-directvpn@51.44.136.221:22223?security=tls&alpn=http/1.1&he
 
 trojan://telegram-id-privatevpns@13.38.178.153:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@13.39.117.250:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
 trojan://telegram-id-privatevpns@13.39.42.248:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
-trojan://telegram-id-privatevpns@13.39.42.248:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@15.236.33.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
@@ -30,9 +26,13 @@ trojan://telegram-id-privatevpns@3.127.195.226:22222?security=tls&alpn=http/1.1&
 
 trojan://telegram-id-privatevpns@51.44.136.221:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
+trojan://telegram-id-privatevpns@51.44.31.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+
+trojan://telegram-id-privatevpns@52.28.184.137:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+
 trojan://telegram-id-privatevpns@52.28.190.90:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@63.178.77.69:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+trojan://telegram-id-privatevpns@52.47.195.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@63.179.45.126:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
@@ -43,6 +43,8 @@ vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server18477021984150715.tas-bazi.co
 vless://170ba974-6ae5-44ae-dfdc-4675b5643f34@79.137.33.139:16390?security=none&encryption=none&headerType=none&type=tcp#S581-200102 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://24d0e335-659e-45c7-8e61-0bd899c1d510@62.60.178.200:40792?security=reality&encryption=none&pbk=I2gX0RY5PEXPm6shWotiQ5bVwoBs4cmGV_sQUryQ63w&host=%2FJKVPN_BIA_CHANEL%40JKVPN&headerType=none&fp=chrome&spx=%2FJKVPN_BIA_CHANEL%40JKVPN&type=tcp&sni=www.latimes.com&sid=5a#%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%20%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF%2099%D8%AA%20%3D%C2%BB%20SabznetVPN%40
+
+vless://24d0e335-659e-45c7-8e61-0bd899c1d510@62.60.178.200:40792?security=reality&encryption=none&pbk=I2gX0RY5PEXPm6shWotiQ5bVwoBs4cmGV_sQUryQ63w&host=%2FJKVPN_BIA_CHANEL%40JKVPN&headerType=none&fp=chrome&spx=%2FJKVPN_BIA_CHANEL%40JKVPN&type=tcp&sni=www.latimes.com&sid=5a#%F0%9F%87%A9%F0%9F%87%AA%40JKVPN%20%F0%9F%91%88%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%DB%8C
 
 vless://35b5783e-cde8-4a3f-82c6-0778f32a6e5e@62.60.178.200:20322?security=reality&encryption=none&pbk=-3D1yyc2r7xOKDJ_nvn5x5Ij7tWYxKTpQmKiukGG7B4&host=%2FJKVPN_BIA_CHANEL%40JKVPN&headerType=none&fp=chrome&spx=%2FJKVPN_BIA_CHANEL%40JKVPN&type=tcp&sni=www.latimes.com&sid=4d#%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%20%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF%2099%D8%AA%20%3D%C2%BB%20SabznetVPN%40
 
@@ -61,8 +63,6 @@ vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@web.xhamster.biz.id:443?path=%2FFre
 vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.186.0:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%20%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF%2099%D8%AA%20%3D%C2%BB%20SabznetVPN%40
 
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@162.159.129.67:8443?encryption=none&security=tls&sni=azadnet1-706.pages.dev&fp=randomized&type=ws&host=azadnet1-706.pages.dev&path=%2Fazadnet1-706.pages.dev%2F%3Fed%3D2560%26PROT_TYPE%3Dvless#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
-
-vless://e66beedb-dd44-47f0-baf8-7ba947d919d0@91.99.85.185:8443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&type=xhttp#%40V2rayNGVPN
 
 vless://eb1d7b6b-b639-4de6-bec5-f99ab30e5f8e@192.109.200.88:443?security=reality&encryption=none&pbk=KxuN6IHvbKNp0sqqCMM9kk5SmJ1bKFpivyX4K2G97hc&host=%2FJKVPN_BIA_CHANEL%40JKVPN&headerType=none&fp=chrome&spx=%2FJKVPN_BIA_CHANEL%40JKVPN&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=09#%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%20%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF%2099%D8%AA%20%3D%C2%BB%20SabznetVPN%40
 
@@ -85,8 +85,6 @@ wireguard://KNuue7bdQ7HIa9dKFf%2B%2ByncY8pnJpZA3J50Pg4d92Xw%3D@188.114.97.246:94
 wireguard://OOgKnc5WGl%2BErhkbJQbz01xyBsVsOiNU85Gpm7F7kVM%3D@188.114.97.78:1002?address=172.16.0.2%2F32&reserved=41%2C178%2C89&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-08-03 10:02
 
 wireguard://SGf9Uk7bZWA%2BBLeJAnjQfX2EAc6R9Il9e8iWUk79FG4%3D@188.114.98.92:1014?address=172.16.0.2%2F32&reserved=24%2C205%2C107&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-07-31 21:00
-
-wireguard://TdYV8Mbv%2FmVCL7CauPrRxvtjRupr1kGcA4PDw%2BW0cYg%3D@8.39.214.53:1002?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8ee9%3Aa3f1%3A45d8%3A599a%3A890c%2F128&presharedkey=&reserved=197%2C168%2C216&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1420#%D8%B3%D8%B1%D9%88%D8%B1%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%3A%40v2rayvpno🆓 ===============================. 🆓۶🫥اگر متصل نشدی ؛ سنجاق رو چک کن ✅⭕️اینترنت آزاد و بدون فیلترینگ حق همه مردم🇮🇷 @Vpn_3vpn :ادمین فروش
 
 wireguard://UG2XU%2BHMF1C8ZAdsHT1DbYZwjhvrAKh3orgpmX%2FfmGw%3D@188.114.97.28:903?address=172.16.0.2%2F32&reserved=185%2C153%2C174&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-08-02 21:02
 
