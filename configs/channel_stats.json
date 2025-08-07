@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-07T06:16:50.445551",
+  "timestamp": "2025-08-07T07:16:35.830209",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
@@ -8,11 +8,11 @@
         "total_configs": 35,
         "valid_configs": 22,
         "unique_configs": 22,
-        "avg_response_time": 0.47,
+        "avg_response_time": 0.37,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 90.0,
-        "last_success": "2025-08-07T06:15:39.330298"
+        "overall_score": 90.16,
+        "last_success": "2025-08-07T07:15:25.285913"
       }
     },
     {
@@ -36,11 +36,11 @@
         "total_configs": 55,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 0.54,
+        "avg_response_time": 0.49,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.47,
-        "last_success": "2025-08-07T06:15:51.973400"
+        "overall_score": 76.54,
+        "last_success": "2025-08-07T07:15:37.742664"
       }
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/v2rayngvpn",
       "enabled": true,
       "metrics": {
-        "total_configs": 114,
+        "total_configs": 120,
         "valid_configs": 18,
         "unique_configs": 3,
         "avg_response_time": 0,
@@ -106,11 +106,11 @@
         "total_configs": 16,
         "valid_configs": 13,
         "unique_configs": 13,
-        "avg_response_time": 0.42,
+        "avg_response_time": 0.37,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.68,
-        "last_success": "2025-08-07T06:16:38.773725"
+        "overall_score": 94.76,
+        "last_success": "2025-08-07T07:16:24.327460"
       }
     },
     {
@@ -131,14 +131,14 @@
       "url": "https://t.me/s/freewireguard",
       "enabled": true,
       "metrics": {
-        "total_configs": 18,
+        "total_configs": 19,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.37,
+        "avg_response_time": 0.35,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.27,
-        "last_success": "2025-08-07T06:16:50.443649"
+        "overall_score": 94.22,
+        "last_success": "2025-08-07T07:16:35.828762"
       }
     }
   ]
