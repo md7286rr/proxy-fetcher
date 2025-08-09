@@ -28,7 +28,7 @@ trojan://telegram-id-privatevpns@35.180.206.105:22222?security=tls&alpn=http/1.1
 
 trojan://telegram-id-privatevpns@35.181.248.2:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@52.59.100.190:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+trojan://telegram-id-privatevpns@52.59.51.173:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@63.176.11.175:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
@@ -106,9 +106,9 @@ wireguard://mNB3r2Cb92z4%2BUmJCxn%2FA4ReWJ0KPigjUO9bClN2wko%3D@188.114.96.179:10
 
 wireguard://mNu0ibtCakUzDkpTValCORIdjMvuvgNm6cI0MzCUoF4%3D@188.114.98.222:955?address=172.16.0.2%2F32&reserved=255%2C188%2C183&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-08-06 10:03
 
+wireguard://oFjzNUoytDaCVy2EoK7qpgfPfB32Vff0Uvpd%2BaAeGHk%3D@188.114.97.46:942?address=172.16.0.2%2F32&reserved=221%2C151%2C188&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-08-08 21:00
+
 wireguard://sAVvnqKUcxfctWsXhHnHKaQbjo%2FY9u6yGrGVig6tkWU%3D@188.114.99.215:942?address=172.16.0.2%2F32&reserved=38%2C150%2C183&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-08-06 18:04
 
 wireguard://wCagdHicPRQhLyOgXgjsZd6IsqM%2Bag%2FL8suNgMD72VI%3D@188.114.99.204:987?address=172.16.0.2%2F32&reserved=211%2C168%2C60&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-08-04 18:02
-
-wireguard://yO1wqI7AAUVkOH%2FtkU9mW2xm%2F4wMRgzV2XasmS8GoWM%3D@188.114.99.126:945?address=172.16.0.2%2F32&reserved=107%2C142%2C77&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-08-03 21:02
 
