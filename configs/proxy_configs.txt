@@ -16,6 +16,8 @@ trojan://telegram-id-directvpn@13.37.204.11:22223?security=tls&alpn=http/1.1&hea
 
 trojan://telegram-id-privatevpns@13.37.204.11:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
+trojan://telegram-id-privatevpns@13.39.54.25:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
 trojan://telegram-id-privatevpns@13.39.54.25:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@15.188.45.174:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
@@ -36,37 +38,35 @@ trojan://telegram-id-privatevpns@35.181.17.140:22222?security=tls&alpn=http/1.1&
 
 trojan://telegram-id-privatevpns@51.44.56.77:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-trojan://telegram-id-privatevpns@51.44.56.77:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+vless://11402c34-7f90-485f-a218-ade69f314f49@store-static-portal.cyberscaler.net:10082?security=none&encryption=none&host=cdnjs.cloudflare.com&headerType=http&fp=chrome&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?path=%2FFree-CF-Proxy-AD192.3.113.4-19318&security=tls&encryption=none&host=privasi.turah.my.id&fp=chrome&type=ws&sni=privasi.turah.my.id#%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%20%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF%2099%D8%AA%20%3D%C2%BB%20SabznetVPN%40
+vless://491e4f76-42f0-43a7-a987-25072a68d5e4@hopeful-appointment.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 
-vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss2180.tas-bazi.com:443?mode=stream-one&path=%2Fsc&security=none&encryption=none&type=xhttp#%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%20%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF%2099%D8%AA%20%3D%C2%BB%20SabznetVPN%40
-
-vless://5c929ec5-5b1e-447a-950c-354c5d1ba1de@informed-location.seotoolsforyou.co.uk:80?path=%2F%3FJoin---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&security=none&encryption=none&type=ws#%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%20%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF%2099%D8%AA%20%3D%C2%BB%20SabznetVPN%40
+vless://528d62f5-7126-4724-84ee-395f915397ef@143.244.205.110:53340?mode=auto&path=%2FV2ray_official----V2ray_official----V2ray_official----V2ray_official----V2ray_official----V2ray_official----V2ray_official----V2ray_official----V2ray_official----V2ray_official----V2ray_officialV2ray_official----V2ray_official&security=reality&encryption=none&pbk=FPy4G6lfNODBdO-cMHxWDWR1TgDhRG0m-1HlosFQoHI&fp=chrome&spx=%2F&type=xhttp&sni=zhaket.com&sid=d3eb8c0fa0b61e36#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 
 vless://5ca5621c-8e35-4725-92a5-858f1142e0f9@filmnet.filimnet.com:80?mode=packet-up&path=%2Fcdn%2Fassets%3Fv%3D12&security=none&encryption=none&host=abriconf.global.ssl.fastly.net&type=xhttp#%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%20%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF%2099%D8%AA%20%3D%C2%BB%20SabznetVPN%40
 
 vless://655a6041-0ab8-4a92-ad79-f0dba34f5ace@104.17.148.22:8443?mode=auto&path=%2F%3FTELEGRAM_JOIN_JKVPN_JKVPN_JKVPN_JKVPN&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=uk-09.allhubb.info&fp=randomized&type=xhttp&sni=uk-09.allhubb.info#%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%20%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF%2099%D8%AA%20%3D%C2%BB%20SabznetVPN%40
 
-vless://75b63c38-ba6a-4bc8-b1ce-eb7df9931faf@www.speedtest.net:80?path=%2FShadowProxy66-ShadowProxy66&security=none&encryption=none&host=a.kadoo.sbs.&type=ws#%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%20%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF%2099%D8%AA%20%3D%C2%BB%20SabznetVPN%40
-
-vless://75b63c38-ba6a-4bc8-b1ce-eb7df9931faf@www.speedtest.net:80?path=%2FTELEGRAM_join_JKVPN_JKVPN_JKVPN_JKVPN&security=none&encryption=none&host=a.kadoo.sbs.&type=ws#%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%20%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF%2099%D8%AA%20%3D%C2%BB%20SabznetVPN%40
-
 vless://7f4f7178-7e91-4245-83ae-b97bd96fbef8@91.107.149.166:43692?security=reality&encryption=none&pbk=xathCJgbYrFPzIZmJ-iqUz2UdrbGiyyt098V4Wt4S0E&headerType=&fp=firefox&spx=%2F&type=tcp&sni=eset.com&sid=72741b02#@vip_vpn_2022 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://82aa1f3f-29d4-42ab-a5d5-66b13ba13545@91.99.147.163:443?mode=stream-one&path=%2Fd%2F%3F%40MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=none&encryption=none&type=xhttp#%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%20%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF%2099%D8%AA%20%3D%C2%BB%20SabznetVPN%40
 
-vless://a8e56dbd-5cc1-4b2f-850f-92779fb62b3d@172.66.40.99:8080?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D80&security=none&encryption=none&host=cb116.mashkestan.com&type=ws#%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%20%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF%2099%D8%AA%20%3D%C2%BB%20SabznetVPN%40
+vless://82aa1f3f-29d4-42ab-a5d5-66b13ba13545@91.99.15.181:443?mode=stream-one&path=%2Fd%2F%3F%40MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=none&encryption=none&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
+
+vless://86709b5c-c966-46f5-a343-461f512c15f2@209.38.246.53:51927?mode=auto&path=%2FV2ray_official---V2ray_official---V2ray_official---V2ray_official---V2ray_official---V2ray_official---V2ray_official---V2ray_official---V2ray_official---V2ray_official---V2ray_official&security=reality&encryption=none&pbk=L9gEDY_PBGnmad10FPmiO_ov3Um4YvDX0HuXQ1SbXlU&fp=chrome&spx=%2F&type=xhttp&sni=zhaket.com&sid=a83f#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+
+vless://abacc9c9-45b5-4a6e-9de7-af2c84bf2791@80808.sbs:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#%F0%9F%87%B5%F0%9F%87%B1%40FreakConfig
+
+vless://abacc9c9-45b5-4a6e-9de7-af2c84bf2791@ss.80808.sbs:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+
+vless://bc10bfa0-0b77-45c4-bacc-43a7cbc68ab5@easyflow5er.com:6033?security=reality&encryption=none&pbk=lm_pOODTRgSlqEcSsfebGhzYf-MfzEWEg2aZFPrnrXA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=e4sygoauth.com&sid=bf99917ac8b67654#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 
 vless://dbcf007d-f950-4d98-9397-8da2b27c2931@85.133.236.19:63986?security=none&alpn=http%2F1.1&encryption=none&host=skyroom.online%2Cigap.net%2Cgharar.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%20%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF%2099%D8%AA%20%3D%C2%BB%20SabznetVPN%40
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=none&encryption=none&type=grpc#%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%20%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF%2099%D8%AA%20%3D%C2%BB%20SabznetVPN%40
 
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?mode=gun&security=none&encryption=none&type=grpc#%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%20%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF%2099%D8%AA%20%3D%C2%BB%20SabznetVPN%40
-
 vless://e73f6908-d248-4c22-86f3-2a299db04ea8@185.146.173.39:80?path=%2F47267%2Fhgoogle&security=none&encryption=none&host=de1.mmad.news&type=httpupgrade#%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%20%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF%2099%D8%AA%20%3D%C2%BB%20SabznetVPN%40
-
-vless://f716fa40-e997-42d8-b93c-7122c63cc122@Osi1.speedx3.info:8880?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%20%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF%2099%D8%AA%20%3D%C2%BB%20SabznetVPN%40
 
 vmess://eyJ0eXBlIjoibm9uZSIsInBvcnQiOiI1NTU1NSIsInNjeSI6ImF1dG8iLCJpZCI6IjFjNWVhYjc2LTA0MTUtNDNiOS04YjkxLWYzZGM5ZTE1Nzc4OSIsIm5ldCI6InRjcCIsImhvc3QiOiIiLCJwYXRoIjoiIiwicHMiOiJTYWdoaVZwblhCT1QlNUIxJTVEIiwiYWRkIjoibWNpLnlla3RhbmV0LmluZm8ifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon36
 
