@@ -36,11 +36,11 @@ trojan://telegram-id-privatevpns@63.178.125.65:22222?security=tls&alpn=http/1.1&
 
 vless://006741b4-8a77-41f0-80d4-d35e6c2f5825@172.66.40.99:80?path=%2FJoin-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=c.jOin.zEdMoDeOn.oNl.&type=ws#%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%20%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF%2099%D8%AA%20%3D%C2%BB%20SabznetVPN%40
 
+vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%20%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF%2099%D8%AA%20%3D%C2%BB%20SabznetVPN%40
+
 vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?path=%2FFree-CF-Proxy-AD192.3.113.4-19318%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN&security=tls&encryption=none&host=privasi.turah.my.id&fp=chrome&type=ws&sni=privasi.turah.my.id#%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%20%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF%2099%D8%AA%20%3D%C2%BB%20SabznetVPN%40
 
 vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:443?path=%2Fid5%2F%3F-Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%20%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF%2099%D8%AA%20%3D%C2%BB%20SabznetVPN%40
-
-vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:443?path=%2Fid5%2F%3F-Tel-%40V2rayAlpha&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%20%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF%2099%D8%AA%20%3D%C2%BB%20SabznetVPN%40
 
 vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:443?path=%2Fid5%3F%2F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%20%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF%2099%D8%AA%20%3D%C2%BB%20SabznetVPN%40
 
@@ -66,15 +66,17 @@ vless://e66beedb-dd44-47f0-baf8-7ba947d919d0@91.99.126.77:8443?mode=stream-one&p
 
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJHaG9zdHJheS1AR2hvc3RyYXlfTkciLAogICJhZGQiOiAiczMuZ2hvc3Rya2Uuc2JzIiwKICAicG9ydCI6IDg4ODAsCiAgImlkIjogIjYwMTc4MzQ0LTAyMDItNDBkOC04YzVjLWVhZDM4N2E0MjY5MyIsCiAgInNjeSI6ICJhdXRvIiwKICAibmV0IjogImdycGMiLAogICJ0bHMiOiAibm9uZSIsCiAgInBhdGgiOiAiQEdob3N0cmF5X05HIiwKICAiYXV0aG9yaXR5IjogIiIKfQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon34
 
-vmess://eyJhZGQiOiI0NS44NC4xOTYuMjEyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjkzZWZjYzZlLTU5YWEtNGY3MS05NjRjLWVjMTZiNGUwNTJhNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTE0NjMiLCJwcyI6IkBvbmVfc2hvcF9vZmZpY2lhbCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon35
+vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjEwNC4yNi4wLjEzNCIsICJwb3J0IjogIjIwODIiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjVmM2YwOWFkLTg5Y2ItNGU5NC1hN2FkLWFhODIzOTkxMzU1NSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSIsICJob3N0IjogImU0LjY5MjkxOTgueHl6IiwgInRscyI6ICIifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon35
 
-vmess://eyJhZGQiOiI2Mi4xNDYuMjM1LjE5MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjZmM1YTg3Zi0zYzEzLTRlMjUtYjU1Ni0xNzZjZGQ2YjVjNmEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI4MDExIiwicHMiOiJAdjJyYXkzMTMg2qnYp9mG2KfZhNmF2YjZhiDwn4e48J+HrCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon36
+vmess://eyJhZGQiOiI0NS44NC4xOTYuMjEyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjkzZWZjYzZlLTU5YWEtNGY3MS05NjRjLWVjMTZiNGUwNTJhNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTE0NjMiLCJwcyI6IkBvbmVfc2hvcF9vZmZpY2lhbCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon36
 
-vmess://eyJhZGQiOiIxNzIuNjcuMTMxLjI3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJyYWsyZDQuODkwNjAwMDQueHl6IiwiaWQiOiIzNTBlMmIwMS1kNDEwLTQ0YTYtOTBiYS02NDgzZjEwNjI5NzIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjIwNTMiLCJwcyI6IkB2MnJheTMxMyDaqdin2YbYp9mE2YXZiNmGIOKYg++4jyIsInNjeSI6ImF1dG8iLCJzbmkiOiJyYWsyZDQuODkwNjAwMDQueHl6IiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon37
+vmess://eyJhZGQiOiI1MS4yNTQuMjEuMTkzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjliY2VjYjI2LTkyMGEtNGU2OC1iMjk2LTg4NTI2MzEwYmZmNiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjAwODYiLCJwcyI6ItmB24zZhNiq2LHYtNqp2YYg2YbYp9mF2K3Yr9mI2K8gOTnYqiBcdTAwM2TCuyBTYWJ6bmV0VlBOQCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==#Anon37
+
+vmess://eyJhZGQiOiI2Mi4xNDYuMjM1LjE5MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjZmM1YTg3Zi0zYzEzLTRlMjUtYjU1Ni0xNzZjZGQ2YjVjNmEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI4MDExIiwicHMiOiJAdjJyYXkzMTMg2qnYp9mG2KfZhNmF2YjZhiDwn4e48J+HrCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon38
+
+vmess://eyJhZGQiOiIxNzIuNjcuMTMxLjI3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJyYWsyZDQuODkwNjAwMDQueHl6IiwiaWQiOiIzNTBlMmIwMS1kNDEwLTQ0YTYtOTBiYS02NDgzZjEwNjI5NzIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjIwNTMiLCJwcyI6IkB2MnJheTMxMyDaqdin2YbYp9mE2YXZiNmGIOKYg++4jyIsInNjeSI6ImF1dG8iLCJzbmkiOiJyYWsyZDQuODkwNjAwMDQueHl6IiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon39
 
 wireguard://0Huk6ZQ7cxZsxLVcjferwc2EMi2IcFzAATwCZV9jMWQ%3D@188.114.97.150:955?address=172.16.0.2%2F32&reserved=190%2C26%2C216&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-08-15 10:03
-
-wireguard://0IFfCWbgnB1R5ZkAqhMOKliIlkoBuWdmRMma63iunEQ%3D@188.114.96.41:987?address=172.16.0.2%2F32&reserved=81%2C192%2C147&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-08-11 10:01
 
 wireguard://GPJRIILvXXLjRMittVJERHsu0b7mKVf8VMaUOaqoelM%3D@188.114.99.18:1018?address=172.16.0.2%2F32&reserved=102%2C64%2C211&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-08-15 18:03
 
@@ -87,6 +89,8 @@ wireguard://QA72882iat4aVIT90lMWB%2FZWp%2BuulqwsmPl91FF7sHw%3D@188.114.96.112:10
 wireguard://SD46YQ9pI8XAQovEvNccmBlKX67Lst%2B4owOepcRLbXw%3D@188.114.97.207:955?address=172.16.0.2%2F32&reserved=79%2C137%2C116&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-08-12 21:02
 
 wireguard://YBFHoTlvkMles00FU4yN9QyWfVHkRgEu2WMmLhewaGY%3D@188.114.97.219:880?address=172.16.0.2%2F32&reserved=135%2C136%2C201&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-08-15 21:03
+
+wireguard://YIZEmv%2BPkZMJVLO%2FQOCf5DgJvG5I%2Beq6v5KPxVDPX1s%3D@188.114.97.188:955?address=172.16.0.2%2F32&reserved=98%2C0%2C47&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-08-16 10:03
 
 wireguard://gKxLQJIvIKqUpYe8ZkpEVxtz5JkbJoM%2Bkj1FQQCr21o%3D@188.114.98.222:946?address=172.16.0.2%2F32&reserved=47%2C248%2C116&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-08-13 10:02
 
