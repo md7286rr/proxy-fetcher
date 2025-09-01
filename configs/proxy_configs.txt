@@ -8,8 +8,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1WlFoNHBzc1NrNGFLMUpHMVhoQlJn@84.200.91.228:1080#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRGd4UVlJcldRNXEzb1VHaFQ3YWNZ@212.113.106.76:29149#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLdWlxazJjUDBCTVdyZ21lOUlmRXZw@38.180.211.126:443#4Nika-528 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#%40Network_442_%F0%9F%87%B3%F0%9F%87%B1%20%283%29 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
@@ -20,9 +18,9 @@ ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146
 
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.47.131:443#%F0%9F%87%BA%F0%9F%87%B8US-212.102.47.131-0193 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-trojan://telegram-id-directvpn@13.39.0.130:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+ss://YWVzLTI1Ni1nY206ZWIzZDhlNTdlOTgzNDNhZA@212.192.221.139:50901#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%2013%2C%20Japan%20%287%29 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-trojan://telegram-id-directvpn@3.65.233.81:22223?security=tls&alpn=http%2F1.1&host=TELEGRAM--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+trojan://telegram-id-directvpn@13.39.0.130:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 trojan://telegram-id-directvpn@3.65.233.81:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
@@ -39,6 +37,8 @@ trojan://telegram-id-privatevpns@15.236.2.42:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@18.157.215.175:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@3.121.143.77:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+
+trojan://telegram-id-privatevpns@3.123.174.90:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 trojan://telegram-id-privatevpns@3.74.129.76:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
@@ -80,25 +80,23 @@ vless://f282b878-8711-45a1-8c69-5564172123c1@aio.nolimit.dpdns.org:443?path=%2Fa
 
 vless://f282b878-8711-45a1-8c69-5564172123c1@aio.xtradata.dpdns.org:443?path=%2Faioproxybot%2F129.150.49.58-18650&security=tls&encryption=none&host=aio.xtradata.dpdns.org&type=ws&sni=aio.xtradata.dpdns.org#I%20789%20%28%40Outline_Vpn%29%20free Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-vmess://eyJ2IjogIjIiLCAicHMiOiAiVGVsZWdyYW06QGNvbmZpZ19wcm94eSDwn5SlIiwgImFkZCI6ICIxMzYuMjQzLjExMC4yMjQiLCAicG9ydCI6ICIxMDAiLCAiaWQiOiAiM2UzZjM0YTUtNWNiMS00ZmY2LWI3MjUtODhjZTI3Mjg0ZTkxIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgInRlc3RfbmFtZSI6ICIxMjUifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon42
+vmess://eyJhZGQiOiI4My4xNDcuMTguMTAwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuY2xvdWRmbGFyZS5jb20iLCJpZCI6IjA0OGE4NjljLWEyZjYtMzVhOC00MGEwLTdkOTgyODc2ZDg2ZCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6Ijk5MCIsInBzIjoiQFYycmF5TkdWUE4gXHUwMDNjXHUwMDNkINqp2KfZhtmB24zaryDYsdin24zar9in2YYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9#Anon42
 
-vmess://eyJhZGQiOiI4My4xNDcuMTguMTAwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuY2xvdWRmbGFyZS5jb20iLCJpZCI6IjA0OGE4NjljLWEyZjYtMzVhOC00MGEwLTdkOTgyODc2ZDg2ZCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6Ijk5MCIsInBzIjoiQFYycmF5TkdWUE4gXHUwMDNjXHUwMDNkINqp2KfZhtmB24zaryDYsdin24zar9in2YYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9#Anon43
+vmess://eyJhZGQiOiI4NS4xOTUuMTAxLjEyMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmM2Q0MTY3ZS1iMTVlLTRlNDYtODJlOS05Mjg2ZWY5M2ZkYTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQwODc4IiwicHMiOiJAVjJyYXlOR1ZQTiBcdTAwM2NcdTAwM2Qg2qnYp9mG2YHbjNqvINix2KfbjNqv2KfZhiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#Anon43
 
-vmess://eyJhZGQiOiI4NS4xOTUuMTAxLjEyMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmM2Q0MTY3ZS1iMTVlLTRlNDYtODJlOS05Mjg2ZWY5M2ZkYTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQwODc4IiwicHMiOiJAVjJyYXlOR1ZQTiBcdTAwM2NcdTAwM2Qg2qnYp9mG2YHbjNqvINix2KfbjNqv2KfZhiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#Anon44
+vmess://eyJhZGQiOiI4OS40NC4yNDIuMjU1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwYXJzYWJyLmNvbSIsImlkIjoiNjIzNzM5ZmItMmNhNy00NTM0LTkzNTUtMGQ2OTg0M2Q2YTgyIiwibmV0IjoidGNwIiwicGF0aCI6Ii9hcGkvcmVnaXN0ZXIvbmV3L25hbWUvZGF2L3Jlc3BvbnNlL2NtVjBhWEpsWkNCb1pXeHNieUJvYjNjZ1lYSmxJSGx2ZFNCMGFHbHpJR2x6SUcxNUlHNWxkeUJvWldGa1pYSWdkIiwicG9ydCI6IjIwMTAiLCJwcyI6IkBWMnJheU5HVlBOIFx1MDAzY1x1MDAzZCDaqdin2YbZgduM2q8g2LHYp9uM2q/Yp9mGIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==#Anon44
 
-vmess://eyJhZGQiOiI4OS40NC4yNDIuMjU1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwYXJzYWJyLmNvbSIsImlkIjoiNjIzNzM5ZmItMmNhNy00NTM0LTkzNTUtMGQ2OTg0M2Q2YTgyIiwibmV0IjoidGNwIiwicGF0aCI6Ii9hcGkvcmVnaXN0ZXIvbmV3L25hbWUvZGF2L3Jlc3BvbnNlL2NtVjBhWEpsWkNCb1pXeHNieUJvYjNjZ1lYSmxJSGx2ZFNCMGFHbHpJR2x6SUcxNUlHNWxkeUJvWldGa1pYSWdkIiwicG9ydCI6IjIwMTAiLCJwcyI6IkBWMnJheU5HVlBOIFx1MDAzY1x1MDAzZCDaqdin2YbZgduM2q8g2LHYp9uM2q/Yp9mGIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==#Anon45
+vmess://eyJhZGQiOiIxODguMTE0Ljk4LjE3OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid2ViLnBhUlNLaXNoLm9ubGluZSIsImlkIjoiMjVhM2Y1NGQtYzU0My00ZmQxLWUyMDItY2NmYzAxZDA0M2Q2IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IkBWMnJheU5HVlBOIFx1MDAzY1x1MDAzZCDaqdin2YbZgduM2q8g2LHYp9uM2q/Yp9mGIiwic2N5IjoiYXV0byIsInNuaSI6IndlYi5wYVJTS2lzaC5vbmxpbmUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==#Anon45
 
-vmess://eyJhZGQiOiIxODguMTE0Ljk4LjE3OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid2ViLnBhUlNLaXNoLm9ubGluZSIsImlkIjoiMjVhM2Y1NGQtYzU0My00ZmQxLWUyMDItY2NmYzAxZDA0M2Q2IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IkBWMnJheU5HVlBOIFx1MDAzY1x1MDAzZCDaqdin2YbZgduM2q8g2LHYp9uM2q/Yp9mGIiwic2N5IjoiYXV0byIsInNuaSI6IndlYi5wYVJTS2lzaC5vbmxpbmUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==#Anon46
+vmess://eyJhZGQiOiIzOC42MC4xMzQuMjQ5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImJlYjI4MTU5LTdmNGMtNGMwOS05MzEzLTYyODM1MTVmMTUwYiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJAVjJyYXlOR1ZQTiBcdTAwM2NcdTAwM2Qg2qnYp9mG2YHbjNqvINix2KfbjNqv2KfZhiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#Anon46
 
-vmess://eyJhZGQiOiIzOC42MC4xMzQuMjQ5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImJlYjI4MTU5LTdmNGMtNGMwOS05MzEzLTYyODM1MTVmMTUwYiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJAVjJyYXlOR1ZQTiBcdTAwM2NcdTAwM2Qg2qnYp9mG2YHbjNqvINix2KfbjNqv2KfZhiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#Anon47
+vmess://eyJhZGQiOiJib2tvbGFmYXMuYXR0YXJpc2FtYWRpLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjYW52YS5jb20iLCJpZCI6IjU0OTIwYjVjLTM5OWMtNDc4OS04ZGNmLTBmNjcwNDAxNjkyMiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwOTAiLCJwcyI6IvCfh6vwn4euQEZyZWFrQ29uZmlnIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==#Anon47
 
-vmess://eyJhZGQiOiJib2tvbGFmYXMuYXR0YXJpc2FtYWRpLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjYW52YS5jb20iLCJpZCI6IjU0OTIwYjVjLTM5OWMtNDc4OS04ZGNmLTBmNjcwNDAxNjkyMiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwOTAiLCJwcyI6IvCfh6vwn4euQEZyZWFrQ29uZmlnIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==#Anon48
-
-vmess://eyJhZGQiOiJzMy5pcHlhci5vcmciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNzhiNGZiNTctMzlkNy00ZTlkLWRkMzgtYzlhMzgzMjJiY2IyIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzMjAyMCIsInBzIjoiQHYycmF5MzEzINqp2KfZhtin2YTZhdmI2YYg8J+SiyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon49
+vmess://eyJhZGQiOiJzMy5pcHlhci5vcmciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNzhiNGZiNTctMzlkNy00ZTlkLWRkMzgtYzlhMzgzMjJiY2IyIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzMjAyMCIsInBzIjoiQHYycmF5MzEzINqp2KfZhtin2YTZhdmI2YYg8J+SiyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon48
 
 wireguard://%2BHLXFnCbERmlHUYp75gti42VIm1Lfs%2FXgz64pytwikw%3D@162.159.192.1:2408?address=172.16.0.2%2F32&reserved=77%2C114%2C56&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-08-30 10:01
 
-wireguard://%2BHLXFnCbERmlHUYp75gti42VIm1Lfs%2FXgz64pytwikw%3D@162.159.192.1:2408?address=172.16.0.2%2F32&reserved=77%2C114%2C56&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40…#Anon51
+wireguard://%2BHLXFnCbERmlHUYp75gti42VIm1Lfs%2FXgz64pytwikw%3D@162.159.192.1:2408?address=172.16.0.2%2F32&reserved=77%2C114%2C56&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40…#Anon50
 
 wireguard://2AgIAGz1AeBmp1bgBSvb%2Bgyr46Gmul1iNLJBQ3iGCVU%3D@162.159.192.1:500?address=172.16.0.2%2F32&reserved=80%2C96%2C53&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-08-27 18:00
 
