@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-03T20:02:12.889997",
+  "timestamp": "2025-09-03T21:02:07.867078",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
@@ -8,11 +8,11 @@
         "total_configs": 20,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 0.46,
+        "avg_response_time": 0.66,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 86.82,
-        "last_success": "2025-09-03T20:01:01.295749"
+        "overall_score": 86.5,
+        "last_success": "2025-09-03T21:00:54.569967"
       }
     },
     {
@@ -61,14 +61,14 @@
       "url": "https://t.me/s/v2rayngvpn",
       "enabled": true,
       "metrics": {
-        "total_configs": 67,
-        "valid_configs": 21,
-        "unique_configs": 18,
-        "avg_response_time": 0.52,
+        "total_configs": 62,
+        "valid_configs": 29,
+        "unique_configs": 16,
+        "avg_response_time": 0.55,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.49,
-        "last_success": "2025-09-03T20:01:37.171380"
+        "overall_score": 74.66,
+        "last_success": "2025-09-03T21:01:31.259876"
       }
     },
     {
@@ -103,21 +103,21 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 15,
+        "total_configs": 17,
         "valid_configs": 11,
         "unique_configs": 11,
-        "avg_response_time": 0.42,
+        "avg_response_time": 0.48,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 92.71,
-        "last_success": "2025-09-03T20:02:00.958138"
+        "overall_score": 90.46,
+        "last_success": "2025-09-03T21:01:55.767848"
       }
     },
     {
       "url": "https://t.me/s/VlessConfig",
       "enabled": false,
       "metrics": {
-        "total_configs": 45,
+        "total_configs": 51,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -134,11 +134,11 @@
         "total_configs": 19,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.41,
+        "avg_response_time": 0.48,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.12,
-        "last_success": "2025-09-03T20:02:12.888075"
+        "overall_score": 94.01,
+        "last_success": "2025-09-03T21:02:07.865037"
       }
     }
   ]
