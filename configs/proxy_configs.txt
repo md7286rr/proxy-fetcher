@@ -32,35 +32,35 @@ trojan://telegram-id-privatevpns@63.176.195.141:22222?security=tls&alpn=http/1.1
 
 trojan://telegram-id-privatevpns@63.179.44.169:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
+vless://00134d22-e7bc-4690-860a-05d2be0f6f06@sss31842.tas-bazi.com:443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&host=skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+
 vless://0f4865d9-9405-4703-a282-46e326e6d9e7@bewildered-poem.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
-vless://29e233e3-ba0d-43cb-a645-a9550b6111ab@91.107.251.143:6745?security=none&encryption=none&headerType=none&type=tcp#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://2a39bf1c-b568-46ef-90db-c2c9207da834@172.66.40.99:80?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=az181.dr-mojtaba.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 
-vless://29e233e3-ba0d-43cb-a645-a9550b6111ab@91.107.251.143:6745?security=none&encryption=none&headerType=none&type=tcp#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Tp017D0kAm.BaZaRmObIn.InFo&fp=chrome&type=ws&sni=Tp017D0kAm.BaZaRmObIn.InFo#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
 
 vless://34797f17-09a1-400c-9f4b-275718d62a0f@brainy-party.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
-vless://4d65c2b7-431e-4f13-b18a-96fcbe06e954@5.75.193.155:37261?security=none&encryption=none&host=Anten.ir&headerType=http&type=tcp#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
+vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss53988.tas-bazi.com:443?mode=stream-one&path=%2Fsc&security=none&encryption=none&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 
-vless://543421da-33f5-4c12-9b6c-3b1412ec4354@rep.ger2.azinpsn.ir:2689?mode=gun&security=reality&encryption=none&pbk=L4WAAdlTv7i2tDZwPcvYrCfZg2IDCI_sp5LElu3u91U&fp=firefox&type=grpc&serviceName=nama&sni=tgju.org&sid=b6c24852f86067a6#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://4d65c2b7-431e-4f13-b18a-96fcbe06e954@5.75.193.155:37261?security=none&encryption=none&host=Anten.ir&headerType=http&type=tcp#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 
 vless://54559d31-a4f0-4648-beeb-8323045a36c8@cb14.connectbaash.info:4414?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
-vless://8bf5c07a-acd3-4360-b940-62d6b77699af@104.16.53.11:8080?path=%2F&security=none&encryption=none&host=xokaminew3aclskmd23eor2enwr.okatestoka.ir&type=httpupgrade#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-
-vless://92566454-6674-448a-849b-923daacfec25@sv3.abarhostco2.top:51343?security=none&encryption=none&host=P30afzar.com&headerType=http&type=tcp#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-
-vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss48716.tas-bazi.com:443?mode=stream-one&path=%2Fawd&security=none&encryption=none&type=xhttp#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://9748467e-b5d7-40cc-8ca2-51eca4aa6b3a@m71a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 
 vless://c8b7f8ad-4895-4aaa-9327-3b3076f169c5@172.66.40.99:8080?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=az221.mashkestan.com&type=ws#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
-vless://cd2e9541-3fce-4d95-9bec-919d884f911e@mark-bezanberimtehroon.info:443?path=%2Ftiger&security=tls&encryption=none&host=qxqll.thomas-azyadrafte.info&fp=chrome&type=ws&sni=qxqll.thomas-azyadrafte.info#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.99.213.128:443?mode=stream-one&path=%2Frf&security=none&encryption=none&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+
+vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.99.7.237:443?mode=stream-one&path=%2Frf&security=none&encryption=none&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?mode=gun&security=none&encryption=none&authority=%2FJoin----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&type=grpc#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
-vless://e1103da3-811a-4543-a1db-2bdf31a895dd@m58a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir%2F%3F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN&headerType=http&type=tcp#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://e31520a8-1f17-4915-9a8a-03aa9fd1be34@172.66.40.99:80?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=az138.dr-mojtaba.ir&type=ws#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vmess://ewogICAgImFkZCI6ICIyMy4xNjIuMjAwLjIyNyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HqPCfh6ZDQS0yMy4xNjIuMjAwLjIyNy02OTY1IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon33
 
@@ -69,10 +69,6 @@ vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJHaG9zdHJheS1AR2hvc3RyYXlfTkciLAogICJhZGQi
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVVPnvo7lm70obWliZWk3Ny5jb20g57Gz6LSd6IqC54K55YiG5LqrKSIsImFkZCI6IjEwNC4xOC4xNDIuMTYzIiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjNmMzJjZmFlLTBkNGEtNGFmYS04MmYxLTA0YzNlZWExMGU3NCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvaW5kZXguaHRtbD9lZD0yMDQ4IiwiaG9zdCI6IjQzODI1NTA1ODg0MDA2MjAyNTA5MDIxMDE0NDI5OTA2NS5mci5jaGliYWJhLmZpbGVnZWFyLXNnLm1lIiwidGxzIjoiIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon35
 
 vmess://eyJhZGQiOiI1Ny4xMjkuMjguNjUiLCJhaWQiOiIwIiwiaG9zdCI6ImthcGVsbGVuZy5jb20iLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQFJheWFuX0NvbmZpZyA2NCIsInNjeSI6ImF1dG8iLCJzbmkiOiJrYXBlbGxlbmcuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon36
-
-vmess://eyJhZGQiOiIxNDYuNTkuNTUuNTAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im8ubWV0dWppLmNvbSIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJDaGFubmVsIGlkOiBAcHJveHlfa2FmZWXwn4e18J+HsSIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon37
-
-vmess://eyJhZGQiOiIyNS4yNS4yNS4yNDkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IlRHLldhbmdDYWkyLnMyLmRiLWxpbmswMi50b3AiLCJpZCI6ImM4YzUwZjI1LTZlZWEtMzY0NS05NjdiLWI0OGUxMmUwYzk5YiIsIm5ldCI6IndzIiwicGF0aCI6Ii9kYWJhaVx1MDAyNlRlbGVncmFt8J+HqPCfh7MgQFdhbmdDYWkyIC8/ZWRcdTAwM2QyNTYwIiwicG9ydCI6Ijg4ODAiLCJwcyI6IuKYniDwnZed8J2XvPCdl7bwnZe7IOKeoCBAVml0dXJleSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon38
 
 wireguard://2BflhA1Rxp7RpbcdycO6gBXor6X2O4d8k%2FynkC%2FKP0I%3D@162.159.192.1:2408?address=172.16.0.2%2F32&reserved=163%2C143%2C101&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-09-03 10:03
 
