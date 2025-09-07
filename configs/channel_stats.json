@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-07T06:11:27.351637",
+  "timestamp": "2025-09-07T07:02:10.187116",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
@@ -8,11 +8,11 @@
         "total_configs": 20,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.42,
+        "avg_response_time": 0.43,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 81.87,
-        "last_success": "2025-09-07T06:10:17.557895"
+        "overall_score": 81.86,
+        "last_success": "2025-09-07T07:00:59.486813"
       }
     },
     {
@@ -62,13 +62,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 60,
-        "valid_configs": 30,
-        "unique_configs": 20,
+        "valid_configs": 28,
+        "unique_configs": 18,
         "avg_response_time": 0.46,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.48,
-        "last_success": "2025-09-07T06:10:52.505581"
+        "overall_score": 77.05,
+        "last_success": "2025-09-07T07:01:34.790906"
       }
     },
     {
@@ -104,13 +104,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 16,
-        "valid_configs": 14,
-        "unique_configs": 14,
-        "avg_response_time": 0.36,
+        "valid_configs": 15,
+        "unique_configs": 15,
+        "avg_response_time": 0.39,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.33,
-        "last_success": "2025-09-07T06:11:15.801473"
+        "overall_score": 97.86,
+        "last_success": "2025-09-07T07:01:58.396720"
       }
     },
     {
@@ -134,11 +134,11 @@
         "total_configs": 20,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.33,
+        "avg_response_time": 0.37,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.25,
-        "last_success": "2025-09-07T06:11:27.349641"
+        "overall_score": 93.19,
+        "last_success": "2025-09-07T07:02:10.184918"
       }
     }
   ]
