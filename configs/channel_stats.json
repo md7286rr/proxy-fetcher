@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-08T14:09:49.236597",
+  "timestamp": "2025-09-08T15:02:22.904823",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
@@ -8,11 +8,11 @@
         "total_configs": 20,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 0.53,
+        "avg_response_time": 0.44,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 86.7,
-        "last_success": "2025-09-08T14:08:39.551477"
+        "overall_score": 86.84,
+        "last_success": "2025-09-08T15:01:09.073035"
       }
     },
     {
@@ -62,13 +62,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 76,
-        "valid_configs": 25,
-        "unique_configs": 20,
-        "avg_response_time": 0.46,
+        "valid_configs": 22,
+        "unique_configs": 17,
+        "avg_response_time": 1.13,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.54,
-        "last_success": "2025-09-08T14:09:14.351874"
+        "overall_score": 74.86,
+        "last_success": "2025-09-08T15:01:46.708056"
       }
     },
     {
@@ -104,13 +104,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 18,
-        "valid_configs": 13,
-        "unique_configs": 13,
+        "valid_configs": 15,
+        "unique_configs": 15,
         "avg_response_time": 0.4,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 92.45,
-        "last_success": "2025-09-08T14:09:37.713469"
+        "overall_score": 95.23,
+        "last_success": "2025-09-08T15:02:10.542813"
       }
     },
     {
@@ -134,11 +134,11 @@
         "total_configs": 19,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.35,
+        "avg_response_time": 0.47,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.22,
-        "last_success": "2025-09-08T14:09:49.234675"
+        "overall_score": 94.03,
+        "last_success": "2025-09-08T15:02:22.902926"
       }
     }
   ]
