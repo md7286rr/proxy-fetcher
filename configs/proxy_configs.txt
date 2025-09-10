@@ -44,9 +44,7 @@ trojan://telegram-id-privatevpns@52.47.125.157:22222?security=tls&alpn=http/1.1&
 
 trojan://telegram-id-privatevpns@63.179.68.47:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=%2F&security=tls&encryption=none&host=D20.alaNhIAhO.coM&type=ws&sni=D20.alaNhIAhO.coM#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-
-vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=%2F&security=tls&encryption=none&host=d11.AlanHIAhO.cOM&type=ws&sni=d11.AlanHIAhO.cOM#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://35b0de8b-b156-43ff-a0e6-59f1018f7adb@185.242.87.162:443?path=%2Fholhclws&security=tls&encryption=none&fp=chrome&type=ws#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://507ca490-0a81-4478-9121-7622ac201c0a@194.87.41.183:8443?security=reality&encryption=none&pbk=7dWEUpwvK1rlH26l32ZN5FdGoeorCb6lE2Us6cm9xwI&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=e427a8#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
@@ -56,11 +54,13 @@ vless://7a3d2e42-3823-4b00-9818-293f7c6742ca@91.99.129.105:33667?security=realit
 
 vless://87a8ee8f-99f3-4b8b-8c11-9cac2b9e7205@91.186.219.19:21831?security=reality&encryption=none&pbk=OPh080QaUKJrCC9YBHfRvDGeO_nqRgvFFx2u48lVj34&headerType=none&fp=randomized&type=tcp&sni=tgju.org&sid=db0e034b0edb#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
+vless://@Geek_Spot@176.97.210.2:37589?security=none&encryption=none&headerType=none&type=tcp#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+
 vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@93.94.52.171:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
-vless://c2c5b83f-4892-c49f-b9d1-7af232611820@206.81.6.239:443?security=reality&encryption=none&pbk=7gzxsxnqwoh1HEfp02BQpEmMaIFHqz4RL8h68hZqsjc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=androidcentral.com&sid=6ea3daaac3d6bede#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-
 vless://c2c5b83f-4892-c49f-b9d1-7af232611820@64.227.32.13:443?security=reality&encryption=none&pbk=7gzxsxnqwoh1HEfp02BQpEmMaIFHqz4RL8h68hZqsjc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.latimes.com&sid=6ea3daaac3d6bede#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+
+vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.17.2.63:443?path=%2F&security=tls&alpn=h3&encryption=none&host=vless1-bu3.pages.dev&type=ws&sni=vless1-bu3.pages.dev#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638927678654211750.rasht-drc-tusabn.info:8880?mode=gun&security=none&encryption=none&authority=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&type=grpc&serviceName=#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
