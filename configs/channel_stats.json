@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-12T02:27:21.508123",
+  "timestamp": "2025-09-12T03:35:46.164911",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
@@ -129,16 +129,16 @@
     },
     {
       "url": "https://t.me/s/freewireguard",
-      "enabled": true,
+      "enabled": false,
       "metrics": {
-        "total_configs": 18,
-        "valid_configs": 15,
-        "unique_configs": 15,
-        "avg_response_time": 54.25,
-        "success_count": 1,
-        "fail_count": 0,
-        "overall_score": 80.83,
-        "last_success": "2025-09-12T02:27:21.506384"
+        "total_configs": 0,
+        "valid_configs": 0,
+        "unique_configs": 0,
+        "avg_response_time": 0,
+        "success_count": 0,
+        "fail_count": 1,
+        "overall_score": 15.0,
+        "last_success": null
       }
     }
   ]
