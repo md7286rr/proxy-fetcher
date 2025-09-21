@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-09-21T14:01:53.481460",
+  "timestamp": "2025-09-21T15:01:58.508086",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
         "total_configs": 19,
-        "valid_configs": 12,
-        "unique_configs": 12,
+        "valid_configs": 13,
+        "unique_configs": 13,
         "avg_response_time": 0.38,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 90.22,
-        "last_success": "2025-09-21T14:00:43.456785"
+        "overall_score": 91.54,
+        "last_success": "2025-09-21T15:00:48.538850"
       }
     },
     {
@@ -61,14 +61,14 @@
       "url": "https://t.me/s/v2rayngvpn",
       "enabled": true,
       "metrics": {
-        "total_configs": 75,
+        "total_configs": 80,
         "valid_configs": 22,
         "unique_configs": 19,
-        "avg_response_time": 0.52,
+        "avg_response_time": 0.49,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.14,
-        "last_success": "2025-09-21T14:01:18.485658"
+        "overall_score": 77.73,
+        "last_success": "2025-09-21T15:01:23.501764"
       }
     },
     {
@@ -106,11 +106,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.35,
+        "avg_response_time": 0.33,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.31,
-        "last_success": "2025-09-21T14:01:41.895211"
+        "overall_score": 95.33,
+        "last_success": "2025-09-21T15:01:46.960172"
       }
     },
     {
@@ -134,11 +134,11 @@
         "total_configs": 15,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.41,
+        "avg_response_time": 0.38,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.38,
-        "last_success": "2025-09-21T14:01:53.479836"
+        "overall_score": 99.43,
+        "last_success": "2025-09-21T15:01:58.506354"
       }
     }
   ]
