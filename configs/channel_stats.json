@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-09-24T08:13:05.813053",
+  "timestamp": "2025-09-24T09:10:33.630173",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 9,
-        "unique_configs": 9,
-        "avg_response_time": 0.53,
+        "valid_configs": 8,
+        "unique_configs": 8,
+        "avg_response_time": 0.38,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 85.45,
-        "last_success": "2025-09-24T08:11:55.030303"
+        "overall_score": 84.43,
+        "last_success": "2025-09-24T09:09:23.455580"
       }
     },
     {
@@ -62,13 +62,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 66,
-        "valid_configs": 25,
+        "valid_configs": 21,
         "unique_configs": 20,
-        "avg_response_time": 0.43,
+        "avg_response_time": 0.51,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.83,
-        "last_success": "2025-09-24T08:12:30.343281"
+        "overall_score": 81.0,
+        "last_success": "2025-09-24T09:09:58.603639"
       }
     },
     {
@@ -106,11 +106,11 @@
         "total_configs": 16,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.39,
+        "avg_response_time": 0.35,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 97.86,
-        "last_success": "2025-09-24T08:12:54.093367"
+        "overall_score": 97.91,
+        "last_success": "2025-09-24T09:10:22.048345"
       }
     },
     {
@@ -134,11 +134,11 @@
         "total_configs": 14,
         "valid_configs": 14,
         "unique_configs": 14,
-        "avg_response_time": 0.43,
+        "avg_response_time": 0.38,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.36,
-        "last_success": "2025-09-24T08:13:05.811000"
+        "overall_score": 99.43,
+        "last_success": "2025-09-24T09:10:33.628277"
       }
     }
   ]
