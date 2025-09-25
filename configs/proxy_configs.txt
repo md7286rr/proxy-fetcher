@@ -12,7 +12,9 @@ trojan://telegram-id-privatevpns@13.36.206.216:22222?security=tls&alpn=http/1.1&
 
 trojan://telegram-id-privatevpns@13.36.222.54:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@13.39.151.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+trojan://telegram-id-privatevpns@13.37.66.223:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+
+trojan://telegram-id-privatevpns@13.38.189.166:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@15.236.175.74:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
@@ -20,13 +22,11 @@ trojan://telegram-id-privatevpns@18.153.45.158:22222?security=tls&alpn=http/1.1&
 
 trojan://telegram-id-privatevpns@18.159.28.217:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
+trojan://telegram-id-privatevpns@18.195.38.193:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+
 trojan://telegram-id-privatevpns@3.127.9.61:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@3.64.199.101:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
-trojan://telegram-id-privatevpns@3.68.155.222:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
-trojan://telegram-id-privatevpns@3.75.18.69:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@35.180.179.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
@@ -44,25 +44,25 @@ vless://278ac6d3-49b0-4a52-ae3c-7f19970942fa@86.104.74.238:443?path=%2Fwflhdtws&
 
 vless://2844ed48-493d-43ca-a13e-76df8e444de0@194.4.49.217:443?path=%2Ffqogayws%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN&security=tls&encryption=none&fp=chrome&type=ws#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
-vless://2ecdfbf0-90a5-45df-bc57-9988eb001cd7@148.113.138.64:56010?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-
-vless://82b74d07-5d1b-48e5-990b-68be08fbf46f@Ger-server2-panyous.tap30.sbs:2560?security=reality&encryption=none&pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U&host=%2F%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=www.cloudflare.com&sid=e41865e506628f44#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-
-vless://82b74d07-5d1b-48e5-990b-68be08fbf46f@Ger-server3-panyous.tap30.sbs:2560?security=reality&encryption=none&pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U&host=%2F%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=www.cloudflare.com&sid=e41865e506628f44#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-
-vless://82b74d07-5d1b-48e5-990b-68be08fbf46f@uae-server1-panyous.tap30.sbs:2560?security=reality&encryption=none&pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U&host=%2F%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=www.cloudflare.com&sid=e41865e506628f44#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-
-vless://8f0120f1-ba26-e137-5e06-a99b844741aa@poland-serv1.ip-venzo.com:2541?security=reality&encryption=none&pbk=2GzriTU_gMWcnd7ZTGwn7CUIJ3-4gW1fp2tXPNkrQiY&host=%2F%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn-----------%40skypro_vpn&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=641b3125487938c7#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://859e3599-42c2-4e7e-8f8e-f96b764db26f@152.228.242.123:27236?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://af4b661e-c280-4642-a820-df8d01bebc6b@Ger-server3-panyous.tap30.sbs:2560?security=reality&encryption=none&pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=www.cloudflare.com&sid=e41865e506628f44#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
-vless://bb5be5c2-bf5e-4050-8193-eb18f1faa42e@51.210.77.32:24292?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://b6977b89-c21a-46b3-ac1c-6e6dac52939a@141.227.134.24:12393?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+
+vless://c41bbf90-9369-4d65-8372-e4668bee2738@104.26.6.89:443?path=%2Fcontainers%2Fde&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=am7.amadebash.uk&fp=chrome&type=ws&sni=am7.amadebash.uk#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.213:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.69:8880?mode=gun&security=&encryption=none&authority=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&type=grpc#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=%2F&security=tls&encryption=none&host=D0dTpVg4Z3.sOlEnTrAa.InFo&type=ws&sni=D0dTpVg4Z3.sOlEnTrAa.InFo#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.69:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
-vless://edd716ae-7d5a-44f7-a0ed-a615eab0c766@141.94.168.171:32647?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.69:8880?mode=gun&security=none&encryption=none&authority=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&type=grpc&serviceName=#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.163:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=%2F&security=tls&encryption=none&host=D0dTpVg4Z3.sOlEnTrAa.InFo&type=ws&sni=D0dTpVg4Z3.sOlEnTrAa.InFo#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://f4dbf9ab-52a6-408e-85ae-2b1191db5f7e@dl5-de4-cdn.fastfilecdn.org:2052?path=%2F%3FJoin----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&security=&encryption=none&host=dl5-de4-cdn.fastfilecdn.org&fp=firefox&type=ws#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
@@ -85,6 +85,8 @@ vmess://eyJhZGQiOiIxNS4yMzUuODMuMjI4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vmess://eyJhZGQiOiIxNS4yMzUuODUuMTU2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJrYW1wb25nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkBWMnJheU5HVlBOIFx1MDAzY1x1MDAzZCDaqdin2YbZgduM2q8g2LHYp9uM2q/Yp9mGIiwic2N5IjoiYXV0byIsInNuaSI6ImthbXBvbmcub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=#Anon43
 
 vmess://eyJhZGQiOiJtMS50ZWhyYW5jbG91ZC5jbGljayIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidGVsZXdlYmlvbi5jb20iLCJpZCI6ImJjMjJmZDNmLTcxOWItNGY2Zi1kNTM4LTE0YmE4MDkwNDczNSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IkBWMnJheU5HVlBOIFx1MDAzY1x1MDAzZCDaqdin2YbZgduM2q8g2LHYp9uM2q/Yp9mGIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==#Anon44
+
+vmess://eyJhZGQiOiJzZXJrYXQub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZXJrYXQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQFYycmF5TkdWUE4gXHUwMDNjXHUwMDNkINqp2KfZhtmB24zaryDYsdin24zar9in2YYiLCJzY3kiOiJhdXRvIiwic25pIjoic2Vya2F0Lm9yZyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9#Anon45
 
 wireguard://AC%2Fly8P9sG6O9gkfQ%2B%2FKIjIhHaTp5BpvtLOOtY87FE8%3D@162.159.192.1:2408?address=172.16.0.2%2F32&reserved=94%2C17%2C185&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-09-23 18:02
 
