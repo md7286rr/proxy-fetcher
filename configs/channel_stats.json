@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-28T15:02:12.175154",
+  "timestamp": "2025-09-28T16:02:03.657704",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
@@ -8,11 +8,11 @@
         "total_configs": 20,
         "valid_configs": 8,
         "unique_configs": 8,
-        "avg_response_time": 0.54,
+        "avg_response_time": 0.39,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 84.2,
-        "last_success": "2025-09-28T15:01:01.430627"
+        "overall_score": 84.41,
+        "last_success": "2025-09-28T16:00:53.319878"
       }
     },
     {
@@ -61,14 +61,14 @@
       "url": "https://t.me/s/v2rayngvpn",
       "enabled": true,
       "metrics": {
-        "total_configs": 78,
-        "valid_configs": 19,
-        "unique_configs": 18,
+        "total_configs": 83,
+        "valid_configs": 20,
+        "unique_configs": 19,
         "avg_response_time": 0.47,
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 79.07,
-        "last_success": "2025-09-28T15:01:36.674331"
+        "last_success": "2025-09-28T16:01:28.441790"
       }
     },
     {
@@ -103,21 +103,21 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 18,
+        "total_configs": 16,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.5,
+        "avg_response_time": 0.39,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.08,
-        "last_success": "2025-09-28T15:02:00.447174"
+        "overall_score": 97.86,
+        "last_success": "2025-09-28T16:01:51.924196"
       }
     },
     {
       "url": "https://t.me/s/VlessConfig",
       "enabled": false,
       "metrics": {
-        "total_configs": 54,
+        "total_configs": 48,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -134,11 +134,11 @@
         "total_configs": 17,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.43,
+        "avg_response_time": 0.39,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.41,
-        "last_success": "2025-09-28T15:02:12.173249"
+        "overall_score": 96.48,
+        "last_success": "2025-09-28T16:02:03.655840"
       }
     }
   ]
