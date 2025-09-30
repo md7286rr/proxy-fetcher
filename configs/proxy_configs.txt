@@ -32,9 +32,7 @@ trojan://telegram-id-privatevpns@52.47.180.25:22222?security=tls&alpn=http/1.1&h
 
 trojan://telegram-id-privatevpns@63.177.14.170:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-vless://019931aa-8cba-3a74-6c77-cb288ae52f2a@154.81.141.36:2096?path=%2Fsnippets%26HongKong%40freecodes2%2F%3Fed%3D2560&security=tls&encryption=none&host=0000yhuxn8zf1sqvj1qx.x0uck1bfji4.8f25.dbhnjola4.bmj6yq1giy.ujwpeuoqhayd.pci8t1.paxljcy7c.u9v3a.a1s36uciu.2r11kwhbqtj9k5ix.neib.cn&type=ws&sni=0000yhuxn8zf1sqvj1qx.x0uck1bfji4.8f25.dbhnjola4.bmj6yq1giy.ujwpeuoqhayd.pci8t1.paxljcy7c.u9v3a.a1s36uciu.2r11kwhbqtj9k5ix.neib.cn#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-
-vless://65552811-b845-476a-aa1f-8bc52115e8fe@65.109.217.125:8444?security=tls&encryption=none&headerType=none&type=tcp&sni=fl.v2bazzar.ir#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://4d7fdb66-eff3-4949-882b-d1115e1bc1e4@141.227.178.223:34935?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://7005979f-6b25-43db-935c-4cfa27d44a27@armania.vtuix.online:7033?mode=gun&security=reality&encryption=none&authority=&pbk=iLik9C9our-5dRYuvFtrYOzd1NedgTsqUKew2ogLdgE&fp=firefox&type=grpc&serviceName=7034vless&sni=telewebion.com&sid=16b6cda7ab793526#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
@@ -42,25 +40,27 @@ vless://7005979f-6b25-43db-935c-4cfa27d44a27@kiliyanmbappe10.vtuix.online:7033?m
 
 vless://a40e2c15-6c4d-b5e6-3e9c-d2adad0ee1e6@www.speedtest.net:2052?path=%2F&security=none&encryption=none&host=fr.digimeto.ir&type=ws#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
-vless://b6977b89-c21a-46b3-ac1c-6e6dac52939a@141.227.134.24:12393?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://a9a5a7ed-d852-4b3b-af5d-6e8d721300b5@141.227.166.55:20421?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.5:443?path=%2Fsnippets%2Fip%3Dtw.tp81.netlib.re%3A81%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&host=xn--kwr11l51ffzytxy.CMLiussss.dedyn.io&fp=chrome&type=ws&sni=xn--kwr11l51ffzytxy.CMLiussss.dedyn.io#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://b6977b89-c21a-46b3-ac1c-6e6dac52939a@141.227.134.24:12393?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.69:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943929060335589.warsaw-prx-dnraacp.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943941066258806.belgrade-prx-dnraacp.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.207:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.207:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=%2F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN&security=tls&encryption=none&host=D0dTpVg4Z3.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=D0dTpVg4Z3.sOlEnTrAa.InFo#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=%2F&security=tls&encryption=none&host=D0dTpVg4Z3.sOlEnTrAa.InFo&type=ws&sni=D0dTpVg4Z3.sOlEnTrAa.InFo#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://f9f1ed42-9943-4121-9408-8fbe766343ae@m5a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://fcec2ee6-c96b-4873-95ba-eced3a2e12c5@168.119.158.122:443?path=%2Flinkws%3Fed&security=none&encryption=none&host=168.119.158.122&type=ws#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+
+vless://telegram-id-Arfilter@www.speedtest.net:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=www.pdri.blog&fp=firefox&type=ws&sni=www.pdri.blog#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vmess://ewogICAgImFkZCI6ICI4LjIxMC4xNDAuMjMiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogImZkZTczZGFmLWNjNjctNDJmMy05OTM1LTM1YjEzMmIwMWFiZCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLAogICAgInBvcnQiOiA1NDgwOSwKICAgICJwcyI6ICLwn4et8J+HsEhLLTguMjEwLjE0MC4yMy01MzUzIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon33
 
@@ -70,11 +70,9 @@ vmess://eyJhZGQiOiI5MS4xMzQuOC4xMDIiLCJhaWQiOiIwIiwiaG9zdCI6InNlcmthdC5vcmciLCJp
 
 vmess://eyJhZGQiOiIxNS4yMDQuMjM0LjIwMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjN2YxNjlhMy0yZTlhLTQ4OTQtYmE1My03YjJmYTZmZDA4YjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQxMTAwIiwicHMiOiJNQ0ktQElSQU5fVjJSQVkxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon36
 
-vmess://eyJhZGQiOiIxNzIuNjYuMTY4LjIxNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYmxBemUtVUstMzYuYkxhekVjTE9VRC5zaXRFIiwiaWQiOiJiNTRiMDNmOC0xZTEzLTQyZTUtYWQyZS1iMmI5NTAzMjA5NzIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Zrd3NzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HrPCfh6dARnJlYWtDb25maWciLCJzY3kiOiJhdXRvIiwic25pIjoiYmxBemUtVUstMzYuYkxhekVjTE9VRC5zaXRFIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon37
+vmess://eyJhZGQiOiJjY29uZmlndjJyYXkucGVyc2lhbnYycmF5LnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNjb25maWd2MnJheXMucGVyc2lhbnYycmF5LnNob3AiLCJpZCI6ImUyZDgxZjE1LWU3OTEtNDg3Yi1iMWYzLTZhMGYyZDU2YjIwMiIsIm5ldCI6IndzIiwicGF0aCI6Ii9AY2NvbmZpZ3YycmF5QGNjb25maWd2MnJheUBjY29uZmlndjJyYXlAY2NvbmZpZ3YycmF5QGNjb25maWd2MnJheUBjY29uZmlndjJyYXkiLCJwb3J0IjoiMjA1MiIsInBzIjoi4pyoRnJlZSBTZXJ2ZXJzLTEwMEdC8J+OgSBKb2luIEBjY29uZmlnX3YycmF5IHRlbGVncmFtIGNoYW5uZWwiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon37
 
-vmess://eyJhZGQiOiJjY29uZmlndjJyYXkucGVyc2lhbnYycmF5LnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNjb25maWd2MnJheXMucGVyc2lhbnYycmF5LnNob3AiLCJpZCI6ImUyZDgxZjE1LWU3OTEtNDg3Yi1iMWYzLTZhMGYyZDU2YjIwMiIsIm5ldCI6IndzIiwicGF0aCI6Ii9AY2NvbmZpZ3YycmF5QGNjb25maWd2MnJheUBjY29uZmlndjJyYXlAY2NvbmZpZ3YycmF5QGNjb25maWd2MnJheUBjY29uZmlndjJyYXkiLCJwb3J0IjoiMjA1MiIsInBzIjoi4pyoRnJlZSBTZXJ2ZXJzLTEwMEdC8J+OgSBKb2luIEBjY29uZmlnX3YycmF5IHRlbGVncmFtIGNoYW5uZWwiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon38
-
-vmess://eyJhZGQiOiJwYW5lbDMuaXB5YXIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImMwY2NkZWI5LTc4NGMtNGQ2Ny1iOTA0LTIwZGNhYWM5OTAyYSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzIwMTciLCJwcyI6IvCfh6/wn4e1QHZwbl9pb3NzIOKZu++4jyDYudi22Ygg2LTZiCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon39
+vmess://eyJhZGQiOiJwYW5lbDMuaXB5YXIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImMwY2NkZWI5LTc4NGMtNGQ2Ny1iOTA0LTIwZGNhYWM5OTAyYSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzIwMTciLCJwcyI6IvCfh6/wn4e1QHZwbl9pb3NzIOKZu++4jyDYudi22Ygg2LTZiCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon38
 
 wireguard://0FEiV9b16z2%2FpWfXPTmExhlGmvQawEyIMhff24VAaX0%3D@162.159.192.1:500?address=172.16.0.2%2F32&reserved=68%2C223%2C255&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-09-26 21:04
 
@@ -83,6 +81,8 @@ wireguard://0GMJqr1gPE2uQC3OgjnoNMFbBVvWQNu6GseTYh%2BRfVc%3D@162.159.192.1:2408?
 wireguard://2FaqTm%2BaXdVK00dvbeuMW%2Ft741BWYu9lNOOVtMI4R3Y%3D@162.159.192.1:500?address=172.16.0.2%2F32&reserved=80%2C103%2C64&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-09-27 21:00
 
 wireguard://2ItoVskaVkddiVyZD5IvBD8nerwdE%2Fw90H87xNc5cmQ%3D@162.159.192.1:4500?address=172.16.0.2%2F32&reserved=229%2C37%2C67&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-09-26 18:04
+
+wireguard://4ML%2BIg3hkredUfBhQwbG8ojvtReK8cKg%2BBHZYPQzB0k%3D@162.159.192.1:2408?address=172.16.0.2%2F32&reserved=161%2C62%2C158&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-09-29 21:01
 
 wireguard://6NcXfVkz%2FAfkMIQpiUZEwwczmJjKVl1Bc6jJT1ssumg%3D@162.159.192.1:4500?address=172.16.0.2%2F32&reserved=17%2C102%2C140&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-09-28 18:00
 
@@ -99,8 +99,6 @@ wireguard://oErCXg9ZI5uNTmuSDbY1uehK9LTcdK672Svz6IGtwE4%3D@162.159.192.1:4500?ad
 wireguard://qBnnnMxbAXzdVPw6m%2Bj%2FEMcSRzQFqeyppQYu7I7THH0%3D@162.159.192.1:4500?address=172.16.0.2%2F32&reserved=213%2C31%2C210&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-09-25 10:03
 
 wireguard://qFdf90xm4oa6Kr8yTG3BquQI%2BLjzpgPpYFTBrcVCr0k%3D@162.159.192.1:2408?address=172.16.0.2%2F32&reserved=167%2C247%2C202&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-09-26 10:04
-
-wireguard://sOJnwYI2i5Fy95pRj3jIOAfnvwDXfHhs9iJ%2FLmUNI1I%3D@162.159.192.1:500?address=172.16.0.2%2F32&reserved=125%2C49%2C153&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-09-24 21:03
 
 wireguard://uAZYRsmknz4CdFMx%2BZk8z7SN9W97buDyiWpFYitQOHA%3D@162.159.192.1:2408?address=172.16.0.2%2F32&reserved=72%2C35%2C19&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-09-29 18:00
 
