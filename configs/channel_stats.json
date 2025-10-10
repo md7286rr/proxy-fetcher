@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-10T11:02:13.727480",
+  "timestamp": "2025-10-10T12:16:59.473642",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
@@ -8,11 +8,11 @@
         "total_configs": 20,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.91,
+        "avg_response_time": 0.37,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 84.89,
-        "last_success": "2025-10-10T11:00:56.988381"
+        "overall_score": 85.69,
+        "last_success": "2025-10-10T12:15:48.959688"
       }
     },
     {
@@ -61,14 +61,14 @@
       "url": "https://t.me/s/v2rayngvpn",
       "enabled": true,
       "metrics": {
-        "total_configs": 77,
-        "valid_configs": 29,
-        "unique_configs": 20,
-        "avg_response_time": 0.82,
+        "total_configs": 72,
+        "valid_configs": 21,
+        "unique_configs": 19,
+        "avg_response_time": 0.49,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.43,
-        "last_success": "2025-10-10T11:01:36.207098"
+        "overall_score": 79.18,
+        "last_success": "2025-10-10T12:16:24.177584"
       }
     },
     {
@@ -106,11 +106,11 @@
         "total_configs": 14,
         "valid_configs": 14,
         "unique_configs": 14,
-        "avg_response_time": 0.49,
+        "avg_response_time": 0.37,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.27,
-        "last_success": "2025-10-10T11:02:01.324685"
+        "overall_score": 99.45,
+        "last_success": "2025-10-10T12:16:47.749388"
       }
     },
     {
@@ -134,11 +134,11 @@
         "total_configs": 15,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.48,
+        "avg_response_time": 0.38,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.28,
-        "last_success": "2025-10-10T11:02:13.725626"
+        "overall_score": 99.42,
+        "last_success": "2025-10-10T12:16:59.471580"
       }
     }
   ]
