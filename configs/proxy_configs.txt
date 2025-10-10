@@ -44,9 +44,9 @@ vless://4e46d557-88c0-45b6-ab9b-788c7eb21559@91.98.175.72:30052?security=none&en
 
 vless://bcc560e0-173b-4c49-a4ce-742c3fae0028@[2a03:b0c0:3:f0:0:1:4139:b000]:9696?security=reality&encryption=none&pbk=Y_GsfLRoTP6SXIyYQjrn8TM_nce7Y9RIoEfWTJ35sGI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.cdn-apple.com#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.155:8880?mode=gun&security=none&encryption=none&authority=%3Fed%3D2048HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot&type=grpc#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.5:443?path=%2Fsnippets%2Fip%3Dtw.tp81.netlib.re%3A81%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&host=xn--kwr11l51ffzytxy.CMLiussss.dedyn.io&fp=chrome&type=ws&sni=xn--kwr11l51ffzytxy.CMLiussss.dedyn.io#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.92:8880?mode=gun&security=none&encryption=none&authority=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&type=grpc#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.155:8880?mode=gun&security=none&encryption=none&authority=%3Fed%3D2048HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot&type=grpc#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638940560407102132.copenhagen-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
@@ -56,9 +56,9 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950330462896164.neyshabur-prx-dn
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638956218809805203.bandar-prx-dnraacu.info:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.195.155:8880?mode=gun&security=none&encryption=none&authority=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&type=grpc#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.155:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+
+vless://e0401812-e35f-4ab0-87d7-22ce1e617526@netcdn.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--&security=none&encryption=none&host=webde2.parsgit.com.&type=ws#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://e0401812-e35f-4ab0-87d7-22ce1e617526@netcdn.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--&security=none&encryption=none&host=webde3.parsgit.com.&type=ws#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
@@ -84,9 +84,7 @@ vmess://eyJhZGQiOiI2NC44MS4yNC4xMTUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 
 vmess://eyJhZGQiOiI4OC4xNTEuMTk0Ljk2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjcyZGU5NjMyLTA0Y2EtNDZjNy1iZTYyLTQxYjg3NmM3YmM4ZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTY3MzAiLCJwcyI6IkBWMnJheU5HVlBOIFx1MDAzY1x1MDAzZCDaqdin2YbZgduM2q8g2LHYp9uM2q/Yp9mGIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==#Anon43
 
-vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJtcnZwbjI5NC5wb2NvbTNhbS53b3JrZXJzLmRldiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL3NlcmthdC5vcmcvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkBWMnJheU5HVlBOIFx1MDAzY1x1MDAzZCDaqdin2YbZgduM2q8g2LHYp9uM2q/Yp9mGIiwic2N5IjoiYXV0byIsInNuaSI6Im1ydnBuMjk0LnBvY29tM2FtLndvcmtlcnMuZGV2IiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=#Anon44
-
-vmess://eyJhZGQiOiJtOXh6NGZlMC54ZHk4cHh2NHQ1c2xiOGIucG9ydGFsb2ZsZWctZW5kcy5mdW4iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImlnYXAubmV0LHNreXJvb20ub25saW5lIiwiaWQiOiI4YjY5NTUwNy1kM2NkLTRhODItODgyMS03MmU3YjFjMzVjZjIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL2diMEhRN2kyei8zc1A0dGl2MmJuYS9YQkVNMWZNdkdaLzlWOVRFQ3l3NlFvLzJySHZTWkhxTi9MdmtQbHBnOFFZcUN3US9Zd2I4bmZSZy9JbmZ4ZFpuT09pa2ZkYTkvcUtzaXlHZ2wvN3QySUlRSFJwMkJMVS9jM251R3VZbTdGa2ZDMyIsInBvcnQiOiIyMDQyIiwicHMiOiLwn4eo8J+HrSBy4pmheWEiLCJzY3kiOiJhZXMtMTI4LWdjbSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon45
+vmess://eyJhZGQiOiJtOXh6NGZlMC54ZHk4cHh2NHQ1c2xiOGIucG9ydGFsb2ZsZWctZW5kcy5mdW4iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImlnYXAubmV0LHNreXJvb20ub25saW5lIiwiaWQiOiI4YjY5NTUwNy1kM2NkLTRhODItODgyMS03MmU3YjFjMzVjZjIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL2diMEhRN2kyei8zc1A0dGl2MmJuYS9YQkVNMWZNdkdaLzlWOVRFQ3l3NlFvLzJySHZTWkhxTi9MdmtQbHBnOFFZcUN3US9Zd2I4bmZSZy9JbmZ4ZFpuT09pa2ZkYTkvcUtzaXlHZ2wvN3QySUlRSFJwMkJMVS9jM251R3VZbTdGa2ZDMyIsInBvcnQiOiIyMDQyIiwicHMiOiLwn4eo8J+HrSBy4pmheWEiLCJzY3kiOiJhZXMtMTI4LWdjbSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon44
 
 wireguard://0BYQRe0hoSFQfWfpJdtSd7ORpehD3UGThWPC0NBm7Uk%3D@162.159.192.1:2408?address=172.16.0.2%2F32&reserved=126%2C29%2C168&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-10-09 10:01
 
