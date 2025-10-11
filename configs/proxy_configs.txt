@@ -34,8 +34,6 @@ trojan://telegram-id-privatevpns@63.176.207.54:22222?security=tls&alpn=http/1.1&
 
 trojan://telegram-id-privatevpns@63.180.34.20:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-vless://33c2b39d-b53f-45cd-d5c9-d58df4756e95@167.172.177.180:35722?mode=auto&path=%2Fvxkxixgo&security=none&encryption=none&host=5548.ir&type=xhttp#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-
 vless://401374e6-df77-41fb-f638-dad8184f175b@pqh30v5.ipforvetra.shop:80?mode=gun&security=none&encryption=none&type=grpc&sni=pqh30v5.ipforvetra.shop#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://6029dca1-09ab-4579-8857-8988870e28a3@de.xn--mes34jx0kfx3c.com:11013?security=reality&encryption=none&pbk=AEd1CwrR3K18EcukiSZqBtFjh5OV9U8LsGZy45MD1V4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=download-installer.cdn.mozilla.net&sid=f2a496f4#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
@@ -47,6 +45,8 @@ vless://7467739e-fe86-43a4-93ae-1669886e80d5@141.227.162.18:59995?mode=gun&secur
 vless://7c689907-8a79-4299-9162-c817624ad352@finfinboysi.vtuix.ir:4266?security=none&encryption=none&host=-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn&type=ws#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://7c689907-8a79-4299-9162-c817624ad352@switerxaqiri.vtuix.ir:8080?mode=gun&security=reality&encryption=none&authority=-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn&pbk=yjKkm6CofGtrJW9uOyu-2E1MfkJ6JAmgPPS-ocL1mSo&fp=chrome&spx=%2F%40khodee_alireza&type=grpc&serviceName=yourServiceName&sni=refersion.com&sid=9b25240418971ddd#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+
+vless://a71f0ddd-8ae5-437b-8d59-582779757296@deu-0001-xr.packet-drop-society.net:443?security=reality&encryption=none&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=f79448a30d#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://a71f0ddd-8ae5-437b-8d59-582779757296@rus-0001-xr.packet-drop-society.net:443?security=reality&encryption=none&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=8453e5fd9af927#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
