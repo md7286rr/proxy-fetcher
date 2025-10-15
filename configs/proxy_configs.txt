@@ -40,15 +40,11 @@ trojan://telegram-id-privatevpns@63.178.101.45:22222?security=tls&alpn=http/1.1&
 
 trojan://telegram-id-privatevpns@63.179.221.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-vless://2456f90c-5183-476d-b069-16ae74ce120f@198.71.191.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40ShadowProxy66%2F&security=tls&encryption=none&host=fast01.0860852.xyz&fp=chrome&type=ws&sni=fast01.0860852.xyz#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-
-vless://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-
 vless://30dd2eea-fe78-4660-a04f-096a7dac41e3@tiktok.ducks.tel:443?security=reality&encryption=none&pbk=IarU4xicX8qiVO5nqzeHc6MK9A_Vw9YaAtnPHB4DswU&host=--join--ShadowProxy66--&headerType=none&fp=chrome&spx=%2F%40skypro_vpn&type=tcp&flow=xtls-rprx-vision&sni=mirror.yandex.ru&sid=916a#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
-vless://30dd2eea-fe78-4660-a04f-096a7dac41e3@yt.ducks.tel:443?security=reality&encryption=none&pbk=IarU4xicX8qiVO5nqzeHc6MK9A_Vw9YaAtnPHB4DswU&headerType=none&fp=chrome&spx=%2F%40SKYPRO_VPN&type=tcp&flow=xtls-rprx-vision&sni=mirror.yandex.ru&sid=916a#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-
 vless://30dd2eea-fe78-4660-a04f-096a7dac41e3@yt.ducks.tel:443?security=reality&encryption=none&pbk=IarU4xicX8qiVO5nqzeHc6MK9A_Vw9YaAtnPHB4DswU&host=-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-&headerType=none&fp=chrome&spx=%2F%40SKYPRO_VPN&type=tcp&flow=xtls-rprx-vision&sni=mirror.yandex.ru&sid=916a#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+
+vless://4971ac7d-376d-47b9-9b86-83a21adcedc4@104.21.64.1:443?path=%2Fwlbywy8cCxbWMJZI&security=tls&alpn=http%2F1.1&encryption=none&host=et3ch-007.zed23.web1337.net&fp=firefox&type=ws&sni=Et3ch-007.Zed23.wEB1337.net#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://51e7067c-f032-45e2-b76e-ef39f0a51744@193.233.19.240:8080?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=edu.smnsoft.com#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
@@ -58,23 +54,27 @@ vless://b160cc4a-89f5-4279-9007-a4c84a13a175@deu-0001-xr.packet-drop-society.net
 
 vless://b160cc4a-89f5-4279-9007-a4c84a13a175@rus-0001-xr.packet-drop-society.net:443?security=reality&encryption=none&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=175d#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
+vless://c2e177d4-e610-4abd-85cd-1a869d158751@188.114.97.202:8443?path=%2F&security=tls&encryption=none&host=teslakit1.pages.dev&type=ws&sni=teslakit1.pages.dev#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+
 vless://d7d6745c-7264-44a4-a62f-97b4ce83a951@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=totoo.pages.dev&fp=chrome&type=ws&sni=totoo.pages.dev#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.94:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?mode=gun&security=none&encryption=none&authority=-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-&type=grpc&serviceName=#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.97:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.195.133:8880?mode=gun&security=none&encryption=none&authority=-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-&type=grpc&serviceName=#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.222:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.98:8880?mode=gun&security=none&encryption=none&authority=-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-&type=grpc&serviceName=#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638940560407102132.copenhagen-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943929060330315.warsaw-prx-dnraacp.info:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.98:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
-vmess://eyJhZGQiOiI1LjE4OC4yMDAuMjI0IiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6ImVlLTEuc3R1bm5lbC5jYyIsImlkIjoiMzUzMTIwMzUtMzMyMC00OTM5LWEwMzUtMzcyMDMxMzAzMjIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzIiwicG9ydCI6Ijg0NDMiLCJwcyI6IkBWMnJheU5HVlBOIFx1MDAzY1x1MDAzZCDaqdin2YbZgduM2q8g2LHYp9uM2q/Yp9mGIiwic2N5Ijoibm9uZSIsInNuaSI6ImVlLTEuc3R1bm5lbC5jYyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9#Anon37
+vmess://eyJhZGQiOiI1LjE4OC4yMDAuMjI0IiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6ImVlLTEuc3R1bm5lbC5jYyIsImlkIjoiMzUzMTIwMzUtMzMyMC00OTM5LWEwMzUtMzcyMDMxMzAzMjIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzIiwicG9ydCI6Ijg0NDMiLCJwcyI6IkBWMnJheU5HVlBOIFx1MDAzY1x1MDAzZCDaqdin2YbZgduM2q8g2LHYp9uM2q/Yp9mGIiwic2N5Ijoibm9uZSIsInNuaSI6ImVlLTEuc3R1bm5lbC5jYyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9#Anon37
 
-vmess://eyJhZGQiOiI1Ny4xMjkuNTkuMTkzIiwiYWlkIjoiMCIsImFscG4iOiJodHRwLzEuMSIsImZwIjoiY2hyb21lIiwiaG9zdCI6InNlcmthdC5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQFYycmF5TkdWUE4gXHUwMDNjXHUwMDNkINqp2KfZhtmB24zaryDYsdin24zar9in2YYiLCJzY3kiOiJhdXRvIiwic25pIjoic2Vya2F0Lm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9#Anon38
+vmess://eyJhZGQiOiI1LjE4OC4yMDAuMjI0IiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6ImVlLTEuc3R1bm5lbC5jYyIsImlkIjoiMzUzMTIwMzUtMzMyMC00OTM5LWEwMzUtMzcyMDMxMzAzMjIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzIiwicG9ydCI6Ijg0NDMiLCJwcyI6IkBWMnJheU5HVlBOIFx1MDAzY1x1MDAzZCDaqdin2YbZgduM2q8g2LHYp9uM2q/Yp9mGIiwic2N5Ijoibm9uZSIsInNuaSI6ImVlLTEuc3R1bm5lbC5jYyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9#Anon38
 
-vmess://eyJhZGQiOiI1Ny4xMjkuNjQuMTk5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwZWxhbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQFYycmF5TkdWUE4gXHUwMDNjXHUwMDNkINqp2KfZhtmB24zaryDYsdin24zar9in2YYiLCJzY3kiOiJhdXRvIiwic25pIjoicGVsYW5nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9#Anon39
+vmess://eyJhZGQiOiI1Ny4xMjkuNTkuMTkzIiwiYWlkIjoiMCIsImFscG4iOiJodHRwLzEuMSIsImZwIjoiY2hyb21lIiwiaG9zdCI6InNlcmthdC5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQFYycmF5TkdWUE4gXHUwMDNjXHUwMDNkINqp2KfZhtmB24zaryDYsdin24zar9in2YYiLCJzY3kiOiJhdXRvIiwic25pIjoic2Vya2F0Lm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9#Anon39
 
 vmess://eyJhZGQiOiI3OC40Ny4xMi45NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwMDQ1MWI3YS1lMGE5LTRlMTktYTZlOS03ZTM4NjkzZTNmMWYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjgwIiwicHMiOiJAVjJyYXlOR1ZQTiBcdTAwM2NcdTAwM2Qg2qnYp9mG2YHbjNqvINix2KfbjNqv2KfZhiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#Anon40
 
@@ -94,8 +94,6 @@ wireguard://KJsnS7k%2FGpoM4oUl2ovI0edpnlo9RDtNgY0CpMWMLEo%3D@162.159.192.1:2408?
 
 wireguard://MFZYLKlJE2dmT2VtZKA5xWpntsEHSGAtfILQ97m%2BFGM%3D@162.159.192.1:500?address=172.16.0.2%2F32&reserved=133%2C136%2C132&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-10-14 18:03
 
-wireguard://MKLrNMRsYwkusCy%2Bns%2BBS%2BS2d3e0ffSdQLRm4ml%2BT28%3D@162.159.192.1:4500?address=172.16.0.2%2F32&reserved=230%2C30%2C129&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-10-09 21:01
-
 wireguard://QCFUk6tdRLJQLawICXzWOY6NPLh6f7jNZbIZaaCTuEc%3D@162.159.192.1:500?address=172.16.0.2%2F32&reserved=149%2C96%2C101&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-10-13 21:03
 
 wireguard://YMoHJ42E33Y2zSboNTRxFEEdX5dP9sSpJucpFQMLvHM%3D@162.159.192.1:2408?address=172.16.0.2%2F32&reserved=253%2C131%2C197&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-10-14 10:03
@@ -109,4 +107,6 @@ wireguard://qEXpywkZwVgAB9xGx1Py8OzK6HsgibJzZYNDvOHvn1k%3D@162.159.192.1:500?add
 wireguard://uI2W1%2FQti0gZ4uk97WkizCjVJF%2Fuzh1P1wR3bKESgVk%3D@162.159.192.1:500?address=172.16.0.2%2F32&reserved=22%2C32%2C11&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-10-13 18:03
 
 wireguard://yA0EUy4J67z%2FjkHifZolrLiVtSlrVQAPIWDqdb9AmG0%3D@162.159.192.1:2408?address=172.16.0.2%2F32&reserved=93%2C147%2C193&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-10-11 10:02
+
+wireguard://yLFsZuIAa9vuoFYHWnh3zntE4HLj948cNsUSRdYZrnE%3D@162.159.192.1:4500?address=172.16.0.2%2F32&reserved=88%2C68%2C77&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-10-14 21:04
 
