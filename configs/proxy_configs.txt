@@ -2,8 +2,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.155:
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@tawaguard.xyz:8080#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
-trojan://ea39fa94f1ee00999337ea1fd3318e69@153.121.41.97:4452?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-
 trojan://telegram-id-privatevpns@15.236.126.88:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@15.236.136.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
@@ -30,25 +28,27 @@ trojan://telegram-id-privatevpns@35.181.189.173:22222?security=tls&alpn=http/1.1
 
 trojan://telegram-id-privatevpns@52.29.25.174:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
+trojan://telegram-id-privatevpns@52.58.179.56:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+
 trojan://telegram-id-privatevpns@63.176.217.28:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-vless://172dbeef-45d0-4c46-9a78-165c41249b72@mtmvpn.mtmvpn.shop:2053?mode=gun&security=reality&encryption=none&authority=Tel%3A%40VPN_KING_V2RAY&pbk=e5UvxkrLcYdiPwgJgl_r5EoCdr3Q3t6ZEzwzPMK9RBw&fp=chrome&spx=%2F&type=grpc&serviceName=Tel%3A%40VPN_KING_V2RAY&sni=tgju.org&sid=b60d4c413f7574#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://169824ec-2dfb-4132-932d-28eb48a74c23@hield.ru:3389?security=reality&encryption=none&pbk=brMfFpfxMeNeqGqG0ZmWdwlnvZBfBTY92Jjyfz8Qyz4&headerType=none&fp=ios&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=0274c94d298e#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.100:80?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-
-vless://4d7bfacf-5402-4505-de9d-323336fcf22a@am8.amin-1.ir:2082?mode=auto&path=%2F%40Archive_Android--------%40Archive_Android--------%40Archive_Android--------%40Archive_Android--------%40Archive_Android--------%40Archive_Android--------%40Archive_Android--------%40Archive_Android--------%40Archive_Android--------%40Archive_Android--------%40Archive_Android--------%40Archive_Android--------%40Archive_Android--------%40Archive_Android--------%40Archive_Android--------%40Archive_Android--------%40Archive_Android--------%40Archive_Android--------%40Archive_Android&security=none&encryption=none&host=am8.amin-1.ir&type=xhttp#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://270663ac-7abe-43e7-9f93-f0ee5ab4968c@[2001:41d0:701:1000::5505]:65531?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443?encryption=none&security=tls&sni=ovhwuxian.pai50288.uk&fp=chrome&type=ws&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
 
 vless://58865a9d-cb00-45ad-833c-3de565eaa184@g2.hirbilon.net:8443?security=reality&encryption=none&pbk=Kr5VgkZRLxyRPRCXitrun1qDpU4z2khp-7SWxmpSfjg&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=68b7c7#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
-vless://Parsashonam-318@91.99.179.233:443?mode=auto&path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam&security=reality&encryption=none&pbk=LOi-3brURXBaOe83KFpaKZ5A4exl3J9qjeZIIWa8GCQ&fp=chrome&spx=%2F&type=xhttp&sni=google.com&sid=0a8b4a1ad485#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-
 vless://a42343e4-c498-42b7-8361-c03a36e7a5fb@46.62.220.103:27802?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&fp=chrome&type=grpc&serviceName=Smxhabwh&sni=offged.sahandconfig.ir#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://c306bf29-80f1-4c4f-83b2-4a97fd28aba5@91.98.164.168:45107?mode=auto&path=%2F%3Fed%3D2048&security=reality&encryption=none&pbk=2DpFIQiJPwU4LZW69_MuOeDqTb8amojGsdM15Xahd0k&host=91.98.164.168&fp=chrome&spx=%2F&type=xhttp&sni=google.com&sid=d4fa#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 
+vless://c9b0f3e2-970e-4b4a-a597-5e16f78a473d@151.101.3.8:80?mode=auto&path=%2FJoin-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=shaldbllu.global.ssl.fastly.net&type=xhttp#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.247:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.185:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.160:8880?encryption=none&security=none&type=grpc#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
 
@@ -78,8 +78,6 @@ wireguard://KNiIzB8JDcWKBz4NuMbGtipkO16b12rDvf6RW8H6PnY%3D@162.159.192.1:4500?ad
 
 wireguard://MPjW1K98lWAJhCLChs1sWHpGY5jQimYEDp7X%2BZByAmg%3D@162.159.192.1:500?address=172.16.0.2%2F32&reserved=117%2C200%2C226&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-10-24 21:02
 
-wireguard://SBd8%2B5k%2FEEpsV5OvrWybElovyER0PfRPq5ynIUSsPk4%3D@162.159.192.1:4500?address=172.16.0.2%2F32&reserved=33%2C3%2C124&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-10-21 18:01
-
 wireguard://UDC0nJQ%2FbHHZldy4ZXmDn%2Bmt8Pv89bisJ8L9BPxUBHk%3D@162.159.192.1:4500?address=172.16.0.2%2F32&reserved=228%2C93%2C65&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-10-23 10:02
 
 wireguard://WL1DUfcWB0uaImUJfjhHApy0L5lRA2%2FXt%2Fwo0DuOC2k%3D@162.159.192.1:4500?address=172.16.0.2%2F32&reserved=91%2C187%2C228&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-10-22 21:01
@@ -92,9 +90,11 @@ wireguard://eDmQ2IHt31s0ckBlfBn1SGDyM%2Fv5iKKLpG0mAf6hi3s%3D@162.159.192.1:500?a
 
 wireguard://gA5rAPXnfiyUWBhMRdBVfENvlYcKt%2ByS%2BpRATD2HD1M%3D@162.159.192.1:4500?address=172.16.0.2%2F32&reserved=65%2C177%2C86&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-10-23 21:02
 
+wireguard://gJJBJH8RKFk31ut1uTHtrGWyN6ue%2BODVhX4NPs9dW3E%3D@162.159.192.1:4500?address=172.16.0.2%2F32&reserved=57%2C72%2C4&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-10-26 18:03
+
 wireguard://mL499xt2IJDBt8YSOTDuBYsU1UQUOqgMoUfnvvTxkEU%3D@162.159.192.1:4500?address=172.16.0.2%2F32&reserved=185%2C45%2C176&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-10-25 18:03
 
 wireguard://oAkLwfScW7%2FBBr0NVYm8qk0CnkyKn2WtLuZR6RYTVnw%3D@162.159.192.1:2408?address=172.16.0.2%2F32&reserved=41%2C173%2C199&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-10-23 18:02
 
-wireguard://yIo8K1zwtdC7pJyRJQQTuxSvt8zKTBZ98BohwQz4IHc%3D@162.159.192.1:4500?address=172.16.0.2%2F32&reserved=42%2C203%2C24&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-10-21 21:01
+wireguard://qNEIkHy9SQCgTfteuNeI8DRZXqoqDpmkhdgTDEjwQ2I%3D@162.159.192.1:2408?address=172.16.0.2%2F32&reserved=117%2C221%2C109&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-10-26 21:03
 
