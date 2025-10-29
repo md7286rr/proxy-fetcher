@@ -28,8 +28,6 @@ trojan://telegram-id-privatevpns@63.179.28.156:22222?security=tls&alpn=http/1.1&
 
 trojan://telegram-id-privatevpns@63.180.165.233:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-vless://128d1209-9e9f-4952-9faf-df47ae3648d2@best.cdniran.info:443?path=%2F&security=tls&encryption=none&alpn=h3,h2&host=smart.taron01.info&fp=chrome&type=ws&sni=smart.taron01.info#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-
 vless://1c4193bb-5130-46b3-9e78-3a2703979c4e@realdom-fr.panelfreedom.com:20810?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=firefox&type=tcp&sni=refersion.com#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://466cdb16-8d8a-46f8-b61d-fcd226a820fd@fin01-vlr02.tcp-reset-club.net:8443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net&sid=175d#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
@@ -42,9 +40,9 @@ vless://58865a9d-cb00-45ad-833c-3de565eaa184@g2.hirbilon.net:8443?security=reali
 
 vless://89bf7903-b90d-4c8a-aad7-bea7a276654c@de.vip-get.ru:443?security=reality&encryption=none&pbk=d4nrz5jZn6OcMGmRr4H-2v6hKexlwe4hKaDMgMqSV3A&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=305b25f707eb#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
-vless://c306bf29-80f1-4c4f-83b2-4a97fd28aba5@91.98.164.168:45107?mode=auto&path=%2F%3Fed%3D2048&security=reality&encryption=none&pbk=2DpFIQiJPwU4LZW69_MuOeDqTb8amojGsdM15Xahd0k&host=91.98.164.168&fp=chrome&spx=%2F&type=xhttp&sni=google.com&sid=d4fa#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
+vless://XgyReWFF8ACTA786HE8Ilw@45.140.42.56:443?security=reality&encryption=none&pbk=LgKGZa-zjvXRcyjeikDont8pFWnljNINfQ_iVBZfYyE&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=googletagmanager.com&sid=e99e1c4cdcf5c413#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
-vless://dd050eb9-bcf8-4e8e-b30e-3bb94e0c46cb@81.19.141.190:55885?security=reality&encryption=none&pbk=Y-XS7D8QuxFKaaOmJHjAmMEhSTSDbKeZxbJBXU0MqUQ&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=3fac56aa61181168#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://c306bf29-80f1-4c4f-83b2-4a97fd28aba5@91.98.164.168:45107?mode=auto&path=%2F%3Fed%3D2048&security=reality&encryption=none&pbk=2DpFIQiJPwU4LZW69_MuOeDqTb8amojGsdM15Xahd0k&host=91.98.164.168&fp=chrome&spx=%2F&type=xhttp&sni=google.com&sid=d4fa#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.160:8880?encryption=none&security=none&type=grpc#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
 
@@ -56,7 +54,9 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638966574572431911.rome-blkaft-aaau
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638970136771547794.athens-blkaft-aaay.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
-vless://ee65638d-6be2-40a1-bb5b-03f03c83f7f5@151.80.254.250:16361?security=reality&encryption=none&pbk=2L8Ldgec-DpR_3CcvFqNF8CP5vBUNtlA31oaMgbUP1Q&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=cloudflare.com&sid=8e#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.38:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=%2F&security=tls&encryption=none&alpn=h3,h2&host=smart.trevanda.info&fp=chrome&type=ws&sni=smart.trevanda.info#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIti52LbZiCDYtNmIIDogQHppYmFuYWJ6IiwNCiAgImFkZCI6ICJ5aWNodWVuZy5vcmciLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIi0tLSIsDQogICJob3N0IjogInlpY2h1ZW5nLm9yZyIsDQogICJwYXRoIjogImxpbmt2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAieWljaHVlbmcub3JnIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=#Anon31
 
