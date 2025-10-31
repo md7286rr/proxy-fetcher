@@ -1,25 +1,25 @@
 {
-  "timestamp": "2025-10-31T22:01:53.541945",
+  "timestamp": "2025-10-31T23:09:09.294744",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 9,
-        "unique_configs": 9,
-        "avg_response_time": 0.57,
+        "valid_configs": 10,
+        "unique_configs": 10,
+        "avg_response_time": 0.61,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 85.4,
-        "last_success": "2025-10-31T22:00:52.469974"
+        "overall_score": 86.58,
+        "last_success": "2025-10-31T23:08:07.527222"
       }
     },
     {
       "url": "https://t.me/s/v2rayvpno",
       "enabled": false,
       "metrics": {
-        "total_configs": 42,
+        "total_configs": 45,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -36,11 +36,11 @@
         "total_configs": 63,
         "valid_configs": 35,
         "unique_configs": 5,
-        "avg_response_time": 0.56,
+        "avg_response_time": 0.63,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 66.62,
-        "last_success": "2025-10-31T22:01:05.281889"
+        "overall_score": 66.52,
+        "last_success": "2025-10-31T23:08:20.536998"
       }
     },
     {
@@ -68,7 +68,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 79.65,
-        "last_success": "2025-10-31T22:01:17.625479"
+        "last_success": "2025-10-31T23:08:32.965200"
       }
     },
     {
@@ -103,21 +103,21 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 14,
-        "valid_configs": 14,
-        "unique_configs": 13,
-        "avg_response_time": 0.43,
+        "total_configs": 16,
+        "valid_configs": 15,
+        "unique_configs": 14,
+        "avg_response_time": 0.51,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 97.57,
-        "last_success": "2025-10-31T22:01:41.561058"
+        "overall_score": 96.01,
+        "last_success": "2025-10-31T23:08:57.163594"
       }
     },
     {
       "url": "https://t.me/s/VlessConfig",
       "enabled": false,
       "metrics": {
-        "total_configs": 42,
+        "total_configs": 48,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -134,11 +134,11 @@
         "total_configs": 16,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.47,
+        "avg_response_time": 0.51,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 97.73,
-        "last_success": "2025-10-31T22:01:53.540029"
+        "overall_score": 97.68,
+        "last_success": "2025-10-31T23:09:09.292770"
       }
     }
   ]
