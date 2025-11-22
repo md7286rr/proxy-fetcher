@@ -1,27 +1,27 @@
 {
-  "timestamp": "2025-11-22T17:02:13.383570",
+  "timestamp": "2025-11-22T18:12:03.660036",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 7,
-        "unique_configs": 7,
-        "avg_response_time": 0.44,
+        "valid_configs": 6,
+        "unique_configs": 6,
+        "avg_response_time": 0.78,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 83.1,
-        "last_success": "2025-11-22T17:01:13.398622"
+        "overall_score": 81.33,
+        "last_success": "2025-11-22T18:10:58.988306"
       }
     },
     {
       "url": "https://t.me/s/v2rayvpno",
       "enabled": true,
       "metrics": {
-        "total_configs": 54,
-        "valid_configs": 6,
-        "unique_configs": 2,
+        "total_configs": 48,
+        "valid_configs": 3,
+        "unique_configs": 1,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -36,11 +36,11 @@
         "total_configs": 54,
         "valid_configs": 30,
         "unique_configs": 5,
-        "avg_response_time": 0.56,
+        "avg_response_time": 0.82,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 67.21,
-        "last_success": "2025-11-22T17:01:25.988218"
+        "overall_score": 66.83,
+        "last_success": "2025-11-22T18:11:12.682614"
       }
     },
     {
@@ -61,14 +61,14 @@
       "url": "https://t.me/s/v2rayngvpn",
       "enabled": true,
       "metrics": {
-        "total_configs": 78,
-        "valid_configs": 14,
+        "total_configs": 80,
+        "valid_configs": 13,
         "unique_configs": 13,
-        "avg_response_time": 0.5,
+        "avg_response_time": 0.77,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.95,
-        "last_success": "2025-11-22T17:01:38.132836"
+        "overall_score": 77.91,
+        "last_success": "2025-11-22T18:11:25.681918"
       }
     },
     {
@@ -104,13 +104,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 16,
-        "valid_configs": 13,
-        "unique_configs": 13,
-        "avg_response_time": 0.37,
+        "valid_configs": 14,
+        "unique_configs": 14,
+        "avg_response_time": 0.67,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.76,
-        "last_success": "2025-11-22T17:02:01.774775"
+        "overall_score": 95.87,
+        "last_success": "2025-11-22T18:11:51.081086"
       }
     },
     {
@@ -134,11 +134,11 @@
         "total_configs": 20,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.36,
+        "avg_response_time": 0.58,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.21,
-        "last_success": "2025-11-22T17:02:13.381671"
+        "overall_score": 92.89,
+        "last_success": "2025-11-22T18:12:03.657963"
       }
     }
   ]
