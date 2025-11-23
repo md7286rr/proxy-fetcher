@@ -36,9 +36,11 @@ trojan://telegram-id-privatevpns@63.177.199.101:22222?security=tls&alpn=http/1.1
 
 trojan://telegram-id-privatevpns@63.180.94.122:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-vless://4c1e7d8e-0335-46cc-ac9a-54ae5d1e0d48@dl.huskar.fonixapp.org:56024?security=reality&encryption=none&pbk=tH91ArnAJMaxIheYR03XgVlF_MTUWQZFY49dJCLpgjU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=steampowered.com&sid=b4#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://1c74a8a1-4e3c-4a56-b164-f0b481e56e60@46.8.231.189:80?mode=gun&security=reality&encryption=none&pbk=auO272-_OexAycHNbiFJCPjdAiujfj2XgjqyAvL5ewo&fp=firefox&spx=%2F&type=grpc&serviceName=%40ShikaVPN&sni=www.cloudflare.com&sid=7ace7f5f#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
-vless://4e6d38dc-c5c4-4dd6-84b9-6dff5f6837c7@clinkz.fonixapp.org:42783?security=reality&encryption=none&pbk=_tS59sZPNLteaD8lXkqEOWmqYJkEMqP1zltupMsfm34&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=42042690#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://39584f02-a282-437c-945b-e11805297ad0@bonefletcher.fonixapp.org:24888?security=reality&encryption=none&pbk=CrczDkPBN0FU0Ohui0vxOpHGMGHSwnzz0Vqujr7jUSk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=indeed.com&sid=12d75b#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+
+vless://4c1e7d8e-0335-46cc-ac9a-54ae5d1e0d48@dl.huskar.fonixapp.org:56024?security=reality&encryption=none&pbk=tH91ArnAJMaxIheYR03XgVlF_MTUWQZFY49dJCLpgjU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=steampowered.com&sid=b4#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443?encryption=none&security=tls&sni=ovhwuxian.pai50288.uk&fp=chrome&type=ws&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
 
@@ -46,13 +48,11 @@ vless://62abfaef-61b0-4b5e-a2b8-490281ab341b@istanbul.fonixapp.org:12177?securit
 
 vless://6474da41-36d4-4675-9b3b-b68d49f64c16@bloodseeker.fonixapp.org:22688?security=reality&encryption=none&pbk=GKOroDaiSIgbEmu_f-SEPypLtVyMUVuPSXSMf3PfF38&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nike.com&sid=3734ad#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
-vless://6fbd48f6-5932-4166-bda4-1724f6f61a91@facelessvoid.fonixapp.org:21405?security=reality&encryption=none&pbk=DWplnF7h0HInlj88rSKUTwBti6hH_yFhxEtX3TKZn08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=steampowered.com&sid=9ec128#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-
 vless://6fdc9193-6649-4cf4-9ddb-09c2e8dfc0c3@elementalss.fonixapp.org:33046?security=reality&encryption=none&pbk=J-XIJJEgRInlpiaAXZRWaeGNXRZG6mmanXm4VuJXjTc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yelp.com&sid=6cbbec#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
-vless://bcc42ff2-fa30-434c-aab8-8ace19cff555@lifestealer.fonixapp.org:45831?security=reality&encryption=none&pbk=6-45Hxz3UsSI3vDzHSGGuDqqEzqwFxEQyl_0sZoMejs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=86e86c#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://a47595a8-1add-401a-8189-e6799f8d8628@zcreat.ethervpn.fun:8443?path=%2Fwebsocketpl%3Fed%3D2047&security=tls&encryption=none&alpn=h2,http/1.1&host=zcreat.ethervpn.fun&fp=chrome&type=ws&sni=zcreat.ethervpn.fun#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
-vless://cdd6164f-efd8-4704-9d78-2cf5b412d346@91.107.132.227:8443?security=none&encryption=none&headerType=none&type=tcp#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://b004ed56-106e-43b0-a12d-286619aae1ba@sandking.fonixapp.org:54500?security=reality&encryption=none&pbk=6ZX2uZOQb7FbLPeIyQLz3BIyCusoDlz1SmtlPXUALTo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudtalk.io&sid=ca#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.160:8880?encryption=none&security=none&type=grpc#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
 
@@ -60,9 +60,9 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.133.235:8880?encryption=none&
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942644808582511.abadan-drc-tusacaf.info:8880?encryption=none&security=none&type=grpc#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
 
-vless://e2ecd0b1-d6cc-4f70-8906-4530fb6eff99@helsinki.fonixapp.org:51713?security=reality&encryption=none&pbk=ETlf5jYSfWCurnzl9iZ3URUFHWB8_JWWR8jrp2UizVs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lowes.com&sid=9e7234a45944#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-
 vless://e58facde-fbbe-479b-bcc2-1c9edf1020f5@necrolyte.fonixapp.org:25617?security=reality&encryption=none&pbk=Ch2wiP52dq6Uau7gXBZVp3F7ysXqLQY-6uVLsH5CjHY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lowes.com&sid=0f39fc8e#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+
+vless://f44d9862-e607-486a-8927-f0f31d685c9f@dwarvensniper.fonixapp.org:39838?security=reality&encryption=none&pbk=RZax6slpjvfUJ46gHwIfIBApUSapP7i7yPz1f1WwBXE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=a193#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://f6478c57-c96d-4697-8255-9c595d9d6739@arcwarden.fonixapp.org:26872?security=reality&encryption=none&pbk=YI0Z--HirbgWUlnb37MtOaHBBT63fKIx_YdZYDCJ2SM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=canva.com&sid=62db#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
@@ -98,8 +98,6 @@ vmess://eyJhZGQiOiJzMy5pcHlhci5vcmciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 
 wireguard://%2BDWBuwYh1IfkTrbTuRQ5XRdbIxPFEZEc6qazb7WDzkw%3D@162.159.192.7:500?address=172.16.0.2%2F32&reserved=147%2C230%2C205&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-11-19 18:02
 
-wireguard://4DdiDJKNnKS63ZgrzzlN7E%2F%2FdQ%2BJ%2Bk9IuwvoSFkCins%3D@162.159.192.4:4500?address=172.16.0.2%2F32&reserved=7%2C134%2C155&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-11-17 10:01
-
 wireguard://CHU1yBDncnkwficuWp%2Bo4dEQjJxwLPsgDAonKk%2FWPVE%3D@162.159.192.7:4500?address=172.16.0.2%2F32&reserved=182%2C153%2C129&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-11-18 21:01
 
 wireguard://CIwQI8O5LDzhnO2W4kAI5XcGijPcKZQ%2FSMJ4Fzrtp3k%3D@162.159.192.1:500?address=172.16.0.2%2F32&reserved=192%2C20%2C69&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-11-19 10:02
@@ -121,6 +119,8 @@ wireguard://SLtOVlnwGmoOzm7B4skYYZC8gvd2ORHeH%2FKnmi33r2k%3D@162.159.192.2:500?a
 wireguard://UKt%2FRwdAW9kZeCP7urW2imrI99iQFrRlkykN2bm%2B4k0%3D@162.159.192.4:4500?address=172.16.0.2%2F32&reserved=14%2C184%2C200&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-11-20 10:02
 
 wireguard://cCyGkNB%2BUC3W7B0t%2FnPh2frq%2F2jJfhSt77s3P65zp2c%3D@162.159.192.1:4500?address=172.16.0.2%2F32&reserved=29%2C4%2C2&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-11-17 18:01
+
+wireguard://cPkWfdhv9IrtBjK42v%2BQrRRnBJW6z2qRG9yujZ%2BJbUs%3D@162.159.192.5:2408?address=172.16.0.2%2F32&reserved=219%2C34%2C175&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-11-22 10:01
 
 wireguard://oClabmlsU6DIyDHn4b9qYN%2Fu3w%2FMun%2FO9sMa7vW1Cl4%3D@162.159.192.7:2408?address=172.16.0.2%2F32&reserved=96%2C196%2C135&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-11-18 10:01
 
