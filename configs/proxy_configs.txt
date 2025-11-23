@@ -34,35 +34,35 @@ trojan://telegram-id-privatevpns@63.177.199.101:22222?security=tls&alpn=http/1.1
 
 trojan://telegram-id-privatevpns@63.178.126.212:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
+vless://14c9809c-8f92-4b58-9949-cf243beb9147@dubai.fonixapp.org:41192?security=reality&encryption=none&pbk=p8HqeoS_56Y8_M1fJgO8WOnULqUW7tva4sxOVsqH4C4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=0014de#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+
 vless://1edafc20-cffb-4921-bb2b-f00ce9864c5c@45.88.183.157:23803?security=none&encryption=none&host=telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----&headerType=none&type=tcp#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
-vless://4a8256b2-8627-4f35-bbcc-6ae3ae9fff1c@ezalor.fonixapp.org:49292?security=reality&encryption=none&pbk=7X3ayYDMuYR4Vz8Px8hDjOIxOMnRncjapXpWIzaKyls&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ilovepdf.com&sid=47#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-
-vless://52a2e2f6-100c-4bcd-8ae8-d3b62aa9a98e@drow-ranger.fonixapp.org:22189?security=reality&encryption=none&pbk=lPSI3kHNhurG5ak6LTNc6NAJmSOvdt8EWjLHdsJXLCE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ilovepdf.com&sid=f2951ff6a7#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://40d7798a-6c76-4298-a9d4-9e6181cd2dd7@nld26.luckernld.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.cybo.com#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443?encryption=none&security=tls&sni=ovhwuxian.pai50288.uk&fp=chrome&type=ws&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
 
+vless://9493b97f-4486-4897-9994-fb8a6803a752@Fr.modem77.ir:2702?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+
 vless://9dc11620-987c-4344-9088-f46fdfae4054@40.160.4.106:8080?path=%2F%3Fed&security=none&encryption=none&host=telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----&type=ws#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-
-vless://TelPJ39@pj2.bestirstorei.top:51714?mode=gun&security=reality&encryption=none&authority=&pbk=35EJSVcyfkkXYQ8b7jp1NA-yXPm43CPL9iwxVTY4ZUY&fp=chrome&spx=%2F&type=grpc&serviceName=%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN&sni=google.com&sid=0dcf095d23b3a490#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-
-vless://TelPJ40@pj2.bestirstorei.top:51714?mode=gun&security=reality&encryption=none&authority=&pbk=35EJSVcyfkkXYQ8b7jp1NA-yXPm43CPL9iwxVTY4ZUY&fp=chrome&spx=%2F&type=grpc&serviceName=%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN&sni=google.com&sid=0dcf095d23b3a490#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://a43aea6e-1ecf-4bc7-afeb-9ab306a2a19c@zeusolympus.fonixapp.org:15409?security=reality&encryption=none&pbk=Y4gxi2ba79pcpcTCp5FDaRzC14ArArsrl__RHNC7_Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=cff4cd#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
-vless://a47595a8-1add-401a-8189-e6799f8d8628@zcreat.ethervpn.fun:8443?path=%2Fwebsocketpl%3Fed%3D2047&security=tls&encryption=none&alpn=h2,http/1.1&host=zcreat.ethervpn.fun&fp=chrome&type=ws&sni=zcreat.ethervpn.fun#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-
 vless://a47595a8-1add-401a-8189-e6799f8d8628@zcreat.ethervpn.fun:8443?path=%2Fwebsocketpl%3Fed%3D2047&security=tls&encryption=none&host=zcreat.ethervpn.fun&fp=chrome&type=ws&sni=zcreat.ethervpn.fun#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
-vless://b004ed56-106e-43b0-a12d-286619aae1ba@sandking.fonixapp.org:54500?security=reality&encryption=none&pbk=6ZX2uZOQb7FbLPeIyQLz3BIyCusoDlz1SmtlPXUALTo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudtalk.io&sid=ca#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://b4bd0613-ff7c-4f2f-954d-185915e6ddad@www.speedtest.net:443?path=%2F%40JavidnamanIran%2FJavid-SHAH-KingRezaPahlavi%2F%3Fed%3D2560&security=tls&encryption=none&host=jnir-cdn.javidnaman.com&type=ws&sni=jnir-cdn.javidnaman.com#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://c648044b-ed62-480d-a707-83c75f75bc0c@betty.ns.cloudflare.com:443?path=%2Fttjsmows&security=tls&encryption=none&host=638993963060199096.cayenne-amsid.info&type=ws&sni=638993963060199096.cayenne-amsid.info#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+
+vless://cfe554a3-4cd5-4fe1-9951-e6b65fc52a74@91.107.139.110:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.160:8880?encryption=none&security=none&type=grpc#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.133.235:8880?encryption=none&security=none&type=grpc#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942644808582511.abadan-drc-tusacaf.info:8880?encryption=none&security=none&type=grpc#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.61:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIti52LbZiCDYtNmIIDogQHppYmFuYWJ6IiwNCiAgImFkZCI6ICJ5aWNodWVuZy5vcmciLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIi0tLSIsDQogICJob3N0IjogInlpY2h1ZW5nLm9yZyIsDQogICJwYXRoIjogImxpbmt2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAieWljaHVlbmcub3JnIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=#Anon34
 
