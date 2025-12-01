@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-01T14:02:10.296015",
+  "timestamp": "2025-12-01T15:02:05.133270",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
@@ -36,11 +36,11 @@
         "total_configs": 54,
         "valid_configs": 30,
         "unique_configs": 5,
-        "avg_response_time": 0.8,
+        "avg_response_time": 0.74,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 66.85,
-        "last_success": "2025-12-01T14:01:19.669878"
+        "overall_score": 66.95,
+        "last_success": "2025-12-01T15:01:15.163194"
       }
     },
     {
@@ -61,14 +61,14 @@
       "url": "https://t.me/s/v2rayngvpn",
       "enabled": true,
       "metrics": {
-        "total_configs": 72,
+        "total_configs": 74,
         "valid_configs": 40,
-        "unique_configs": 23,
-        "avg_response_time": 0.73,
+        "unique_configs": 24,
+        "avg_response_time": 0.69,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.16,
-        "last_success": "2025-12-01T14:01:32.485682"
+        "overall_score": 77.48,
+        "last_success": "2025-12-01T15:01:27.762494"
       }
     },
     {
@@ -106,11 +106,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.63,
+        "avg_response_time": 0.55,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.89,
-        "last_success": "2025-12-01T14:01:57.685695"
+        "overall_score": 95.0,
+        "last_success": "2025-12-01T15:01:52.753975"
       }
     },
     {
@@ -134,11 +134,11 @@
         "total_configs": 19,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.62,
+        "avg_response_time": 0.57,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.8,
-        "last_success": "2025-12-01T14:02:10.294276"
+        "overall_score": 93.89,
+        "last_success": "2025-12-01T15:02:05.131446"
       }
     }
   ]
