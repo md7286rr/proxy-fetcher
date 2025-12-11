@@ -12,7 +12,7 @@ trojan://telegram-id-directvpn@3.235.106.231:22222?security=tls&alpn=http/1.1&he
 
 trojan://telegram-id-directvpn@3.235.106.231:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#ConfigV2RayNG
 
-trojan://telegram-id-privatevpns@13.39.1.54:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+trojan://telegram-id-privatevpns@13.37.88.6:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@13.49.80.237:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#ConfigV2RayNG
 
@@ -20,15 +20,15 @@ trojan://telegram-id-privatevpns@18.153.199.156:22222?security=tls&alpn=http/1.1
 
 trojan://telegram-id-privatevpns@18.170.53.62:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#ConfigV2RayNG
 
-trojan://telegram-id-privatevpns@18.184.185.204:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
 trojan://telegram-id-privatevpns@18.192.74.10:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+
+trojan://telegram-id-privatevpns@3.120.137.7:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@34.255.216.1:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%40ConfigV2RayNG
 
-trojan://telegram-id-privatevpns@51.44.38.121:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+trojan://telegram-id-privatevpns@35.181.224.159:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@51.45.33.224:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+trojan://telegram-id-privatevpns@51.44.38.121:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@51.45.34.110:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
@@ -36,11 +36,11 @@ trojan://telegram-id-privatevpns@52.212.50.83:22222?security=tls&alpn=http/1.1&h
 
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=%2Fsghiyws&security=tls&encryption=none&host=terazhedi.info&type=ws&sni=terazhedi.info#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=%2Fsghiyws&security=tls&encryption=none&host=terazhedi.info&type=ws&sni=terazhedi.info#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-
 vless://2781805a-0cf9-462f-c4af-b8f7e8366f88@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://2781805a-0cf9-462f-c4af-b8f7e8366f88@delilah.ns.cloudflare.com:8080?mode=auto&path=%2F%3FTELEGRAM-JKVPN-JKVPN-JKVPN-JKVPN-JKVPNed%3D2048&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+
+vless://2ca07504-c06a-41a4-b26b-99807a7d24cf@185.234.59.74:8443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&host=Join---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net&sid=e499f276e7bd6420#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://465f35d5-897c-4ce0-811c-24ac58711f45@70.34.209.88:443?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
@@ -48,21 +48,21 @@ vless://669be00c-67b4-4b87-b08f-311c45abced2@third-legend.atlanta-internet.ru:44
 
 vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?path=%2Faymdlws&security=tls&encryption=none&host=picassoo.info&fp=chrome&type=ws&sni=picassoo.info#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
+vless://7270612b-49f6-4b04-999c-34d8263da767@cosmin.ns.cloudflare.com:443?path=%2Faymdlws&security=tls&encryption=none&host=picassoo.info&type=ws&sni=picassoo.info#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+
+vless://763ffbc5-a21c-42e7-86d6-53dfb4dd0dd0@141.227.130.6:46105?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+
 vless://875ec245-7366-48dc-8756-e8889fec8816@de.kaia.pw:8080?path=%2F&security=none&encryption=none&type=ws#ConfigV2RayNG
 
 vless://8d3bd623-1b3c-4aeb-98c4-d42326ee13b2@141.227.132.7:21429?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://aab74025-0737-410c-b048-bcbde3bc1852@141.227.174.26:32418?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
-vless://dfac7622-66ca-4efe-9976-76f04f4e5d8b@m65a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://db54c2ca-abe2-19ae-9abf-46a4aa1598f8@de.u-team.ir:2023?path=%2FMarzbanix%3Fed%3D2048&security=none&encryption=none&host=sAbzNeT.glObal.sSl.fasTly.nEt&type=ws#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@108.162.193.217:443?path=%2Fyhowcws&security=tls&encryption=none&host=azizoarjmand.info&fp=chrome&type=ws&sni=azizoarjmand.info#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@173.245.59.217:443?path=%2Fyhowcws&security=tls&encryption=none&host=azizoarjmand.info&fp=chrome&type=ws&sni=azizoarjmand.info#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-
-vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=%2Fyhowcws&security=tls&encryption=none&host=azizoarjmand.info&type=ws&sni=azizoarjmand.info#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-
-vless://f028a8c0-6763-4558-aee3-2563db9d7825@172.64.32.220:443?path=%2Fxxvclws&security=tls&encryption=none&host=freudd.info&type=ws&sni=freudd.info#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vmess://eyJ2IjoiMiIsInBzIjoi8J+RifCfhpQgQHYycmF5X2NvbmZpZ3NfcG9vbCDwn5OhIPCfh6nwn4eqREUg8J+nrSAzLjJNQi9zIiwiYWRkIjoiYS5jb25maWdub3Iuc2l0ZSIsInBvcnQiOiI3NDQzIiwiaWQiOiJkYmIzMDVkMi1iYWQ3LTRjZjktOTgyZi0xNGJlNWVmZWFmMTUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiIifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon34
 
