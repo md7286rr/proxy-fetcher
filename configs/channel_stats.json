@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-12-14T13:20:26.815143",
+  "timestamp": "2025-12-14T14:08:51.970786",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
         "total_configs": 28,
-        "valid_configs": 12,
-        "unique_configs": 10,
-        "avg_response_time": 0.44,
+        "valid_configs": 11,
+        "unique_configs": 9,
+        "avg_response_time": 0.47,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 80.88,
-        "last_success": "2025-12-14T13:19:15.951335"
+        "overall_score": 79.58,
+        "last_success": "2025-12-14T14:07:41.145449"
       }
     },
     {
@@ -33,7 +33,7 @@
       "url": "https://t.me/s/ZibaNabz",
       "enabled": true,
       "metrics": {
-        "total_configs": 108,
+        "total_configs": 105,
         "valid_configs": 84,
         "unique_configs": 4,
         "avg_response_time": 0,
@@ -68,7 +68,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 80.8,
-        "last_success": "2025-12-14T13:19:51.760025"
+        "last_success": "2025-12-14T14:08:16.923142"
       }
     },
     {
@@ -106,11 +106,11 @@
         "total_configs": 18,
         "valid_configs": 13,
         "unique_configs": 13,
-        "avg_response_time": 0.34,
+        "avg_response_time": 0.33,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 92.54,
-        "last_success": "2025-12-14T13:20:15.235912"
+        "overall_score": 92.56,
+        "last_success": "2025-12-14T14:08:40.412888"
       }
     },
     {
@@ -134,11 +134,11 @@
         "total_configs": 17,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.38,
+        "avg_response_time": 0.41,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.49,
-        "last_success": "2025-12-14T13:20:26.813332"
+        "overall_score": 96.45,
+        "last_success": "2025-12-14T14:08:51.968902"
       }
     }
   ]
