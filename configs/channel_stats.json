@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-16T13:31:34.177088",
+  "timestamp": "2025-12-16T14:13:35.201593",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
@@ -8,11 +8,11 @@
         "total_configs": 49,
         "valid_configs": 28,
         "unique_configs": 18,
-        "avg_response_time": 0.49,
+        "avg_response_time": 0.76,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 79.63,
-        "last_success": "2025-12-16T13:30:21.803937"
+        "overall_score": 79.22,
+        "last_success": "2025-12-16T14:12:20.355749"
       }
     },
     {
@@ -61,14 +61,14 @@
       "url": "https://t.me/s/v2rayngvpn",
       "enabled": true,
       "metrics": {
-        "total_configs": 61,
-        "valid_configs": 15,
-        "unique_configs": 14,
-        "avg_response_time": 0.58,
+        "total_configs": 68,
+        "valid_configs": 17,
+        "unique_configs": 16,
+        "avg_response_time": 0.55,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.62,
-        "last_success": "2025-12-16T13:30:58.274241"
+        "overall_score": 78.95,
+        "last_success": "2025-12-16T14:12:57.976283"
       }
     },
     {
@@ -106,11 +106,11 @@
         "total_configs": 18,
         "valid_configs": 13,
         "unique_configs": 13,
-        "avg_response_time": 0.44,
+        "avg_response_time": 0.55,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 92.39,
-        "last_success": "2025-12-16T13:31:22.293958"
+        "overall_score": 92.23,
+        "last_success": "2025-12-16T14:13:22.844701"
       }
     },
     {
@@ -134,11 +134,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.43,
+        "avg_response_time": 0.55,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.18,
-        "last_success": "2025-12-16T13:31:34.175339"
+        "overall_score": 95.0,
+        "last_success": "2025-12-16T14:13:35.199763"
       }
     }
   ]
