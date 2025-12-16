@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-16T11:02:12.171471",
+  "timestamp": "2025-12-16T12:19:28.832354",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
@@ -8,11 +8,11 @@
         "total_configs": 49,
         "valid_configs": 28,
         "unique_configs": 18,
-        "avg_response_time": 0.51,
+        "avg_response_time": 0.53,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 79.59,
-        "last_success": "2025-12-16T11:00:58.758821"
+        "overall_score": 79.57,
+        "last_success": "2025-12-16T12:18:15.339895"
       }
     },
     {
@@ -61,14 +61,14 @@
       "url": "https://t.me/s/v2rayngvpn",
       "enabled": true,
       "metrics": {
-        "total_configs": 57,
+        "total_configs": 58,
         "valid_configs": 15,
         "unique_configs": 13,
         "avg_response_time": 0.6,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.35,
-        "last_success": "2025-12-16T11:01:35.744858"
+        "overall_score": 77.24,
+        "last_success": "2025-12-16T12:18:52.519079"
       }
     },
     {
@@ -103,21 +103,21 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 14,
-        "valid_configs": 14,
+        "total_configs": 18,
+        "valid_configs": 13,
         "unique_configs": 13,
         "avg_response_time": 0.48,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 97.49,
-        "last_success": "2025-12-16T11:02:00.082496"
+        "overall_score": 92.34,
+        "last_success": "2025-12-16T12:19:16.765979"
       }
     },
     {
       "url": "https://t.me/s/VlessConfig",
       "enabled": false,
       "metrics": {
-        "total_configs": 42,
+        "total_configs": 54,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -138,7 +138,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 95.11,
-        "last_success": "2025-12-16T11:02:12.169610"
+        "last_success": "2025-12-16T12:19:28.830900"
       }
     }
   ]
