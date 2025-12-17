@@ -38,7 +38,7 @@ vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@108.162.194.176:443?path=%2Fsghiyws
 
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@zula.ir:443?path=%2Fsghiyws&security=tls&encryption=none&host=terazhedi.info&type=ws&sni=terazhedi.info#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
-vless://240026c6-3e97-4050-926d-8c2d06bd75c9@151.101.25.242:80?mode=auto&path=%2F&security=none&encryption=none&host=jetfr228.global.ssl.fastly.net&type=xhttp#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@zula.ir:443?path=%2Fsghiyws&security=tls&encryption=none&host=terazhedi.info&type=ws&sni=terazhedi.info#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://3116cc23-0c39-4bb6-8154-d3f332e9017e@fi4.srv.oplcdn.link:6443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree%26&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=debug.resolvertest.doh.umbrella.com&sid=6ba85179e30d4fc2#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
@@ -56,11 +56,11 @@ vless://9e7a7c17-21c2-4119-bb45-e4154e893aaf@46.101.88.198:443?path=%2Fbpuuxxws&
 
 vless://c6210540-defd-4649-9d88-d21e75f4274d@165.227.225.236:443?path=%2Fgbksanws&security=tls&encryption=none&type=ws&sni=io.ozone.ru#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
+vless://d6aa109c-f49a-4658-8ec7-220addd981cc@194.182.79.163:45152?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+
 vless://e566d195-7658-4506-8921-fe368339053a@46.224.121.233:120?security=none&encryption=none&headerType=none&type=tcp#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://e566d195-7658-4506-8921-fe368339053a@46.224.121.233:120?security=none&encryption=none&host=Join---nitruStore---Join---nitruStore%20Join---nitruStore---Join---nitruStore%20Join---nitruStore---Join---nitruStore%20Join---nitruStore---Join---nitruStore%20Join---nitruStore---Join---nitruStore%20Join---nitruStore---Join---nitruStore&headerType=none&type=tcp#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.150:443?path=%2Fhormoz&security=tls&encryption=none&host=%2F---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=ws&sni=github.com#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVVPnvo7lm70obWliZWk3Ny5jb20g57Gz6LSd6IqC54K55YiG5LqrKSIsImFkZCI6InYzMy5oZGFjZC5jb20iLCJwb3J0IjoiMzA4MzMiLCJ0eXBlIjoibm9uZSIsImlkIjoiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwiYWlkIjoiMiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6InYzMy5oZGFjZC5jb20iLCJ0bHMiOiIifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon33
 
@@ -92,6 +92,8 @@ vmess://eyJhZGQiOiJlMDM0OWE1Mi1zdjhjZzAtdDd1aW5mLWk4aWUuaGszLnA1cHYuY29tIiwiYWlk
 
 vmess://eyJhZGQiOiJoYXhldTQuc2Vld29ybGQucHJvIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjJkZGNmMTJkLTUyZmEtNGUwOS1iNGYxLWM1MmQ1Y2JlZTY5YiIsIm5ldCI6IndzIiwicGF0aCI6Ii9ldTRoYXgiLCJwb3J0IjoiODg4MCIsInBzIjoiR2VybWFueTAxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9#Anon47
 
+wireguard://6Ezv2%2BN9BHWSO%2FtyEJbJAx7KTLP0y5YC3d0urpamVG8%3D@162.159.192.3:500?address=172.16.0.2%2F32&reserved=166%2C211%2C147&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-12-16 21:04
+
 wireguard://6FJI0MXkGGmYbjlbJDrVCvva%2FWKegJbaNqoavZr3yko%3D@162.159.192.4:2408?address=172.16.0.2%2F32&reserved=153%2C134%2C136&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-12-12 21:02
 
 wireguard://GPK8dfh20Pzuhe587EwssBeS1BdACzl4gD5Pr0MN1mg%3D@162.159.192.3:500?address=172.16.0.2%2F32&reserved=38%2C82%2C115&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-12-14 18:03
@@ -113,8 +115,6 @@ wireguard://gIvLve2VxxqkmO3mhQG7NHFXf0wr%2FPvUIVAcZpiMLEI%3D@162.159.192.6:4500?
 wireguard://oPwJtpceIVQpV3stpIPOlBFy6s5JsRApeb1kNHnYRH8%3D@162.159.192.6:2408?address=172.16.0.2%2F32&reserved=6%2C159%2C60&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-12-15 21:03
 
 wireguard://qDzypeQeyLsPN9qHiWm3ugCJ5eDVbq7r01TfHfY%2FWUA%3D@162.159.192.2:2408?address=172.16.0.2%2F32&reserved=164%2C71%2C91&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-12-15 10:03
-
-wireguard://qHa52yGYLBP4hfWuLTGONqdXEFOnM%2BZVhNj2jcO1FmI%3D@162.159.192.6:2408?address=172.16.0.2%2F32&reserved=121%2C100%2C255&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-12-11 21:01
 
 wireguard://uIjV6Lb2tiYs1zwjaG9EU3CIJTe7w3b3K5MQkaFgeEg%3D@162.159.192.3:4500?address=172.16.0.2%2F32&reserved=215%2C33%2C169&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-12-13 21:02
 
