@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-18T11:02:40.583915",
+  "timestamp": "2025-12-18T12:18:54.526622",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
@@ -61,14 +61,14 @@
       "url": "https://t.me/s/v2rayngvpn",
       "enabled": true,
       "metrics": {
-        "total_configs": 66,
-        "valid_configs": 29,
-        "unique_configs": 15,
-        "avg_response_time": 0.56,
+        "total_configs": 65,
+        "valid_configs": 25,
+        "unique_configs": 17,
+        "avg_response_time": 0.51,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 73.08,
-        "last_success": "2025-12-18T11:02:04.647385"
+        "overall_score": 75.85,
+        "last_success": "2025-12-18T12:18:19.283089"
       }
     },
     {
@@ -103,21 +103,21 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 12,
-        "valid_configs": 12,
-        "unique_configs": 12,
-        "avg_response_time": 0.43,
+        "total_configs": 18,
+        "valid_configs": 13,
+        "unique_configs": 13,
+        "avg_response_time": 0.38,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.35,
-        "last_success": "2025-12-18T11:02:28.621246"
+        "overall_score": 92.48,
+        "last_success": "2025-12-18T12:18:42.861417"
       }
     },
     {
       "url": "https://t.me/s/VlessConfig",
       "enabled": false,
       "metrics": {
-        "total_configs": 36,
+        "total_configs": 54,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -134,11 +134,11 @@
         "total_configs": 17,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.45,
+        "avg_response_time": 0.39,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.39,
-        "last_success": "2025-12-18T11:02:40.582347"
+        "overall_score": 96.47,
+        "last_success": "2025-12-18T12:18:54.524829"
       }
     }
   ]
