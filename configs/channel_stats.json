@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-12-19T14:10:52.948474",
+  "timestamp": "2025-12-19T15:02:06.339634",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
         "total_configs": 28,
-        "valid_configs": 11,
-        "unique_configs": 11,
+        "valid_configs": 12,
+        "unique_configs": 12,
         "avg_response_time": 0.45,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 84.15,
-        "last_success": "2025-12-19T14:09:41.749910"
+        "overall_score": 85.04,
+        "last_success": "2025-12-19T15:00:54.863366"
       }
     },
     {
@@ -62,13 +62,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 65,
-        "valid_configs": 19,
-        "unique_configs": 19,
-        "avg_response_time": 0.48,
+        "valid_configs": 17,
+        "unique_configs": 17,
+        "avg_response_time": 0.49,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 81.59,
-        "last_success": "2025-12-19T14:10:17.829946"
+        "overall_score": 80.8,
+        "last_success": "2025-12-19T15:01:31.145232"
       }
     },
     {
@@ -106,11 +106,11 @@
         "total_configs": 18,
         "valid_configs": 14,
         "unique_configs": 14,
-        "avg_response_time": 0.35,
+        "avg_response_time": 0.34,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.91,
-        "last_success": "2025-12-19T14:10:41.382795"
+        "overall_score": 93.93,
+        "last_success": "2025-12-19T15:01:54.732301"
       }
     },
     {
@@ -134,11 +134,11 @@
         "total_configs": 19,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.38,
+        "avg_response_time": 0.37,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.17,
-        "last_success": "2025-12-19T14:10:52.946543"
+        "overall_score": 94.19,
+        "last_success": "2025-12-19T15:02:06.337631"
       }
     }
   ]
