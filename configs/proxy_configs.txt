@@ -12,8 +12,6 @@ trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electr
 
 trojan://fa91291a-7234-49fd-be27-34141258b159@45.85.118.241:443?path=%2FtTcZC0WxEj%2Ftrojanws&security=tls&host=join-to-oxnet-ch-network-cdfake.userargo1723.cf&type=ws&sni=join-to-oxnet-ch-network-cdfake.userargo1723.cf#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D9%85%D8%A7+%40vpnmasi
 
-trojan://telegram-id-privatevpns@13.36.79.95:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
 trojan://telegram-id-privatevpns@13.39.126.133:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@15.236.125.108:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
@@ -26,6 +24,8 @@ trojan://telegram-id-privatevpns@35.180.13.228:22222?security=tls&alpn=http/1.1&
 
 trojan://telegram-id-privatevpns@35.180.77.112:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
+trojan://telegram-id-privatevpns@35.181.241.61:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+
 trojan://telegram-id-privatevpns@51.44.121.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@51.44.146.211:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
@@ -35,8 +35,6 @@ trojan://telegram-id-privatevpns@52.59.43.9:22222?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-privatevpns@63.181.124.153:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@63.181.215.244:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
-vless://02e46039-200d-4ae4-ac90-b0d619f72034@clyde.ns.cloudflare.com:443?path=%2Faafeuws&security=tls&encryption=none&host=redlabell.info&type=ws&sni=redlabell.info#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://3a83ab7a-9b6f-460c-a128-1799f63695e3@89.208.86.65:443?security=reality&encryption=none&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=f32140952ba18e18#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
@@ -48,8 +46,6 @@ vless://875d9d7a-ddba-48b2-bcb5-0324da0b93b2@65.109.198.23:53330?path=%2F&securi
 
 vless://8efcae96-9dc7-4612-b17c-9a372ed84ddd@151.101.205.194:80?mode=auto&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%2210-100%22%2C%20%22noSSEHeader%22%3Atrue%7D&host=e1.ir&type=xhttp#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
-vless://9b6a17f2-1df5-4e13-dd28-7a984df514a0@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=%2F&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-
 vless://TELEGRAM-CONFiGLiNE-%20102@de.fastlynew.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=barakanal5.global.ssl.fastly.net&type=xhttp#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://a207569d-bf8f-43dd-81fd-2c847c7870c4@ams1.fromblancwithlove.com:8443?security=tls&encryption=none&alpn=h2&headerType=none&fp=chrome&type=tcp&sni=ams1.fromblancwithlove.com#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
@@ -60,7 +56,11 @@ vless://c495cf08-e046-4311-aa4b-82cc16576992@51.250.66.217:444?mode=gun&security
 
 vless://c495cf08-e046-4311-aa4b-82cc16576992@51.250.66.217:444?mode=gun&security=reality&encryption=none&pbk=L0ZCh9LynIMEkK9BZq3gC--mzL6xnR4bkBJmXHSwVCM&type=grpc&serviceName=ads.x5.ru&sni=ads.x5.ru&sid=0614386789abcdef#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
+vless://c495cf08-e046-4311-aa4b-82cc16576992@51.250.75.169:444?mode=gun&security=reality&encryption=none&authority=&pbk=L0ZCh9LynIMEkK9BZq3gC--mzL6xnR4bkBJmXHSwVCM&fp=chrome&type=grpc&serviceName=ads.x5.ru&sni=ads.x5.ru&sid=0614386789abcdef#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+
 vless://c495cf08-e046-4311-aa4b-82cc16576992@51.250.88.6:446?mode=gun&security=reality&encryption=none&authority=&pbk=mMaSUsOC5i3ErLDcaWW9UOOjG0fcKPCwVjzGS1wXQx8&fp=chrome&type=grpc&serviceName=ads.x5.ru&sni=ads.x5.ru&sid=0512567389abcdef#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+
+vless://ee054689-0fbf-4cc9-bdac-d0702e44b617@labs.leaseweb.com:2052?path=%2Fdownloadvideo&security=none&encryption=none&host=ussss.a1mshop.ir&type=ws#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://fa91291a-7234-49fd-be27-34141258b159@45.85.118.241:443?mode=multi&security=tls&encryption=none&type=grpc&serviceName=tTcZC0WxEj-vlgrpc&sni=join-to-oxnet-ch-network-cdfake.userargo1723.cf#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D9%85%D8%A7+%40vpnmasi
 
@@ -102,11 +102,11 @@ wireguard://ABk55iSyWiWGbEA23CGdj7L9lgYtuWvyFffmWQUI%2FWQ%3D@162.159.192.4:500?a
 
 wireguard://ELEN0Ub1p3tv04iXwwIs1SAr0nhSqkP8aSK3sMCBSEA%3D@162.159.192.6:4500?address=172.16.0.2%2F32&reserved=231%2C131%2C215&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-12-21 10:01
 
+wireguard://GO%2FhrQe2xNNN5z89%2B602f7EKelsPuTu6%2BKVpP5mB%2Bko%3D@162.159.192.3:2408?address=172.16.0.2%2F32&reserved=246%2C10%2C16&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-12-22 21:02
+
 wireguard://KAz%2BhCBWxU%2Bc9iMzjJF9IuGB3HQdjPQeEynNzp%2FVXG8%3D@162.159.192.2:2408?address=172.16.0.2%2F32&reserved=83%2C91%2C169&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-12-20 10:01
 
 wireguard://MGU0A7oQYjygNqGt%2FEGpXWi428Tj6nJMAz6z0iwZdVE%3D@162.159.192.2:4500?address=172.16.0.2%2F32&reserved=34%2C255%2C49&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-12-22 18:02
-
-wireguard://UIvcSonE%2F1X7BZH%2BB7SjJwCIVxIRiUA%2F0Hg4w3agSEY%3D@162.159.192.6:500?address=172.16.0.2%2F32&reserved=146%2C255%2C187&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-12-17 21:04
 
 wireguard://UPvjyp873KY%2FON8wTVIc%2F1Nd%2BKpx8oyXxe4GDYDTDH4%3D@162.159.192.2:4500?address=172.16.0.2%2F32&reserved=53%2C170%2C99&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-12-21 18:01
 
