@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-26T20:10:01.215961",
+  "timestamp": "2025-12-26T21:08:41.705289",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
@@ -8,11 +8,11 @@
         "total_configs": 34,
         "valid_configs": 19,
         "unique_configs": 18,
-        "avg_response_time": 0.48,
+        "avg_response_time": 0.67,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 86.93,
-        "last_success": "2025-12-26T20:08:49.820443"
+        "overall_score": 86.64,
+        "last_success": "2025-12-26T21:07:24.841662"
       }
     },
     {
@@ -61,14 +61,14 @@
       "url": "https://t.me/s/v2rayngvpn",
       "enabled": true,
       "metrics": {
-        "total_configs": 57,
-        "valid_configs": 23,
+        "total_configs": 48,
+        "valid_configs": 21,
         "unique_configs": 13,
-        "avg_response_time": 0.52,
+        "avg_response_time": 0.75,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 73.43,
-        "last_success": "2025-12-26T20:09:25.804954"
+        "overall_score": 75.29,
+        "last_success": "2025-12-26T21:08:03.427071"
       }
     },
     {
@@ -106,11 +106,11 @@
         "total_configs": 14,
         "valid_configs": 12,
         "unique_configs": 12,
-        "avg_response_time": 0.38,
+        "avg_response_time": 0.65,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.86,
-        "last_success": "2025-12-26T20:09:49.556258"
+        "overall_score": 95.46,
+        "last_success": "2025-12-26T21:08:28.887013"
       }
     },
     {
@@ -134,11 +134,11 @@
         "total_configs": 16,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.38,
+        "avg_response_time": 0.65,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 97.87,
-        "last_success": "2025-12-26T20:10:01.214587"
+        "overall_score": 97.46,
+        "last_success": "2025-12-26T21:08:41.703449"
       }
     }
   ]
