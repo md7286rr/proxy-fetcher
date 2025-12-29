@@ -1,25 +1,25 @@
 {
-  "timestamp": "2025-12-29T22:10:06.623966",
+  "timestamp": "2025-12-29T23:10:02.756295",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
         "total_configs": 23,
-        "valid_configs": 8,
-        "unique_configs": 8,
-        "avg_response_time": 0.45,
+        "valid_configs": 7,
+        "unique_configs": 7,
+        "avg_response_time": 0.38,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 83.02,
-        "last_success": "2025-12-29T22:08:55.103976"
+        "overall_score": 82.04,
+        "last_success": "2025-12-29T23:08:51.699578"
       }
     },
     {
       "url": "https://t.me/s/v2rayvpno",
       "enabled": false,
       "metrics": {
-        "total_configs": 54,
+        "total_configs": 51,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -64,11 +64,11 @@
         "total_configs": 66,
         "valid_configs": 23,
         "unique_configs": 18,
-        "avg_response_time": 0.5,
+        "avg_response_time": 0.53,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.53,
-        "last_success": "2025-12-29T22:09:31.252878"
+        "overall_score": 77.49,
+        "last_success": "2025-12-29T23:09:27.587629"
       }
     },
     {
@@ -109,8 +109,8 @@
         "avg_response_time": 0.39,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.3,
-        "last_success": "2025-12-29T22:09:54.860580"
+        "overall_score": 96.29,
+        "last_success": "2025-12-29T23:09:51.054035"
       }
     },
     {
@@ -134,11 +134,11 @@
         "total_configs": 12,
         "valid_configs": 12,
         "unique_configs": 12,
-        "avg_response_time": 0.47,
+        "avg_response_time": 0.46,
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 99.3,
-        "last_success": "2025-12-29T22:10:06.622164"
+        "last_success": "2025-12-29T23:10:02.754764"
       }
     }
   ]
