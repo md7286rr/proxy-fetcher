@@ -52,17 +52,13 @@ vless://2364f94b-f985-478b-d694-879bb47d14e6@all.app-nima.shop:3749?security=non
 
 vless://460e4a75-1b9c-47b5-bfc3-52191530bffd@185.170.154.39:443?security=reality&encryption=none&pbk=hpvDv1CqHc_smuVyFqZdjPJxAbkkx92PVbnHYaZbXT4&headerType=none&fp=firefox&spx=%2Fsinavm-sinavm&type=tcp&flow=xtls-rprx-vision&sni=germany67.clearorbitllc.com&sid=1a53728e66#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
-vless://46930a41-9f9e-4489-be5b-4274788c510f@verarussia1.uspn.io:8443?security=reality&encryption=none&pbk=U1qZy5wSBnJoymrD-uoznjsGocSeM3_0q-kDlhkzygI&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=xverarussia1.uspn.io&sid=2116e851d2f28868#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-
-vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?path=%2F&security=none&encryption=none&host=cloudflare.com&type=ws#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-
 vless://493d5565-9c06-4d2f-a252-cbd9d2be3516@osn.takovpn.ru:443?security=reality&encryption=none&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=47e4c3980f872e68#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://58ceb9d3-f74a-4673-f6f6-9b863bb80eb5@DEADSEECtelegram.slimshopboyss.ir:8080?security=none&encryption=none&headerType=none&type=tcp#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://669be00c-67b4-4b87-b08f-311c45abced2@third-legend.atlanta-internet.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=static.rutube.ru&fp=chrome&pbk=a_LbD81zTm6S8JtU98gY00xqsPOEucV4k0OEx0LOwgQ&sid=ffffffffff&type=tcp&headerType=none#I%201255%20%28%40Outline_Vpn%29%20free
 
-vless://7e669fcd-4dd9-4c87-ab10-f6d4ddee68cd@91.99.67.80:47158?security=none&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://70b84e89-b42a-4c91-896b-1c3dbd98a203@purplelily.qzz.io:443?path=%2F23.95.56.195%3A443&security=tls&encryption=none&host=purplelily.qzz.io&type=ws&sni=purplelily.qzz.io#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://9357d31a-97f5-492b-9a9d-24dcb3449fb9@94.156.115.109:443?security=reality&encryption=none&pbk=2XHOm5oJ92noxYHfahYv6dABkpp-bdehIA5grPB1X2c&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tunnel.vk-apps.com&sid=beba4237#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
@@ -73,6 +69,10 @@ vless://9f870015-3572-4ed6-bda4-23adecb8d344@84.234.28.119:51912?security=realit
 vless://Ow9er12@pj2.bestirstorei.top:46775?mode=gun&security=reality&encryption=none&authority=&pbk=OH1w3DsHrif4376TNzt13svaKm3_ziFWpPnTtu6Wuw0&fp=chrome&spx=%2F&type=grpc&serviceName=%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40ProxyPJ--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN--%40FuseVPN&sni=Speedtest.net&sid=00#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://b9b8cf4c-29a3-4288-9c6c-8811dc37beec@188.114.96.11:2087?path=%2F5z5wdmesbon0p3kk%3Fed%3D2560&security=tls&encryption=none&host=xLZ767v2Ray.PAgEs.dev&fp=chrome&type=ws&sni=xLZ767v2Ray.PAgEs.dev#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+
+vless://e80f946d-0f7e-4ee6-a9d5-d52516c9f672@198.244.141.25:25376?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+
+vless://f2119e6c-685b-45bb-97de-229696cb30c7@brenna.ns.cloudflare.com:443?path=%2Fbytyguws&security=tls&encryption=none&host=639020094881472575.defender-amsjk.info&type=ws&sni=639020094881472575.defender-amsjk.info#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIti52LbZiCDYtNmIIDogQHppYmFuYWJ6IiwNCiAgImFkZCI6ICJlYmMuem9vbS51cyIsDQogICJwb3J0IjogIjg0NDMiLA0KICAiaWQiOiAiNDRlNTc0ODUtZWNjYy00NmVmLTgwOGYtY2QxN2FjODEwMDE4IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIi0tLSIsDQogICJob3N0IjogIm5vZGU0LnJ0eGNvbmZpZ3ouY29tIiwNCiAgInBhdGgiOiAiL0BNYWxpbmRhNjEwNCIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJub2RlNC5ydHhjb25maWd6LmNvbSIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9#Anon39
 
@@ -88,7 +88,7 @@ vmess://eyJhZGQiOiI4LjIxMC4xNDAuMjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 
 vmess://eyJhZGQiOiJ2MS5tZWhyYWRzZXJ2aWNlLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI2YmRmNTkyMi0zZmZlLTRlNDMtYmRlYi00YWIyOGVhYmZmNDMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQzMzI0IiwicHMiOiJAVjJyYXlOR1ZQTiBcdTAwM2NcdTAwM2Qg2qnYp9mG2YHbjNqvINix2KfbjNqv2KfZhiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#Anon45
 
-vmess://eyJhZGQiOiJieGF3ZGJ3ZHR5aGpzZ2QuNzY4OTgxMDIueHl6IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJlYWVmY2I2NC0yNzc2LTM3MDYtYjk2My1hMTlhMjQzMzc1NWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc2VpZmJpYmdlZiIsInBvcnQiOjIwNTIsInBzIjoi5be06KW/NyB8IDAuM3hfMiIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoyfQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon46
+vmess://eyJhZGQiOiJ3dXNwbmQuemVlb29tYm9vbS5kZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3VzcG5kLnplZW9vbWJvb20uZGUiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Ii92aWRlby9icmhzZjkubTN1OCIsInBvcnQiOiI0NDMiLCJwcyI6IkFsbC1AVjJyYXlBbHBoYS0tMTUiLCJzY3kiOiJhdXRvIiwic25pIjoid3VzcG5kLnplZW9vbWJvb20uZGUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon46
 
 wireguard://4OEZ%2Fqt%2FFvNxAgLWI0JjkSZVUj1XBSLzVXTdUbgT124%3D@162.159.192.2:4500?address=172.16.0.2%2F32&reserved=225%2C250%2C131&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-12-27 10:04
 
