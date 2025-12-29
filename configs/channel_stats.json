@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-29T07:17:15.087515",
+  "timestamp": "2025-12-29T08:16:25.159227",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
@@ -8,11 +8,11 @@
         "total_configs": 20,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.7,
+        "avg_response_time": 0.73,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 81.45,
-        "last_success": "2025-12-29T07:15:57.937839"
+        "overall_score": 81.41,
+        "last_success": "2025-12-29T08:15:11.094923"
       }
     },
     {
@@ -61,14 +61,14 @@
       "url": "https://t.me/s/v2rayngvpn",
       "enabled": true,
       "metrics": {
-        "total_configs": 55,
-        "valid_configs": 35,
+        "total_configs": 63,
+        "valid_configs": 41,
         "unique_configs": 22,
-        "avg_response_time": 0.74,
+        "avg_response_time": 0.6,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 80.51,
-        "last_success": "2025-12-29T07:16:36.812701"
+        "overall_score": 78.78,
+        "last_success": "2025-12-29T08:15:48.376926"
       }
     },
     {
@@ -103,21 +103,21 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 16,
+        "total_configs": 14,
         "valid_configs": 13,
         "unique_configs": 13,
-        "avg_response_time": 0.62,
+        "avg_response_time": 0.54,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.38,
-        "last_success": "2025-12-29T07:17:02.427095"
+        "overall_score": 97.4,
+        "last_success": "2025-12-29T08:16:13.058046"
       }
     },
     {
       "url": "https://t.me/s/VlessConfig",
       "enabled": false,
       "metrics": {
-        "total_configs": 48,
+        "total_configs": 42,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -131,14 +131,14 @@
       "url": "https://t.me/s/freewireguard",
       "enabled": true,
       "metrics": {
-        "total_configs": 15,
-        "valid_configs": 15,
-        "unique_configs": 15,
-        "avg_response_time": 0.63,
+        "total_configs": 14,
+        "valid_configs": 14,
+        "unique_configs": 14,
+        "avg_response_time": 0.5,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.06,
-        "last_success": "2025-12-29T07:17:15.085739"
+        "overall_score": 99.25,
+        "last_success": "2025-12-29T08:16:25.157446"
       }
     }
   ]
