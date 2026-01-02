@@ -26,9 +26,9 @@ trojan://telegram-id-privatevpns@18.158.6.166:22222?security=tls&alpn=http/1.1&h
 
 trojan://telegram-id-privatevpns@3.125.182.174:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@35.181.149.131:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+trojan://telegram-id-privatevpns@35.180.15.180:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@35.181.163.12:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+trojan://telegram-id-privatevpns@35.181.149.131:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@63.179.21.238:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
@@ -37,6 +37,8 @@ vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@212.183.88.158:2096?path=%2F%3Fed%3
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@5.10.214.158:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&host=sni.111000.de5.net&type=ws&sni=sni.111000.de5.net#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://1a99307d-7dfb-4f0c-dcc5-8098f94033f8@95.216.154.119:37265?path=%2F&security=none&encryption=none&type=ws#ConfigV2RayNG
+
+vless://2f60be6f-be0c-48b4-9772-b56f42b51ba1@6l1ri1my5qhq4.iilangolnmlx.lat:2052?mode=gun&security=reality&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&pbk=TpEz8VPxZxx1E-fckWTvTB9U4v7ZFzW65WAs2OmkbDA&fp=chrome&type=grpc&sni=web.eitaa.com&sid=9bfc#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://309fa273-6579-4cb2-9143-7cad50401eba@45.15.185.69:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
@@ -53,8 +55,6 @@ vless://936b1432-705d-4776-9ad0-b6cfb83bde8f@alirezavpnsky.love-iran.site:26081?
 vless://ab67195a-b9b1-46ae-9f93-7d73f49c437b@irc.baxbrox.com:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test.baxbrox.com#%40ConfigV2RayNG
 
 vless://b83c3206-fa24-465b-b340-ec46438c95b9@mci.baxbrox.com:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test.baxbrox.com#%40ConfigV2RayNG
-
-vless://c07c29af-dada-427c-8f28-15b7200a6c08@51.68.93.212:10125?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://c2d09c1c-7d4d-46c4-838f-ad263b93c4e1@194.87.29.240:443?security=reality&encryption=none&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=bc97736f81817c41#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
