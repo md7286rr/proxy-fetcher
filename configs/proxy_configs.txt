@@ -28,9 +28,9 @@ trojan://telegram-id-privatevpns@3.125.182.174:22222?security=tls&alpn=http/1.1&
 
 trojan://telegram-id-privatevpns@35.180.15.180:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@35.181.149.131:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
 trojan://telegram-id-privatevpns@63.179.21.238:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+
+trojan://telegram-id-privatevpns@63.181.90.241:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@212.183.88.158:2096?path=%2F%3Fed%3D2560Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&security=tls&encryption=none&host=sni.111000.de5.net&fp=chrome&type=ws&sni=sni.111000.de5.net#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
