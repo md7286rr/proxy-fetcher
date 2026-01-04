@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-04T18:14:02.881416",
+  "timestamp": "2026-01-04T19:01:59.849458",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
@@ -8,18 +8,18 @@
         "total_configs": 27,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 0.4,
+        "avg_response_time": 0.57,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 83.66,
-        "last_success": "2026-01-04T18:12:51.642982"
+        "overall_score": 83.4,
+        "last_success": "2026-01-04T19:00:48.315720"
       }
     },
     {
       "url": "https://t.me/s/v2rayvpno",
       "enabled": false,
       "metrics": {
-        "total_configs": 51,
+        "total_configs": 45,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -61,14 +61,14 @@
       "url": "https://t.me/s/v2rayngvpn",
       "enabled": true,
       "metrics": {
-        "total_configs": 49,
+        "total_configs": 51,
         "valid_configs": 23,
         "unique_configs": 15,
-        "avg_response_time": 0.5,
+        "avg_response_time": 0.48,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.3,
-        "last_success": "2026-01-04T18:13:27.449970"
+        "overall_score": 76.86,
+        "last_success": "2026-01-04T19:01:24.145628"
       }
     },
     {
@@ -110,7 +110,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 99.42,
-        "last_success": "2026-01-04T18:13:51.081338"
+        "last_success": "2026-01-04T19:01:48.149455"
       }
     },
     {
@@ -134,11 +134,11 @@
         "total_configs": 9,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.43,
+        "avg_response_time": 0.39,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.36,
-        "last_success": "2026-01-04T18:14:02.879662"
+        "overall_score": 99.42,
+        "last_success": "2026-01-04T19:01:59.847744"
       }
     }
   ]
