@@ -32,15 +32,15 @@ vless://0fcd76c0-67b2-4ba7-bc5f-d4c6dd334f8b@185.226.92.168:2082?encryption=none
 
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@192.0.54.158:2096?encryption=none&security=tls&sni=sni.111000.de5.net&insecure=0&allowInsecure=0&type=ws&host=sni.111000.de5.net&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
 
-vless://2ffbe636-4bd7-4e4a-82c3-03265c293366@cfcdn.zopli.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=cdn-se.lopzo.ir#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
-
 vless://41c2fdac-3212-468b-bf4f-6c14ad2b8bdd@meta-hub.megaconfig.com:1198?encryption=none&security=reality&sni=refersion.com&fp=chrome&pbk=J4od8RrAV4Us8mO38jkKdaW6yb-8TqISgE0ttrtPoV4&sid=908833730613ddfb&type=tcp&headerType=none#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
 
 vless://5f6f0e0b-5e9c-4116-8cac-6b325fcc4849@198.62.62.127:443?encryption=none&security=tls&sni=x1.x-smm.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=x1.x-smm.com&path=%2Fapi%2Fv1%2Fchat#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
 
-vless://6abc2840-25fd-4dd7-b1aa-0892fe98f2d9@nodejs.org:80?path=%2F%3Fed&security=none&encryption=none&host=MySterIOUS-chECk94Bl5oXQ6C.eCoTOUriSs.cO.uK.&type=ws#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
-
 vless://807f-32ef-c229-0804-ebc15aef@sv-fl-2.servadd.net:587?encryption=none&security=none&type=ws&path=%2F#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
+
+vless://82d4ad71-89c6-4d09-8371-8f047f1f7998@cdn.sjdpictures.ir:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=j.jadgal.dpdns.org#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
+
+vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.17.162.123:8443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=r4fnviw9jl4i4rx.zjde5.de5.net&fp=random&type=ws&allowInsecure=0&sni=r4fnviw9jl4i4rx.zjde5.de5.net#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 
 vless://8aeaaf22-b700-495c-8ca3-391764e0e9ad@ipc2.gptban.com:443?encryption=none&security=tls&sni=Dl3.ranGsarDI13.iR.&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=dl3.rangsardi13.ir&path=dl%3Fed%3D2560&mode=auto&extra=%7B%22downloadSettings%22%3A%7B%22address%22%3A%22ipc2.gptban.com%22%2C%22port%22%3A443%2C%22network%22%3A%22xhttp%22%2C%22security%22%3A%22tls%22%2C%22tlsSettings%22%3A%7B%22serverName%22%3A%22uP3.RAngsardI12.iR.%22%7D%2C%22xhttpSettings%22%3A%7B%22path%22%3A%22%2Fdl%3Fed%3D2560%22%2C%22host%22%3A%22up3.rangsardi12.ir%22%2C%22mode%22%3A%22auto%22%7D%7D%7D#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
 
