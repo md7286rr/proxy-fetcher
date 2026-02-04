@@ -1,25 +1,25 @@
 {
-  "timestamp": "2026-02-04T18:32:09.859923",
+  "timestamp": "2026-02-04T19:30:54.483277",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
-        "total_configs": 20,
-        "valid_configs": 6,
-        "unique_configs": 6,
-        "avg_response_time": 0.47,
+        "total_configs": 32,
+        "valid_configs": 18,
+        "unique_configs": 18,
+        "avg_response_time": 0.57,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 81.79,
-        "last_success": "2026-02-04T18:30:24.502469"
+        "overall_score": 88.21,
+        "last_success": "2026-02-04T19:29:41.625362"
       }
     },
     {
       "url": "https://t.me/s/v2rayvpno",
       "enabled": false,
       "metrics": {
-        "total_configs": 6,
+        "total_configs": 3,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -33,14 +33,14 @@
       "url": "https://t.me/s/ZibaNabz",
       "enabled": true,
       "metrics": {
-        "total_configs": 6,
-        "valid_configs": 6,
-        "unique_configs": 5,
-        "avg_response_time": 0.54,
+        "total_configs": 8,
+        "valid_configs": 8,
+        "unique_configs": 6,
+        "avg_response_time": 0.6,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.02,
-        "last_success": "2026-02-04T18:30:36.678081"
+        "overall_score": 92.84,
+        "last_success": "2026-02-04T19:29:54.166665"
       }
     },
     {
@@ -104,13 +104,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 16,
-        "valid_configs": 14,
-        "unique_configs": 14,
-        "avg_response_time": 0.48,
+        "valid_configs": 8,
+        "unique_configs": 8,
+        "avg_response_time": 0.51,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.16,
-        "last_success": "2026-02-04T18:31:23.743843"
+        "overall_score": 86.74,
+        "last_success": "2026-02-04T19:30:42.250246"
       }
     },
     {
@@ -131,14 +131,14 @@
       "url": "https://t.me/s/freewireguard",
       "enabled": true,
       "metrics": {
-        "total_configs": 19,
+        "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 26.33,
+        "avg_response_time": 0.51,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 79.74,
-        "last_success": "2026-02-04T18:32:09.858132"
+        "overall_score": 95.07,
+        "last_success": "2026-02-04T19:30:54.481904"
       }
     }
   ]
