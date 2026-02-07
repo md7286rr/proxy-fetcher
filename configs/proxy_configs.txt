@@ -14,6 +14,8 @@ trojan://telegram-id-directvpn@35.182.251.249:22222?security=tls&alpn=http/1.1&h
 
 trojan://telegram-id-privatevpns@13.37.19.80:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
+trojan://telegram-id-privatevpns@13.39.127.100:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+
 trojan://telegram-id-privatevpns@13.39.246.81:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@13.48.55.194:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%40ConfigV2RayNG Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
@@ -33,8 +35,6 @@ trojan://telegram-id-privatevpns@35.181.33.57:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@63.181.75.67:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@63.182.112.185:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
-trojan://telegram-id-privatevpns@63.182.232.106:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 vless://1a99307d-7dfb-4f0c-dcc5-8098f94033f8@95.216.154.119:37265?path=%2F&security=none&encryption=none&type=ws#ConfigV2RayNG
 
@@ -92,8 +92,6 @@ wireguard://EOTFRwwD%2Fp8Rk82o%2FwVuWyVtibiR%2FvCUxhEUJ8SMsXc%3D@162.159.192.5:4
 
 wireguard://GE9MWsFNrAyMk4Cpk8e5t4EDN57LL%2BcPVla86JZJVUw%3D@162.159.192.2:500?address=172.16.0.2%2F32&reserved=36%2C251%2C253&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-02-02 18:04
 
-wireguard://KJnLRZAzPG8cTKDG2JSSkNI%2Fpl9lX8p6wipFO%2F6l83w%3D@162.159.192.6:2408?address=172.16.0.2%2F32&reserved=215%2C176%2C220&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-02-01 21:04
-
 wireguard://MDfRsTEqt2wzo%2BENNkFOiS8LCf5G8QA8%2Fjnn7HH3aXk%3D@162.159.192.2:2408?address=172.16.0.2%2F32&reserved=110%2C30%2C34&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-02-02 21:04
 
 wireguard://MJgw4GUoR9btOb8y7aZH%2BAAdR2JrnmU92hUN2QNL5Xs%3D@162.159.192.7:4500?address=172.16.0.2%2F32&reserved=52%2C92%2C231&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-02-03 18:00
@@ -109,6 +107,8 @@ wireguard://UA7Bnyi8IB48c7S8AX2CvFUrEJqhjZhUicRi0N5%2B6EQ%3D@162.159.192.4:4500?
 wireguard://WEgC8zaq11I%2FyRA31Q3a9kX3vHdgO1hErb15uRBdzms%3D@162.159.192.1:2408?address=172.16.0.2%2F32&reserved=197%2C151%2C196&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-02-04 18:00
 
 wireguard://aKKXYogaOExTqBgdD1mJg13nFSUmB0%2BrUn7EyCWPs2A%3D@162.159.192.6:2408?address=172.16.0.2%2F32&reserved=203%2C21%2C242&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-02-05 21:01
+
+wireguard://oLJVVzh6uvigj1cH9mCNYjflzwVyI8OTpAgcBPFcwFs%3D@162.159.192.2:4500?address=172.16.0.2%2F32&reserved=80%2C246%2C117&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-02-06 21:01
 
 wireguard://qFAbmNR9i584w1l9HGhiuTWXNgvh4wXrCjb9aNXYr2c%3D@162.159.192.4:4500?address=172.16.0.2%2F32&reserved=21%2C12%2C91&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-02-04 10:00
 
