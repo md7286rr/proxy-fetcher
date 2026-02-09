@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-02-09T11:37:18.046810",
+  "timestamp": "2026-02-09T12:37:09.890316",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
-        "total_configs": 60,
-        "valid_configs": 9,
-        "unique_configs": 3,
-        "avg_response_time": 0,
-        "success_count": 0,
+        "total_configs": 30,
+        "valid_configs": 14,
+        "unique_configs": 14,
+        "avg_response_time": 0.4,
+        "success_count": 1,
         "fail_count": 0,
-        "overall_score": 0.0,
-        "last_success": null
+        "overall_score": 86.07,
+        "last_success": "2026-02-09T12:35:59.914801"
       }
     },
     {
@@ -36,11 +36,11 @@
         "total_configs": 20,
         "valid_configs": 20,
         "unique_configs": 12,
-        "avg_response_time": 0.59,
+        "avg_response_time": 0.48,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.12,
-        "last_success": "2026-02-09T11:36:19.124107"
+        "overall_score": 89.28,
+        "last_success": "2026-02-09T12:36:11.637760"
       }
     },
     {
@@ -104,13 +104,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 14,
-        "valid_configs": 14,
-        "unique_configs": 13,
-        "avg_response_time": 0.43,
+        "valid_configs": 9,
+        "unique_configs": 9,
+        "avg_response_time": 0.45,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 97.57,
-        "last_success": "2026-02-09T11:37:06.137470"
+        "overall_score": 90.39,
+        "last_success": "2026-02-09T12:36:58.257309"
       }
     },
     {
@@ -134,11 +134,11 @@
         "total_configs": 17,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.42,
+        "avg_response_time": 0.37,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.42,
-        "last_success": "2026-02-09T11:37:18.045005"
+        "overall_score": 96.5,
+        "last_success": "2026-02-09T12:37:09.888603"
       }
     }
   ]
