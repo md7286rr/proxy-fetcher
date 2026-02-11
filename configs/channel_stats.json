@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-02-11T21:24:02.304485",
+  "timestamp": "2026-02-11T22:18:12.503612",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
         "total_configs": 60,
-        "valid_configs": 9,
-        "unique_configs": 3,
+        "valid_configs": 6,
+        "unique_configs": 2,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -36,11 +36,11 @@
         "total_configs": 35,
         "valid_configs": 35,
         "unique_configs": 7,
-        "avg_response_time": 0.48,
+        "avg_response_time": 0.47,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 79.28,
-        "last_success": "2026-02-11T21:23:03.540212"
+        "overall_score": 79.29,
+        "last_success": "2026-02-11T22:17:15.112651"
       }
     },
     {
@@ -103,21 +103,21 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 16,
+        "total_configs": 18,
         "valid_configs": 13,
         "unique_configs": 13,
-        "avg_response_time": 0.46,
+        "avg_response_time": 0.39,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.63,
-        "last_success": "2026-02-11T21:23:50.481088"
+        "overall_score": 92.46,
+        "last_success": "2026-02-11T22:18:00.911153"
       }
     },
     {
       "url": "https://t.me/s/VlessConfig",
       "enabled": false,
       "metrics": {
-        "total_configs": 48,
+        "total_configs": 54,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -134,11 +134,11 @@
         "total_configs": 16,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.44,
+        "avg_response_time": 0.38,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 97.77,
-        "last_success": "2026-02-11T21:24:02.302671"
+        "overall_score": 97.86,
+        "last_success": "2026-02-11T22:18:12.501891"
       }
     }
   ]
