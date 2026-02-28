@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-02-28T06:21:31.920769",
+  "timestamp": "2026-02-28T07:18:27.528725",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 7,
-        "unique_configs": 7,
-        "avg_response_time": 0.53,
+        "valid_configs": 8,
+        "unique_configs": 8,
+        "avg_response_time": 0.61,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 82.95,
-        "last_success": "2026-02-28T06:20:20.263268"
+        "overall_score": 84.09,
+        "last_success": "2026-02-28T07:17:14.543283"
       }
     },
     {
@@ -36,11 +36,11 @@
         "total_configs": 56,
         "valid_configs": 49,
         "unique_configs": 7,
-        "avg_response_time": 0.59,
+        "avg_response_time": 0.76,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.57,
-        "last_success": "2026-02-28T06:20:32.464257"
+        "overall_score": 74.3,
+        "last_success": "2026-02-28T07:17:27.061836"
       }
     },
     {
@@ -106,11 +106,11 @@
         "total_configs": 18,
         "valid_configs": 12,
         "unique_configs": 12,
-        "avg_response_time": 0.47,
+        "avg_response_time": 0.57,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 90.97,
-        "last_success": "2026-02-28T06:21:19.869680"
+        "overall_score": 90.81,
+        "last_success": "2026-02-28T07:18:15.221916"
       }
     },
     {
@@ -131,14 +131,14 @@
       "url": "https://t.me/s/freewireguard",
       "enabled": true,
       "metrics": {
-        "total_configs": 16,
+        "total_configs": 15,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.49,
+        "avg_response_time": 0.55,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 97.71,
-        "last_success": "2026-02-28T06:21:31.918964"
+        "overall_score": 99.18,
+        "last_success": "2026-02-28T07:18:27.527151"
       }
     }
   ]
