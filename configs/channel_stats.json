@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-04-16T11:48:10.966472",
+  "timestamp": "2026-04-16T12:57:46.544658",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 15,
-        "unique_configs": 15,
-        "avg_response_time": 0.47,
+        "valid_configs": 17,
+        "unique_configs": 17,
+        "avg_response_time": 0.64,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.04,
-        "last_success": "2026-04-16T11:46:50.882720"
+        "overall_score": 95.29,
+        "last_success": "2026-04-16T12:56:22.487943"
       }
     },
     {
@@ -61,9 +61,9 @@
       "url": "https://t.me/s/v2rayngvpn",
       "enabled": true,
       "metrics": {
-        "total_configs": 114,
-        "valid_configs": 7,
-        "unique_configs": 3,
+        "total_configs": 90,
+        "valid_configs": 3,
+        "unique_configs": 1,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -106,11 +106,11 @@
         "total_configs": 20,
         "valid_configs": 12,
         "unique_configs": 12,
-        "avg_response_time": 0.35,
+        "avg_response_time": 0.54,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.48,
-        "last_success": "2026-04-16T11:47:59.402472"
+        "overall_score": 89.19,
+        "last_success": "2026-04-16T12:57:34.320378"
       }
     },
     {
@@ -134,11 +134,11 @@
         "total_configs": 19,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.36,
+        "avg_response_time": 0.53,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.2,
-        "last_success": "2026-04-16T11:48:10.964572"
+        "overall_score": 93.94,
+        "last_success": "2026-04-16T12:57:46.542782"
       }
     }
   ]
