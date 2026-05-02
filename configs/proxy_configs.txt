@@ -40,23 +40,23 @@ vless://26524cce-d514-4014-a426-365fb266a14d@104.20.6.134:443?path=%2Fdanfeng&se
 
 vless://274cf473-d353-4564-8ca9-d6256a656e3f@185.143.233.5:443?encryption=none&security=tls&sni=alaedin4.8lack.ir&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=alaedin4.8lack.ir&path=%2F%40alaedin%3Fed%3D128#filembad-100 Need a premium VPN config? Try @failvpn_bot
 
-vless://4b0d64d9-9451-4bcc-a833-4239aac0cfe4@snapp.ir:8080?path=%2F&security=none&encryption=none&host=cdc.ashtona.ir&type=ws#filembad-153 Need a premium VPN config? Try @failvpn_bot
-
 vless://6b279ab4-10e8-4e66-fb5d-9092c6709a1e@proxy.rahmancloud.ir:8443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=proxy.rahmancloud.ir#canfingV2rayNG-174 Need a premium VPN config? Try @failvpn_bot
 
 vless://6b75ab8b-@NetStux@snapp.ir:80?path=/graphql?ed=2560&security=none&encryption=none&host=cpanel2.limitless-cloud.ir&type=ws#filembad-184 Need a premium VPN config? Try @failvpn_bot
 
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=&encryption=none&host=bmw.com&headerType=http&type=tcp#canfingV2rayNG-185 Need a premium VPN config? Try @failvpn_bot
 
+vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=&encryption=none&type=ws#canfingV2rayNG-194 Need a premium VPN config? Try @failvpn_bot
+
 vless://907ccc0f-bd56-4726-a877-d72a02125b6c@3.71.109.4:443?security=&encryption=none&headerType=&type=tcp#canfingV2rayNG-230 Need a premium VPN config? Try @failvpn_bot
 
 vless://b8799fac-622a-4142-aab2-2aa862ad35f2@185.143.234.235:80?path=%2F&security=&encryption=none&host=vixon.portab.org&type=ws#NetMeli9-277 Need a premium VPN config? Try @failvpn_bot
 
-vless://c20adfae-5ae8-4e8b-d34f-d6b425b7e665@3.69.238.71:443?security=&encryption=none&headerType=&type=tcp#canfingV2rayNG-294 Need a premium VPN config? Try @failvpn_bot
-
 vless://c550726c-d21d-4100-9763-b75c8871f441@185.143.233.5:443?encryption=none&type=ws&security=tls&path=%2F%40alaedin%3Fed%3D128&host=alaedin1.8lack.ir&sni=alaedin1.8lack.ir&alpn=h2%2Chttp%2F1.1&fp=firefox&allowInsecure=0#filembad-293 Need a premium VPN config? Try @failvpn_bot
 
 vless://ee54eafc-78bc-4b02-af01-041fb38cf360@185.143.233.5:443?path=%2F%40alaedin%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=alaedin9.8lack.ir&fp=firefox&type=ws&sni=alaedin9.8lack.ir#filembad-344 Need a premium VPN config? Try @failvpn_bot
+
+vless://f189684b-6213-4c0d-a2e3-cb8860f5d4c5@94.228.219.46:443?security=reality&encryption=none&pbk=9WnuH4KUb9-cCqbApq4bVLDhrqhPbpnd5eTn14bGciA&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=27e540#filembad-342 Need a premium VPN config? Try @failvpn_bot
 
 wireguard://%2BKN4WWnVm6bZRiWcIgETzzJ2zhOmnN2h6uHbDM48jWY%3D@162.159.192.6:2408?address=172.16.0.2%2F32&reserved=210%2C100%2C190&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-04-30 18:04
 
