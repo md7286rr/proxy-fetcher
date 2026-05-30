@@ -6,11 +6,15 @@ trojan://Mitivpn@104.17.121.8:443?path=%2F%3Fed%3Dmitivpn&security=tls&alpn=h2%2
 
 trojan://Mitivpn@45.130.125.76:2053?path=%2F&security=tls&alpn=http%2F1.1&host=dash.hitgram.ir&fp=chrome&type=ws&sni=dash.hitgram.ir#%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%3A%20%40v2rayvpno===============================اگر متصل نشدی ؛ سنجاق رو چک کن اینترنت آزاد و بدون فیلترینگ حق هم مردما @Vpn_3vpn :ادمین فروش
 
+trojan://humanity@2.144.4.208:40443?type=ws&security=tls&path=%2Fassignment&host=www.creationlong.org&sni=www.creationlong.org&allowInsecure=1#NormanV2ray-24 Need a premium VPN config? Try @failvpn_bot
+
 trojan://humanity@216.24.57.7:443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#%D8%B3%D8%B1%D9%88%D8%B1%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%3A%40v2rayvpno===============================اگر متصل نشدی ؛ سنجاق رو چک کن اینترنت آزاد و بدون فیلترینگ حق هم مردما @Vpn_3vpn :ادمین فروش
 
 trojan://humanity@45.130.125.69:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%D8%B3%D8%B1%D9%88%D8%B1%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%3A%40v2rayvpno===============================اگر متصل نشدی ؛ سنجاق رو چک کن اینترنت آزاد و بدون فیلترینگ حق هم مردما @Vpn_3vpn :ادمین فروش
 
-trojan://mitivpn@208.103.161.33:443?path=%2F&security=tls&insecure=1&host=ir-sub.ir&fp=chrome&type=ws&allowInsecure=1&sni=ir-sub.ir#Anon7
+trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#canfingV2rayNG-29 Need a premium VPN config? Try @failvpn_bot
+
+trojan://mitivpn@208.103.161.33:443?path=%2F&security=tls&insecure=1&host=ir-sub.ir&fp=chrome&type=ws&allowInsecure=1&sni=ir-sub.ir#Anon9
 
 trojan://mitivpn@208.103.161.33:443?path=%2F&security=tls&insecure=1&host=ir-sub.ir&fp=chrome&type=ws&allowInsecure=1&sni=ir-sub.ir#%40vpnbaz%20%F0%9F%8F%B4
 
@@ -18,13 +22,9 @@ trojan://mitivpn@208.103.161.33:443?type=ws&security=tls&path=%2F&host=ir-sub.ir
 
 trojan://mitivpn@216.24.57.6:443?type=ws&security=tls&path=%2F&host=www.ir-sub.ir&sni=www.ir-sub.ir&fp=chrome&allowInsecure=1#@meliproxyy
 
-trojan://rXyShM8Jni%2B5Sbq3k4gkyr5Lq0zOMRL2Uf@45.79.8.17:443?security=tls&insecure=1&headerType=&fp=chrome&type=tcp&allowInsecure=1&sni=45.79.8.17#filembad-32 Need a premium VPN config? Try @failvpn_bot
-
 trojan://telegram-id-privatevpns@15.188.222.65:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@15.224.25.236:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
-trojan://telegram-id-privatevpns@3.78.211.9:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@63.179.214.248:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
@@ -38,15 +38,15 @@ vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@162.159.38.183:2083?mode=stream-one
 
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.255:80?path=%2F&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#Anon20
 
-vless://56dbbf7c-ac36-45b9-9873-dff978ccb7b2@45.76.32.242:35541?security=&encryption=none&headerType=none&type=tcp#NetMeli9-117 Need a premium VPN config? Try @failvpn_bot
+vless://908a33c1-54b1-48c4-ab64-f46e4590c229@ger1bot-ws.headerip.com:80?path=%2F&security=none&encryption=none&host=ger1.mv5.ir&type=ws#Config_magazine-128 Need a premium VPN config? Try @failvpn_bot
 
-vless://5911799c-f60d-4dfa-9c5f-05b97135bd75@85.133.215.200:7070?encryption=none&security=none&type=ws&path=%2F#NetMeli9-119 Need a premium VPN config? Try @failvpn_bot
+vless://9ca41eeb-4b30-4271-a123-22021b1230d0@104.17.121.71:443?mode=auto&path=%2FTelegram-Zedmodeon&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=mano.tll-far.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=mano.tll-far.ir#filembad-131 Need a premium VPN config? Try @failvpn_bot
 
-vless://59d727ec-03b4-4cd7-b9ab-667a659ef87d@snappfood.ir:2086?encryption=none&type=ws&path=%2F&host=melli.santelacu.ir#NormanV2ray-120 Need a premium VPN config? Try @failvpn_bot
-
-vless://8d22f06b-32af-472a-b4ef-133e5ddf7477@snapp.ir:8080?encryption=none&type=ws&path=%2F&host=penhoon-ref.morvaridvps.ir#NormanV2ray-145 Need a premium VPN config? Try @failvpn_bot
+vless://InternetAzadRobot-AliKiller@151.101.193.57:80?type=xhttp&security=none&path=%2F&host=InternetAzadRobot55yy182.global.ssl.fastly.net&mode=auto#filembad-141 Need a premium VPN config? Try @failvpn_bot
 
 vless://TOFAN-TRADE@151.101.193.57:80?type=xhttp&security=none&path=%2F&host=InternetAzadRobot19to502.global.ssl.fastly.net&mode=auto#filembad-176 Need a premium VPN config? Try @failvpn_bot
+
+vless://TOFAN-TRADE@151.101.67.57:80?type=xhttp&security=none&path=%2F&host=InternetAzadRobot19to502.global.ssl.fastly.net&mode=auto#filembad-183 Need a premium VPN config? Try @failvpn_bot
 
 vless://a220c80d-8f44-4216-8193-369c7a7b359c@api2.onlinernet.ir:2095?security=none&type=httpupgrade&headerType=&path=%2F%3Fed%3D2048&host=XN--DeSpeedTest.Net.OnlinerNet.IR.#filembad-180 Need a premium VPN config? Try @failvpn_bot
 
