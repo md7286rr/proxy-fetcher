@@ -1,4 +1,6 @@
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#v2ray_configs_pool-23 Need a premium VPN config? Try @failvpn_bot
+vless://0fc3eba4-2774-4c99-cfc7-c38b007908b0@43.174.247.53:443?path=%2F55072%2Fapi&security=tls&encryption=none&insecure=0&host=aron.irandoc.info&fp=chrome&type=ws&allowInsecure=0&sni=sni.irandoc.info#canfingV2rayNG-58 Need a premium VPN config? Try @failvpn_bot
+
+vless://1972d7cb-00d8-423e-91db-62f01b2289a6@91.98.202.214:1373?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#canfingV2rayNG-77 Need a premium VPN config? Try @failvpn_bot
 
 vless://1972d7cb-00d8-423e-91db-62f01b2289a6@91.98.202.214:1373?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#canfingV2rayNG-80 Need a premium VPN config? Try @failvpn_bot
 
@@ -6,17 +8,17 @@ vless://1f61ccc1-cd38-49cd-97aa-a71771433976@hikvision-plus.com:2052?path=api-v1
 
 vless://31ad4c74-a799-44a6-a12f-d10a9bf71a35@91.107.182.113:40350?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.aws.amazon.com&fp=chrome&pbk=UCFIu-dqHl7OT7XitERtAcjXlUSc_aXvcDRg2KgrPn8&sid=d0&spx=%2F3e401cc35422d65&type=tcp&headerType=none#filembad-129 Need a premium VPN config? Try @failvpn_bot
 
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=%2Fde&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=de.xn--q9jyb4c.online@oliver soul#canfingV2rayNG-146 Need a premium VPN config? Try @failvpn_bot
+
 vless://7faaf62a-40c4-f72c-f227-0b239248f087@ca.sannest.ir:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=yahoo.com&fp=firefox&pbk=DJ9B-OWkR4FwRvEfHpdAKqEasnRdVcZHoAaMueWEGWA&sid=bd&spx=%2F&allowinsecure=0&type=tcp&headerType=none#ProxyMtpVPN-237 Need a premium VPN config? Try @failvpn_bot
 
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@main.oneoker.com:443?encryption=none&type=grpc&security=reality&sni=main.oneoker.com&pbk=yiX2T6z3GavNIgnnxsoU57vgq2pdfngXAU83vhBDQlA&sid=a9b0c08836bad3c5&fp=chrome&serviceName=api.v1.StreamService#filembad-286 Need a premium VPN config? Try @failvpn_bot
 
-vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@main.oneoker.com:443?mode=gun&security=reality&encryption=none&pbk=yiX2T6z3GavNIgnnxsoU57vgq2pdfngXAU83vhBDQlA&fp=chrome&type=grpc&serviceName=api.v1.StreamService&sni=main.oneoker.com&sid=a9b0c08836bad3c5#filembad-275 Need a premium VPN config? Try @failvpn_bot
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@94.242.55.42:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#canfingV2rayNG-318 Need a premium VPN config? Try @failvpn_bot
+
+vless://96d8d5eb-3ca0-463c-8ef2-88abba66c3a2@185.126.202.181:8443?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2F&pbk=GNt484kp0hsZqEEv6t7ki9ESLzLfkAF3lfv1aOBpxwU&security=reality&sid=d7f7bc398f59b7&sni=www.intel.com&spx=%2FVuJJFj1eMR7u7rX&type=xhttp&x_padding_bytes=100-1000#filembad-324 Need a premium VPN config? Try @failvpn_bot
 
 vless://9ce7ac33-5004-40ea-8236-15bc2d25a37c@198.41.208.42:443?path=%2FV2ngFast--V2ngFast--V2ngFast--V2ngFast--V2ngFast--V2ngFast--V2ngFast&security=tls&encryption=none&host=calm-base-e99e.pofokjimi.workers.dev&fp=chrome&type=ws&sni=calm-base-e99e.pofokjimi.workers.dev#canfingV2rayNG-326 Need a premium VPN config? Try @failvpn_bot
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.176.9:22223?security=&encryption=none&headerType=&type=tcp#filembad-419 Need a premium VPN config? Try @failvpn_bot
-
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.225.133:2090?security=none&type=tcp&host=%2F%3F&headerType=http#filembad-436 Need a premium VPN config? Try @failvpn_bot
 
 vless://ff3e10a8-2a5c-4792-a14e-20fd11b1bed9@31.56.146.93:8443?security=reality&encryption=none&pbk=8i-67NPZNxTU8dgnF5yKYpijyu4GbQsDOdZSHQjsLGQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com#filembad-494 Need a premium VPN config? Try @failvpn_bot
 
