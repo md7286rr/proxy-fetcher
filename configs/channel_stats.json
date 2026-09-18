@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-09-18T18:41:09.326668",
+  "timestamp": "2026-09-18T21:19:05.260253",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
         "total_configs": 19,
-        "valid_configs": 13,
-        "unique_configs": 13,
-        "avg_response_time": 0.47,
+        "valid_configs": 16,
+        "unique_configs": 16,
+        "avg_response_time": 0.4,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.4,
-        "last_success": "2026-09-18T18:39:47.356842"
+        "overall_score": 95.46,
+        "last_success": "2026-09-18T21:17:43.712392"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 16,
         "valid_configs": 12,
         "unique_configs": 6,
-        "avg_response_time": 0.49,
+        "avg_response_time": 0.46,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 80.52,
-        "last_success": "2026-09-18T18:40:11.000725"
+        "overall_score": 80.56,
+        "last_success": "2026-09-18T21:18:07.192121"
       }
     },
     {
@@ -103,7 +103,7 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": false,
       "metrics": {
-        "total_configs": 48,
+        "total_configs": 42,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -117,7 +117,7 @@
       "url": "https://t.me/s/VlessConfig",
       "enabled": false,
       "metrics": {
-        "total_configs": 48,
+        "total_configs": 42,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -134,11 +134,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.43,
+        "avg_response_time": 0.53,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.18,
-        "last_success": "2026-09-18T18:41:09.324909"
+        "overall_score": 95.04,
+        "last_success": "2026-09-18T21:19:05.258984"
       }
     }
   ]
